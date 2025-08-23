@@ -1,0 +1,5417 @@
+[
+  {
+    "userId": 1,
+    "orderAmount": 394,
+    "orderDate": "2024-12-03",
+    "items": [
+      {
+        "name": "Nintendo Switch",
+        "qty": 1
+      },
+      {
+        "name": "Tile Mate",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "userId": 2,
+    "orderAmount": 291,
+    "orderDate": "2024-12-26",
+    "items": [
+      {
+        "name": "Google Nest Hub",
+        "qty": 3
+      },
+      {
+        "name": "Logitech MX Master 3",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "userId": 2,
+    "orderAmount": 452,
+    "orderDate": "2024-11-11",
+    "items": [
+      {
+        "name": "PlayStation 5",
+        "qty": 3
+      },
+      {
+        "name": "Kindle Paperwhite",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "userId": 2,
+    "orderAmount": 465,
+    "orderDate": "2025-04-08",
+    "items": [
+      {
+        "name": "TP-Link Archer AX50",
+        "qty": 3
+      },
+      {
+        "name": "Samsung Galaxy S23",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "userId": 2,
+    "orderAmount": 448,
+    "orderDate": "2024-09-13",
+    "items": [
+      {
+        "name": "TP-Link Archer AX50",
+        "qty": 1
+      },
+      {
+        "name": "MacBook Pro",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "userId": 2,
+    "orderAmount": 260,
+    "orderDate": "2024-12-08",
+    "items": [
+      {
+        "name": "Kindle Paperwhite",
+        "qty": 3
+      },
+      {
+        "name": "Anker PowerCore",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "userId": 3,
+    "orderAmount": 567,
+    "orderDate": "2025-02-03",
+    "items": [
+      {
+        "name": "GoPro Hero 11",
+        "qty": 3
+      },
+      {
+        "name": "Sony WH-1000XM5",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "userId": 3,
+    "orderAmount": 179,
+    "orderDate": "2025-05-01",
+    "items": [
+      {
+        "name": "PlayStation 5",
+        "qty": 2
+      },
+      {
+        "name": "JBL Flip 6",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "userId": 3,
+    "orderAmount": 239,
+    "orderDate": "2025-01-02",
+    "items": [
+      {
+        "name": "Netgear Nighthawk AX12",
+        "qty": 3
+      },
+      {
+        "name": "DJI Mini 3 Pro",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "userId": 3,
+    "orderAmount": 529,
+    "orderDate": "2024-12-12",
+    "items": [
+      {
+        "name": "MacBook Pro",
+        "qty": 2
+      },
+      {
+        "name": "Canon EOS R6",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "userId": 3,
+    "orderAmount": 167,
+    "orderDate": "2024-05-04",
+    "items": [
+      {
+        "name": "WD My Passport",
+        "qty": 1
+      },
+      {
+        "name": "Tile Mate",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "userId": 4,
+    "orderAmount": 453,
+    "orderDate": "2025-02-08",
+    "items": [
+      {
+        "name": "Apple Watch Series 9",
+        "qty": 2
+      },
+      {
+        "name": "Canon EOS R6",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "userId": 4,
+    "orderAmount": 191,
+    "orderDate": "2024-11-17",
+    "items": [
+      {
+        "name": "Logitech MX Master 3",
+        "qty": 1
+      },
+      {
+        "name": "Razer DeathAdder V2",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "userId": 5,
+    "orderAmount": 187,
+    "orderDate": "2025-02-16",
+    "items": [
+      {
+        "name": "Razer DeathAdder V2",
+        "qty": 3
+      },
+      {
+        "name": "Kindle Paperwhite",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "userId": 5,
+    "orderAmount": 145,
+    "orderDate": "2024-10-24",
+    "items": [
+      {
+        "name": "Canon EOS R6",
+        "qty": 2
+      },
+      {
+        "name": "Samsung Galaxy S23",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "userId": 5,
+    "orderAmount": 471,
+    "orderDate": "2024-11-14",
+    "items": [
+      {
+        "name": "WD My Passport",
+        "qty": 1
+      },
+      {
+        "name": "Amazon Echo Dot",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "userId": 5,
+    "orderAmount": 268,
+    "orderDate": "2024-10-14",
+    "items": [
+      {
+        "name": "DJI Mini 3 Pro",
+        "qty": 2
+      },
+      {
+        "name": "Razer DeathAdder V2",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "userId": 6,
+    "orderAmount": 158,
+    "orderDate": "2024-10-20",
+    "items": [
+      {
+        "name": "Samsung SSD 980",
+        "qty": 1
+      },
+      {
+        "name": "iPhone 14",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "userId": 6,
+    "orderAmount": 394,
+    "orderDate": "2024-05-17",
+    "items": [
+      {
+        "name": "PlayStation 5",
+        "qty": 2
+      },
+      {
+        "name": "Bose QuietComfort Earbuds",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "userId": 6,
+    "orderAmount": 591,
+    "orderDate": "2024-10-17",
+    "items": [
+      {
+        "name": "Canon EOS R6",
+        "qty": 2
+      },
+      {
+        "name": "Samsung SSD 980",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "userId": 7,
+    "orderAmount": 495,
+    "orderDate": "2024-08-15",
+    "items": [
+      {
+        "name": "iPhone 14",
+        "qty": 3
+      },
+      {
+        "name": "Nintendo Switch",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "userId": 7,
+    "orderAmount": 161,
+    "orderDate": "2024-12-24",
+    "items": [
+      {
+        "name": "MacBook Pro",
+        "qty": 1
+      },
+      {
+        "name": "Anker PowerCore",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "userId": 8,
+    "orderAmount": 470,
+    "orderDate": "2024-09-05",
+    "items": [
+      {
+        "name": "Razer DeathAdder V2",
+        "qty": 3
+      },
+      {
+        "name": "GoPro Hero 11",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "userId": 9,
+    "orderAmount": 216,
+    "orderDate": "2024-08-25",
+    "items": [
+      {
+        "name": "iPhone 14",
+        "qty": 3
+      },
+      {
+        "name": "Logitech MX Master 3",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "userId": 9,
+    "orderAmount": 581,
+    "orderDate": "2025-01-18",
+    "items": [
+      {
+        "name": "Google Nest Hub",
+        "qty": 1
+      },
+      {
+        "name": "GoPro Hero 11",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "userId": 9,
+    "orderAmount": 367,
+    "orderDate": "2024-10-29",
+    "items": [
+      {
+        "name": "Fitbit Charge 5",
+        "qty": 1
+      },
+      {
+        "name": "Apple Watch Series 9",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "userId": 9,
+    "orderAmount": 292,
+    "orderDate": "2024-12-15",
+    "items": [
+      {
+        "name": "Nikon Z6 II",
+        "qty": 1
+      },
+      {
+        "name": "Razer DeathAdder V2",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "userId": 10,
+    "orderAmount": 255,
+    "orderDate": "2024-10-30",
+    "items": [
+      {
+        "name": "GoPro Hero 11",
+        "qty": 1
+      },
+      {
+        "name": "WD My Passport",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "userId": 10,
+    "orderAmount": 254,
+    "orderDate": "2024-10-05",
+    "items": [
+      {
+        "name": "Nikon Z6 II",
+        "qty": 3
+      },
+      {
+        "name": "DJI Mini 3 Pro",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "userId": 11,
+    "orderAmount": 420,
+    "orderDate": "2024-06-26",
+    "items": [
+      {
+        "name": "Canon EOS R6",
+        "qty": 1
+      },
+      {
+        "name": "WD My Passport",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "userId": 12,
+    "orderAmount": 322,
+    "orderDate": "2024-12-20",
+    "items": [
+      {
+        "name": "MacBook Pro",
+        "qty": 2
+      },
+      {
+        "name": "HP Envy 13",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "userId": 12,
+    "orderAmount": 269,
+    "orderDate": "2025-03-14",
+    "items": [
+      {
+        "name": "Razer DeathAdder V2",
+        "qty": 1
+      },
+      {
+        "name": "GoPro Hero 11",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "userId": 12,
+    "orderAmount": 591,
+    "orderDate": "2024-08-25",
+    "items": [
+      {
+        "name": "Dell XPS 15",
+        "qty": 2
+      },
+      {
+        "name": "Kindle Paperwhite",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "userId": 13,
+    "orderAmount": 328,
+    "orderDate": "2024-06-10",
+    "items": [
+      {
+        "name": "Netgear Nighthawk AX12",
+        "qty": 2
+      },
+      {
+        "name": "GoPro Hero 11",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "userId": 13,
+    "orderAmount": 321,
+    "orderDate": "2024-12-06",
+    "items": [
+      {
+        "name": "Fitbit Charge 5",
+        "qty": 2
+      },
+      {
+        "name": "Google Nest Hub",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "userId": 13,
+    "orderAmount": 513,
+    "orderDate": "2025-04-02",
+    "items": [
+      {
+        "name": "Sony WH-1000XM5",
+        "qty": 2
+      },
+      {
+        "name": "Samsung Galaxy S23",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "userId": 13,
+    "orderAmount": 440,
+    "orderDate": "2025-04-29",
+    "items": [
+      {
+        "name": "Canon EOS R6",
+        "qty": 1
+      },
+      {
+        "name": "Lenovo ThinkPad X1",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "userId": 14,
+    "orderAmount": 381,
+    "orderDate": "2025-01-06",
+    "items": [
+      {
+        "name": "Apple Watch Series 9",
+        "qty": 1
+      },
+      {
+        "name": "Xbox Series X",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "userId": 14,
+    "orderAmount": 564,
+    "orderDate": "2025-02-10",
+    "items": [
+      {
+        "name": "Logitech MX Master 3",
+        "qty": 2
+      },
+      {
+        "name": "Xbox Series X",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "userId": 14,
+    "orderAmount": 117,
+    "orderDate": "2024-11-15",
+    "items": [
+      {
+        "name": "Nintendo Switch",
+        "qty": 2
+      },
+      {
+        "name": "Anker PowerCore",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "userId": 14,
+    "orderAmount": 463,
+    "orderDate": "2025-01-26",
+    "items": [
+      {
+        "name": "Samsung Galaxy S23",
+        "qty": 1
+      },
+      {
+        "name": "DJI Mini 3 Pro",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "userId": 15,
+    "orderAmount": 571,
+    "orderDate": "2024-09-08",
+    "items": [
+      {
+        "name": "JBL Flip 6",
+        "qty": 2
+      },
+      {
+        "name": "Amazon Echo Dot",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "userId": 15,
+    "orderAmount": 310,
+    "orderDate": "2024-08-07",
+    "items": [
+      {
+        "name": "Xbox Series X",
+        "qty": 3
+      },
+      {
+        "name": "GoPro Hero 11",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "userId": 15,
+    "orderAmount": 282,
+    "orderDate": "2024-12-23",
+    "items": [
+      {
+        "name": "Xbox Series X",
+        "qty": 1
+      },
+      {
+        "name": "Nikon Z6 II",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "userId": 15,
+    "orderAmount": 525,
+    "orderDate": "2024-12-14",
+    "items": [
+      {
+        "name": "Apple Watch Series 9",
+        "qty": 2
+      },
+      {
+        "name": "DJI Mini 3 Pro",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "userId": 15,
+    "orderAmount": 163,
+    "orderDate": "2024-08-03",
+    "items": [
+      {
+        "name": "JBL Flip 6",
+        "qty": 3
+      },
+      {
+        "name": "MacBook Pro",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "userId": 16,
+    "orderAmount": 212,
+    "orderDate": "2025-03-30",
+    "items": [
+      {
+        "name": "Nintendo Switch",
+        "qty": 3
+      },
+      {
+        "name": "Fitbit Charge 5",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "userId": 16,
+    "orderAmount": 309,
+    "orderDate": "2024-05-02",
+    "items": [
+      {
+        "name": "Samsung Galaxy S23",
+        "qty": 2
+      },
+      {
+        "name": "Dell XPS 15",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "userId": 17,
+    "orderAmount": 565,
+    "orderDate": "2025-04-26",
+    "items": [
+      {
+        "name": "iPhone 14",
+        "qty": 2
+      },
+      {
+        "name": "Samsung SSD 980",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "userId": 18,
+    "orderAmount": 371,
+    "orderDate": "2024-09-10",
+    "items": [
+      {
+        "name": "Xbox Series X",
+        "qty": 1
+      },
+      {
+        "name": "Google Nest Hub",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "userId": 18,
+    "orderAmount": 456,
+    "orderDate": "2025-03-11",
+    "items": [
+      {
+        "name": "Netgear Nighthawk AX12",
+        "qty": 1
+      },
+      {
+        "name": "Kindle Paperwhite",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "userId": 18,
+    "orderAmount": 507,
+    "orderDate": "2024-07-15",
+    "items": [
+      {
+        "name": "Anker PowerCore",
+        "qty": 2
+      },
+      {
+        "name": "GoPro Hero 11",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "userId": 18,
+    "orderAmount": 329,
+    "orderDate": "2025-03-12",
+    "items": [
+      {
+        "name": "HP Envy 13",
+        "qty": 2
+      },
+      {
+        "name": "Google Nest Hub",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "userId": 19,
+    "orderAmount": 215,
+    "orderDate": "2024-10-28",
+    "items": [
+      {
+        "name": "Logitech MX Master 3",
+        "qty": 3
+      },
+      {
+        "name": "JBL Flip 6",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "userId": 19,
+    "orderAmount": 337,
+    "orderDate": "2025-02-26",
+    "items": [
+      {
+        "name": "GoPro Hero 11",
+        "qty": 1
+      },
+      {
+        "name": "Bose QuietComfort Earbuds",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "userId": 20,
+    "orderAmount": 505,
+    "orderDate": "2024-09-08",
+    "items": [
+      {
+        "name": "JBL Flip 6",
+        "qty": 2
+      },
+      {
+        "name": "DJI Mini 3 Pro",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "userId": 20,
+    "orderAmount": 501,
+    "orderDate": "2024-12-23",
+    "items": [
+      {
+        "name": "Razer DeathAdder V2",
+        "qty": 2
+      },
+      {
+        "name": "Eero Pro 6",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "userId": 20,
+    "orderAmount": 328,
+    "orderDate": "2025-03-11",
+    "items": [
+      {
+        "name": "Kindle Paperwhite",
+        "qty": 3
+      },
+      {
+        "name": "Samsung SSD 980",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "userId": 20,
+    "orderAmount": 421,
+    "orderDate": "2024-10-06",
+    "items": [
+      {
+        "name": "JBL Flip 6",
+        "qty": 3
+      },
+      {
+        "name": "PlayStation 5",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "userId": 20,
+    "orderAmount": 205,
+    "orderDate": "2024-06-20",
+    "items": [
+      {
+        "name": "Nintendo Switch",
+        "qty": 2
+      },
+      {
+        "name": "JBL Flip 6",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "userId": 21,
+    "orderAmount": 562,
+    "orderDate": "2025-02-20",
+    "items": [
+      {
+        "name": "MacBook Pro",
+        "qty": 2
+      },
+      {
+        "name": "Netgear Nighthawk AX12",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "userId": 21,
+    "orderAmount": 116,
+    "orderDate": "2024-07-21",
+    "items": [
+      {
+        "name": "Samsung SSD 980",
+        "qty": 1
+      },
+      {
+        "name": "Razer DeathAdder V2",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "userId": 21,
+    "orderAmount": 242,
+    "orderDate": "2024-12-28",
+    "items": [
+      {
+        "name": "MacBook Pro",
+        "qty": 3
+      },
+      {
+        "name": "DJI Mini 3 Pro",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "userId": 21,
+    "orderAmount": 146,
+    "orderDate": "2024-05-28",
+    "items": [
+      {
+        "name": "Logitech MX Master 3",
+        "qty": 3
+      },
+      {
+        "name": "Samsung Galaxy S23",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "userId": 22,
+    "orderAmount": 220,
+    "orderDate": "2024-12-26",
+    "items": [
+      {
+        "name": "Razer DeathAdder V2",
+        "qty": 2
+      },
+      {
+        "name": "Kindle Paperwhite",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "userId": 22,
+    "orderAmount": 517,
+    "orderDate": "2024-07-08",
+    "items": [
+      {
+        "name": "Xbox Series X",
+        "qty": 2
+      },
+      {
+        "name": "Fitbit Charge 5",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "userId": 22,
+    "orderAmount": 581,
+    "orderDate": "2024-12-21",
+    "items": [
+      {
+        "name": "Samsung SSD 980",
+        "qty": 2
+      },
+      {
+        "name": "Logitech MX Master 3",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "userId": 23,
+    "orderAmount": 514,
+    "orderDate": "2024-06-03",
+    "items": [
+      {
+        "name": "iPhone 14",
+        "qty": 3
+      },
+      {
+        "name": "Canon EOS R6",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "userId": 23,
+    "orderAmount": 102,
+    "orderDate": "2024-06-29",
+    "items": [
+      {
+        "name": "Sony WH-1000XM5",
+        "qty": 3
+      },
+      {
+        "name": "Xbox Series X",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "userId": 23,
+    "orderAmount": 148,
+    "orderDate": "2024-05-13",
+    "items": [
+      {
+        "name": "Eero Pro 6",
+        "qty": 1
+      },
+      {
+        "name": "Sony WH-1000XM5",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "userId": 24,
+    "orderAmount": 107,
+    "orderDate": "2025-01-14",
+    "items": [
+      {
+        "name": "Tile Mate",
+        "qty": 3
+      },
+      {
+        "name": "TP-Link Archer AX50",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "userId": 24,
+    "orderAmount": 454,
+    "orderDate": "2024-10-30",
+    "items": [
+      {
+        "name": "TP-Link Archer AX50",
+        "qty": 1
+      },
+      {
+        "name": "DJI Mini 3 Pro",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "userId": 24,
+    "orderAmount": 410,
+    "orderDate": "2024-05-30",
+    "items": [
+      {
+        "name": "Bose QuietComfort Earbuds",
+        "qty": 3
+      },
+      {
+        "name": "Canon EOS R6",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "userId": 24,
+    "orderAmount": 440,
+    "orderDate": "2024-10-14",
+    "items": [
+      {
+        "name": "Amazon Echo Dot",
+        "qty": 2
+      },
+      {
+        "name": "Eero Pro 6",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "userId": 25,
+    "orderAmount": 408,
+    "orderDate": "2024-06-15",
+    "items": [
+      {
+        "name": "Fitbit Charge 5",
+        "qty": 3
+      },
+      {
+        "name": "DJI Mini 3 Pro",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "userId": 25,
+    "orderAmount": 351,
+    "orderDate": "2025-03-04",
+    "items": [
+      {
+        "name": "Canon EOS R6",
+        "qty": 3
+      },
+      {
+        "name": "Netgear Nighthawk AX12",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "userId": 25,
+    "orderAmount": 348,
+    "orderDate": "2024-06-30",
+    "items": [
+      {
+        "name": "Amazon Echo Dot",
+        "qty": 2
+      },
+      {
+        "name": "iPhone 14",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "userId": 25,
+    "orderAmount": 243,
+    "orderDate": "2024-07-21",
+    "items": [
+      {
+        "name": "Fitbit Charge 5",
+        "qty": 1
+      },
+      {
+        "name": "DJI Mini 3 Pro",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "userId": 25,
+    "orderAmount": 497,
+    "orderDate": "2025-02-15",
+    "items": [
+      {
+        "name": "Logitech MX Master 3",
+        "qty": 1
+      },
+      {
+        "name": "JBL Flip 6",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "userId": 26,
+    "orderAmount": 202,
+    "orderDate": "2025-01-09",
+    "items": [
+      {
+        "name": "Razer DeathAdder V2",
+        "qty": 3
+      },
+      {
+        "name": "Anker PowerCore",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "userId": 26,
+    "orderAmount": 503,
+    "orderDate": "2025-03-25",
+    "items": [
+      {
+        "name": "Netgear Nighthawk AX12",
+        "qty": 2
+      },
+      {
+        "name": "Eero Pro 6",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "userId": 26,
+    "orderAmount": 437,
+    "orderDate": "2025-02-04",
+    "items": [
+      {
+        "name": "Logitech MX Master 3",
+        "qty": 1
+      },
+      {
+        "name": "Bose QuietComfort Earbuds",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "userId": 27,
+    "orderAmount": 107,
+    "orderDate": "2024-12-11",
+    "items": [
+      {
+        "name": "Samsung Galaxy S23",
+        "qty": 1
+      },
+      {
+        "name": "Dell XPS 15",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "userId": 27,
+    "orderAmount": 320,
+    "orderDate": "2025-04-08",
+    "items": [
+      {
+        "name": "Razer DeathAdder V2",
+        "qty": 3
+      },
+      {
+        "name": "WD My Passport",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "userId": 27,
+    "orderAmount": 592,
+    "orderDate": "2024-07-10",
+    "items": [
+      {
+        "name": "Apple Watch Series 9",
+        "qty": 3
+      },
+      {
+        "name": "Canon EOS R6",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "userId": 28,
+    "orderAmount": 251,
+    "orderDate": "2024-09-20",
+    "items": [
+      {
+        "name": "Logitech MX Master 3",
+        "qty": 2
+      },
+      {
+        "name": "Fitbit Charge 5",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "userId": 28,
+    "orderAmount": 359,
+    "orderDate": "2024-07-28",
+    "items": [
+      {
+        "name": "Logitech MX Master 3",
+        "qty": 3
+      },
+      {
+        "name": "Amazon Echo Dot",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "userId": 28,
+    "orderAmount": 590,
+    "orderDate": "2025-03-06",
+    "items": [
+      {
+        "name": "Kindle Paperwhite",
+        "qty": 1
+      },
+      {
+        "name": "HP Envy 13",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "userId": 29,
+    "orderAmount": 485,
+    "orderDate": "2024-07-30",
+    "items": [
+      {
+        "name": "JBL Flip 6",
+        "qty": 2
+      },
+      {
+        "name": "Sony WH-1000XM5",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "userId": 29,
+    "orderAmount": 305,
+    "orderDate": "2025-04-05",
+    "items": [
+      {
+        "name": "Eero Pro 6",
+        "qty": 3
+      },
+      {
+        "name": "Dell XPS 15",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "userId": 30,
+    "orderAmount": 176,
+    "orderDate": "2024-11-26",
+    "items": [
+      {
+        "name": "Lenovo ThinkPad X1",
+        "qty": 2
+      },
+      {
+        "name": "TP-Link Archer AX50",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "userId": 30,
+    "orderAmount": 449,
+    "orderDate": "2024-06-03",
+    "items": [
+      {
+        "name": "Tile Mate",
+        "qty": 1
+      },
+      {
+        "name": "Dell XPS 15",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "userId": 30,
+    "orderAmount": 356,
+    "orderDate": "2024-05-21",
+    "items": [
+      {
+        "name": "Google Nest Hub",
+        "qty": 3
+      },
+      {
+        "name": "Apple Watch Series 9",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "userId": 30,
+    "orderAmount": 470,
+    "orderDate": "2024-10-24",
+    "items": [
+      {
+        "name": "Dell XPS 15",
+        "qty": 2
+      },
+      {
+        "name": "WD My Passport",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "userId": 30,
+    "orderAmount": 220,
+    "orderDate": "2024-08-24",
+    "items": [
+      {
+        "name": "Logitech MX Master 3",
+        "qty": 1
+      },
+      {
+        "name": "Amazon Echo Dot",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "userId": 31,
+    "orderAmount": 225,
+    "orderDate": "2024-09-01",
+    "items": [
+      {
+        "name": "Lenovo ThinkPad X1",
+        "qty": 3
+      },
+      {
+        "name": "Amazon Echo Dot",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "userId": 31,
+    "orderAmount": 313,
+    "orderDate": "2025-03-21",
+    "items": [
+      {
+        "name": "DJI Mini 3 Pro",
+        "qty": 3
+      },
+      {
+        "name": "Bose QuietComfort Earbuds",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "userId": 31,
+    "orderAmount": 108,
+    "orderDate": "2025-02-20",
+    "items": [
+      {
+        "name": "JBL Flip 6",
+        "qty": 1
+      },
+      {
+        "name": "Logitech MX Master 3",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "userId": 31,
+    "orderAmount": 561,
+    "orderDate": "2024-11-10",
+    "items": [
+      {
+        "name": "Razer DeathAdder V2",
+        "qty": 3
+      },
+      {
+        "name": "Fitbit Charge 5",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "userId": 32,
+    "orderAmount": 403,
+    "orderDate": "2024-08-21",
+    "items": [
+      {
+        "name": "iPhone 14",
+        "qty": 3
+      },
+      {
+        "name": "Lenovo ThinkPad X1",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "userId": 32,
+    "orderAmount": 378,
+    "orderDate": "2025-01-22",
+    "items": [
+      {
+        "name": "Eero Pro 6",
+        "qty": 3
+      },
+      {
+        "name": "GoPro Hero 11",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "userId": 32,
+    "orderAmount": 297,
+    "orderDate": "2025-04-27",
+    "items": [
+      {
+        "name": "Bose QuietComfort Earbuds",
+        "qty": 2
+      },
+      {
+        "name": "Amazon Echo Dot",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "userId": 33,
+    "orderAmount": 320,
+    "orderDate": "2024-08-22",
+    "items": [
+      {
+        "name": "Dell XPS 15",
+        "qty": 3
+      },
+      {
+        "name": "WD My Passport",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "userId": 33,
+    "orderAmount": 189,
+    "orderDate": "2024-12-12",
+    "items": [
+      {
+        "name": "Fitbit Charge 5",
+        "qty": 3
+      },
+      {
+        "name": "Sony WH-1000XM5",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "userId": 33,
+    "orderAmount": 317,
+    "orderDate": "2024-10-26",
+    "items": [
+      {
+        "name": "iPhone 14",
+        "qty": 1
+      },
+      {
+        "name": "Samsung Galaxy S23",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "userId": 33,
+    "orderAmount": 137,
+    "orderDate": "2024-05-03",
+    "items": [
+      {
+        "name": "Xbox Series X",
+        "qty": 2
+      },
+      {
+        "name": "Amazon Echo Dot",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "userId": 34,
+    "orderAmount": 309,
+    "orderDate": "2024-08-12",
+    "items": [
+      {
+        "name": "Samsung SSD 980",
+        "qty": 2
+      },
+      {
+        "name": "Dell XPS 15",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "userId": 34,
+    "orderAmount": 216,
+    "orderDate": "2024-12-20",
+    "items": [
+      {
+        "name": "Logitech MX Master 3",
+        "qty": 1
+      },
+      {
+        "name": "Anker PowerCore",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "userId": 35,
+    "orderAmount": 156,
+    "orderDate": "2024-07-06",
+    "items": [
+      {
+        "name": "Samsung Galaxy S23",
+        "qty": 1
+      },
+      {
+        "name": "PlayStation 5",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "userId": 36,
+    "orderAmount": 535,
+    "orderDate": "2024-10-30",
+    "items": [
+      {
+        "name": "MacBook Pro",
+        "qty": 3
+      },
+      {
+        "name": "Eero Pro 6",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "userId": 37,
+    "orderAmount": 397,
+    "orderDate": "2024-07-11",
+    "items": [
+      {
+        "name": "Kindle Paperwhite",
+        "qty": 2
+      },
+      {
+        "name": "Bose QuietComfort Earbuds",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "userId": 37,
+    "orderAmount": 247,
+    "orderDate": "2025-01-01",
+    "items": [
+      {
+        "name": "Canon EOS R6",
+        "qty": 1
+      },
+      {
+        "name": "Samsung SSD 980",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "userId": 37,
+    "orderAmount": 295,
+    "orderDate": "2024-06-22",
+    "items": [
+      {
+        "name": "Google Nest Hub",
+        "qty": 2
+      },
+      {
+        "name": "iPhone 14",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "userId": 38,
+    "orderAmount": 294,
+    "orderDate": "2024-10-10",
+    "items": [
+      {
+        "name": "Xbox Series X",
+        "qty": 3
+      },
+      {
+        "name": "Google Nest Hub",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "userId": 38,
+    "orderAmount": 514,
+    "orderDate": "2024-06-06",
+    "items": [
+      {
+        "name": "Logitech MX Master 3",
+        "qty": 1
+      },
+      {
+        "name": "Lenovo ThinkPad X1",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "userId": 38,
+    "orderAmount": 572,
+    "orderDate": "2025-04-24",
+    "items": [
+      {
+        "name": "DJI Mini 3 Pro",
+        "qty": 1
+      },
+      {
+        "name": "Fitbit Charge 5",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "userId": 39,
+    "orderAmount": 490,
+    "orderDate": "2024-05-20",
+    "items": [
+      {
+        "name": "Netgear Nighthawk AX12",
+        "qty": 1
+      },
+      {
+        "name": "WD My Passport",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "userId": 39,
+    "orderAmount": 461,
+    "orderDate": "2025-02-23",
+    "items": [
+      {
+        "name": "Netgear Nighthawk AX12",
+        "qty": 2
+      },
+      {
+        "name": "Razer DeathAdder V2",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "userId": 40,
+    "orderAmount": 297,
+    "orderDate": "2024-07-06",
+    "items": [
+      {
+        "name": "Razer DeathAdder V2",
+        "qty": 2
+      },
+      {
+        "name": "GoPro Hero 11",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "userId": 40,
+    "orderAmount": 578,
+    "orderDate": "2024-09-17",
+    "items": [
+      {
+        "name": "iPhone 14",
+        "qty": 2
+      },
+      {
+        "name": "Lenovo ThinkPad X1",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "userId": 40,
+    "orderAmount": 148,
+    "orderDate": "2025-01-26",
+    "items": [
+      {
+        "name": "Razer DeathAdder V2",
+        "qty": 3
+      },
+      {
+        "name": "PlayStation 5",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "userId": 40,
+    "orderAmount": 321,
+    "orderDate": "2025-03-11",
+    "items": [
+      {
+        "name": "HP Envy 13",
+        "qty": 2
+      },
+      {
+        "name": "Razer DeathAdder V2",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "userId": 41,
+    "orderAmount": 456,
+    "orderDate": "2024-07-24",
+    "items": [
+      {
+        "name": "Eero Pro 6",
+        "qty": 3
+      },
+      {
+        "name": "Samsung SSD 980",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "userId": 41,
+    "orderAmount": 144,
+    "orderDate": "2024-05-30",
+    "items": [
+      {
+        "name": "WD My Passport",
+        "qty": 3
+      },
+      {
+        "name": "iPhone 14",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "userId": 41,
+    "orderAmount": 120,
+    "orderDate": "2024-07-22",
+    "items": [
+      {
+        "name": "DJI Mini 3 Pro",
+        "qty": 3
+      },
+      {
+        "name": "JBL Flip 6",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "userId": 42,
+    "orderAmount": 255,
+    "orderDate": "2024-05-05",
+    "items": [
+      {
+        "name": "Kindle Paperwhite",
+        "qty": 3
+      },
+      {
+        "name": "MacBook Pro",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "userId": 42,
+    "orderAmount": 301,
+    "orderDate": "2024-11-20",
+    "items": [
+      {
+        "name": "JBL Flip 6",
+        "qty": 2
+      },
+      {
+        "name": "Netgear Nighthawk AX12",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "userId": 43,
+    "orderAmount": 213,
+    "orderDate": "2024-10-01",
+    "items": [
+      {
+        "name": "HP Envy 13",
+        "qty": 1
+      },
+      {
+        "name": "JBL Flip 6",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "userId": 43,
+    "orderAmount": 213,
+    "orderDate": "2024-12-09",
+    "items": [
+      {
+        "name": "Samsung Galaxy S23",
+        "qty": 3
+      },
+      {
+        "name": "Dell XPS 15",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "userId": 44,
+    "orderAmount": 127,
+    "orderDate": "2025-03-22",
+    "items": [
+      {
+        "name": "HP Envy 13",
+        "qty": 2
+      },
+      {
+        "name": "Razer DeathAdder V2",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "userId": 44,
+    "orderAmount": 317,
+    "orderDate": "2025-04-08",
+    "items": [
+      {
+        "name": "MacBook Pro",
+        "qty": 2
+      },
+      {
+        "name": "Kindle Paperwhite",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "userId": 44,
+    "orderAmount": 303,
+    "orderDate": "2024-12-03",
+    "items": [
+      {
+        "name": "Canon EOS R6",
+        "qty": 2
+      },
+      {
+        "name": "JBL Flip 6",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "userId": 44,
+    "orderAmount": 105,
+    "orderDate": "2025-02-14",
+    "items": [
+      {
+        "name": "JBL Flip 6",
+        "qty": 2
+      },
+      {
+        "name": "Xbox Series X",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "userId": 44,
+    "orderAmount": 542,
+    "orderDate": "2024-05-02",
+    "items": [
+      {
+        "name": "Kindle Paperwhite",
+        "qty": 3
+      },
+      {
+        "name": "PlayStation 5",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "userId": 45,
+    "orderAmount": 329,
+    "orderDate": "2024-06-27",
+    "items": [
+      {
+        "name": "Tile Mate",
+        "qty": 2
+      },
+      {
+        "name": "DJI Mini 3 Pro",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "userId": 45,
+    "orderAmount": 400,
+    "orderDate": "2025-03-17",
+    "items": [
+      {
+        "name": "PlayStation 5",
+        "qty": 2
+      },
+      {
+        "name": "Logitech MX Master 3",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "userId": 46,
+    "orderAmount": 486,
+    "orderDate": "2024-08-16",
+    "items": [
+      {
+        "name": "Bose QuietComfort Earbuds",
+        "qty": 3
+      },
+      {
+        "name": "Lenovo ThinkPad X1",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "userId": 46,
+    "orderAmount": 229,
+    "orderDate": "2024-08-10",
+    "items": [
+      {
+        "name": "PlayStation 5",
+        "qty": 3
+      },
+      {
+        "name": "TP-Link Archer AX50",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "userId": 47,
+    "orderAmount": 549,
+    "orderDate": "2025-03-08",
+    "items": [
+      {
+        "name": "Kindle Paperwhite",
+        "qty": 1
+      },
+      {
+        "name": "Nikon Z6 II",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "userId": 47,
+    "orderAmount": 176,
+    "orderDate": "2024-06-22",
+    "items": [
+      {
+        "name": "JBL Flip 6",
+        "qty": 2
+      },
+      {
+        "name": "Fitbit Charge 5",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "userId": 47,
+    "orderAmount": 294,
+    "orderDate": "2024-11-29",
+    "items": [
+      {
+        "name": "Fitbit Charge 5",
+        "qty": 2
+      },
+      {
+        "name": "Amazon Echo Dot",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "userId": 47,
+    "orderAmount": 267,
+    "orderDate": "2025-03-19",
+    "items": [
+      {
+        "name": "Nikon Z6 II",
+        "qty": 2
+      },
+      {
+        "name": "Apple Watch Series 9",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "userId": 47,
+    "orderAmount": 347,
+    "orderDate": "2025-03-18",
+    "items": [
+      {
+        "name": "GoPro Hero 11",
+        "qty": 2
+      },
+      {
+        "name": "DJI Mini 3 Pro",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "userId": 48,
+    "orderAmount": 435,
+    "orderDate": "2025-01-05",
+    "items": [
+      {
+        "name": "Google Nest Hub",
+        "qty": 3
+      },
+      {
+        "name": "Apple Watch Series 9",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "userId": 48,
+    "orderAmount": 176,
+    "orderDate": "2024-10-31",
+    "items": [
+      {
+        "name": "Razer DeathAdder V2",
+        "qty": 2
+      },
+      {
+        "name": "Nintendo Switch",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "userId": 48,
+    "orderAmount": 507,
+    "orderDate": "2024-11-26",
+    "items": [
+      {
+        "name": "Dell XPS 15",
+        "qty": 3
+      },
+      {
+        "name": "Lenovo ThinkPad X1",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "userId": 48,
+    "orderAmount": 427,
+    "orderDate": "2024-11-09",
+    "items": [
+      {
+        "name": "TP-Link Archer AX50",
+        "qty": 3
+      },
+      {
+        "name": "Canon EOS R6",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "userId": 49,
+    "orderAmount": 345,
+    "orderDate": "2024-10-25",
+    "items": [
+      {
+        "name": "Samsung SSD 980",
+        "qty": 1
+      },
+      {
+        "name": "Nikon Z6 II",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "userId": 49,
+    "orderAmount": 310,
+    "orderDate": "2025-01-18",
+    "items": [
+      {
+        "name": "MacBook Pro",
+        "qty": 2
+      },
+      {
+        "name": "Fitbit Charge 5",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "userId": 50,
+    "orderAmount": 600,
+    "orderDate": "2024-10-08",
+    "items": [
+      {
+        "name": "Sony WH-1000XM5",
+        "qty": 1
+      },
+      {
+        "name": "Nintendo Switch",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "userId": 50,
+    "orderAmount": 557,
+    "orderDate": "2025-03-29",
+    "items": [
+      {
+        "name": "Netgear Nighthawk AX12",
+        "qty": 3
+      },
+      {
+        "name": "Fitbit Charge 5",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "userId": 50,
+    "orderAmount": 226,
+    "orderDate": "2024-09-17",
+    "items": [
+      {
+        "name": "Dell XPS 15",
+        "qty": 1
+      },
+      {
+        "name": "Netgear Nighthawk AX12",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "userId": 51,
+    "orderAmount": 562,
+    "orderDate": "2024-05-19",
+    "items": [
+      {
+        "name": "MacBook Pro",
+        "qty": 1
+      },
+      {
+        "name": "WD My Passport",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "userId": 52,
+    "orderAmount": 271,
+    "orderDate": "2024-11-03",
+    "items": [
+      {
+        "name": "Anker PowerCore",
+        "qty": 1
+      },
+      {
+        "name": "Lenovo ThinkPad X1",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "userId": 52,
+    "orderAmount": 324,
+    "orderDate": "2024-06-15",
+    "items": [
+      {
+        "name": "WD My Passport",
+        "qty": 1
+      },
+      {
+        "name": "Kindle Paperwhite",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "userId": 52,
+    "orderAmount": 419,
+    "orderDate": "2024-12-02",
+    "items": [
+      {
+        "name": "GoPro Hero 11",
+        "qty": 1
+      },
+      {
+        "name": "DJI Mini 3 Pro",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "userId": 52,
+    "orderAmount": 329,
+    "orderDate": "2024-06-17",
+    "items": [
+      {
+        "name": "Kindle Paperwhite",
+        "qty": 1
+      },
+      {
+        "name": "Netgear Nighthawk AX12",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "userId": 53,
+    "orderAmount": 381,
+    "orderDate": "2025-04-29",
+    "items": [
+      {
+        "name": "TP-Link Archer AX50",
+        "qty": 1
+      },
+      {
+        "name": "WD My Passport",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "userId": 53,
+    "orderAmount": 557,
+    "orderDate": "2024-07-12",
+    "items": [
+      {
+        "name": "TP-Link Archer AX50",
+        "qty": 3
+      },
+      {
+        "name": "Canon EOS R6",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "userId": 54,
+    "orderAmount": 376,
+    "orderDate": "2024-08-29",
+    "items": [
+      {
+        "name": "iPhone 14",
+        "qty": 1
+      },
+      {
+        "name": "Samsung SSD 980",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "userId": 54,
+    "orderAmount": 211,
+    "orderDate": "2025-04-12",
+    "items": [
+      {
+        "name": "GoPro Hero 11",
+        "qty": 1
+      },
+      {
+        "name": "HP Envy 13",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "userId": 54,
+    "orderAmount": 314,
+    "orderDate": "2024-07-14",
+    "items": [
+      {
+        "name": "Eero Pro 6",
+        "qty": 3
+      },
+      {
+        "name": "Amazon Echo Dot",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "userId": 55,
+    "orderAmount": 291,
+    "orderDate": "2024-06-27",
+    "items": [
+      {
+        "name": "Dell XPS 15",
+        "qty": 1
+      },
+      {
+        "name": "Nintendo Switch",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "userId": 55,
+    "orderAmount": 105,
+    "orderDate": "2024-08-24",
+    "items": [
+      {
+        "name": "Lenovo ThinkPad X1",
+        "qty": 1
+      },
+      {
+        "name": "Netgear Nighthawk AX12",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "userId": 55,
+    "orderAmount": 360,
+    "orderDate": "2024-06-17",
+    "items": [
+      {
+        "name": "Nintendo Switch",
+        "qty": 1
+      },
+      {
+        "name": "Amazon Echo Dot",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "userId": 56,
+    "orderAmount": 580,
+    "orderDate": "2024-10-30",
+    "items": [
+      {
+        "name": "Sony WH-1000XM5",
+        "qty": 2
+      },
+      {
+        "name": "TP-Link Archer AX50",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "userId": 57,
+    "orderAmount": 177,
+    "orderDate": "2025-02-28",
+    "items": [
+      {
+        "name": "Xbox Series X",
+        "qty": 3
+      },
+      {
+        "name": "Amazon Echo Dot",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "userId": 57,
+    "orderAmount": 215,
+    "orderDate": "2024-09-07",
+    "items": [
+      {
+        "name": "Google Nest Hub",
+        "qty": 3
+      },
+      {
+        "name": "Lenovo ThinkPad X1",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "userId": 58,
+    "orderAmount": 585,
+    "orderDate": "2025-01-12",
+    "items": [
+      {
+        "name": "WD My Passport",
+        "qty": 3
+      },
+      {
+        "name": "Dell XPS 15",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "userId": 58,
+    "orderAmount": 487,
+    "orderDate": "2024-11-21",
+    "items": [
+      {
+        "name": "Bose QuietComfort Earbuds",
+        "qty": 3
+      },
+      {
+        "name": "Netgear Nighthawk AX12",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "userId": 59,
+    "orderAmount": 453,
+    "orderDate": "2025-03-29",
+    "items": [
+      {
+        "name": "Razer DeathAdder V2",
+        "qty": 2
+      },
+      {
+        "name": "Xbox Series X",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "userId": 59,
+    "orderAmount": 119,
+    "orderDate": "2025-03-03",
+    "items": [
+      {
+        "name": "Logitech MX Master 3",
+        "qty": 3
+      },
+      {
+        "name": "Eero Pro 6",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "userId": 59,
+    "orderAmount": 110,
+    "orderDate": "2024-12-29",
+    "items": [
+      {
+        "name": "WD My Passport",
+        "qty": 2
+      },
+      {
+        "name": "Fitbit Charge 5",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "userId": 59,
+    "orderAmount": 464,
+    "orderDate": "2024-12-02",
+    "items": [
+      {
+        "name": "PlayStation 5",
+        "qty": 2
+      },
+      {
+        "name": "TP-Link Archer AX50",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "userId": 60,
+    "orderAmount": 559,
+    "orderDate": "2024-08-29",
+    "items": [
+      {
+        "name": "HP Envy 13",
+        "qty": 2
+      },
+      {
+        "name": "Google Nest Hub",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "userId": 60,
+    "orderAmount": 383,
+    "orderDate": "2024-05-25",
+    "items": [
+      {
+        "name": "HP Envy 13",
+        "qty": 2
+      },
+      {
+        "name": "PlayStation 5",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "userId": 60,
+    "orderAmount": 599,
+    "orderDate": "2024-08-18",
+    "items": [
+      {
+        "name": "GoPro Hero 11",
+        "qty": 1
+      },
+      {
+        "name": "Samsung SSD 980",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "userId": 60,
+    "orderAmount": 270,
+    "orderDate": "2025-01-04",
+    "items": [
+      {
+        "name": "iPhone 14",
+        "qty": 2
+      },
+      {
+        "name": "Eero Pro 6",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "userId": 61,
+    "orderAmount": 187,
+    "orderDate": "2024-10-13",
+    "items": [
+      {
+        "name": "Xbox Series X",
+        "qty": 2
+      },
+      {
+        "name": "MacBook Pro",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "userId": 61,
+    "orderAmount": 302,
+    "orderDate": "2024-05-20",
+    "items": [
+      {
+        "name": "Samsung Galaxy S23",
+        "qty": 1
+      },
+      {
+        "name": "DJI Mini 3 Pro",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "userId": 61,
+    "orderAmount": 449,
+    "orderDate": "2024-10-04",
+    "items": [
+      {
+        "name": "Samsung SSD 980",
+        "qty": 1
+      },
+      {
+        "name": "Apple Watch Series 9",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "userId": 62,
+    "orderAmount": 330,
+    "orderDate": "2024-05-13",
+    "items": [
+      {
+        "name": "Razer DeathAdder V2",
+        "qty": 1
+      },
+      {
+        "name": "Anker PowerCore",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "userId": 62,
+    "orderAmount": 218,
+    "orderDate": "2024-09-29",
+    "items": [
+      {
+        "name": "Anker PowerCore",
+        "qty": 1
+      },
+      {
+        "name": "HP Envy 13",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "userId": 63,
+    "orderAmount": 457,
+    "orderDate": "2024-11-13",
+    "items": [
+      {
+        "name": "Samsung SSD 980",
+        "qty": 2
+      },
+      {
+        "name": "Google Nest Hub",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "userId": 63,
+    "orderAmount": 220,
+    "orderDate": "2025-01-14",
+    "items": [
+      {
+        "name": "iPhone 14",
+        "qty": 1
+      },
+      {
+        "name": "Netgear Nighthawk AX12",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "userId": 63,
+    "orderAmount": 553,
+    "orderDate": "2024-07-23",
+    "items": [
+      {
+        "name": "iPhone 14",
+        "qty": 1
+      },
+      {
+        "name": "Samsung Galaxy S23",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "userId": 64,
+    "orderAmount": 556,
+    "orderDate": "2025-04-19",
+    "items": [
+      {
+        "name": "Fitbit Charge 5",
+        "qty": 3
+      },
+      {
+        "name": "WD My Passport",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "userId": 64,
+    "orderAmount": 523,
+    "orderDate": "2025-02-25",
+    "items": [
+      {
+        "name": "Sony WH-1000XM5",
+        "qty": 2
+      },
+      {
+        "name": "MacBook Pro",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "userId": 64,
+    "orderAmount": 450,
+    "orderDate": "2024-11-23",
+    "items": [
+      {
+        "name": "TP-Link Archer AX50",
+        "qty": 2
+      },
+      {
+        "name": "Amazon Echo Dot",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "userId": 64,
+    "orderAmount": 542,
+    "orderDate": "2024-12-13",
+    "items": [
+      {
+        "name": "Google Nest Hub",
+        "qty": 3
+      },
+      {
+        "name": "Samsung Galaxy S23",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "userId": 65,
+    "orderAmount": 407,
+    "orderDate": "2025-03-03",
+    "items": [
+      {
+        "name": "GoPro Hero 11",
+        "qty": 3
+      },
+      {
+        "name": "Canon EOS R6",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "userId": 65,
+    "orderAmount": 425,
+    "orderDate": "2024-11-23",
+    "items": [
+      {
+        "name": "Nintendo Switch",
+        "qty": 3
+      },
+      {
+        "name": "Amazon Echo Dot",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "userId": 65,
+    "orderAmount": 365,
+    "orderDate": "2024-10-15",
+    "items": [
+      {
+        "name": "Nintendo Switch",
+        "qty": 2
+      },
+      {
+        "name": "JBL Flip 6",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "userId": 66,
+    "orderAmount": 419,
+    "orderDate": "2025-02-15",
+    "items": [
+      {
+        "name": "JBL Flip 6",
+        "qty": 1
+      },
+      {
+        "name": "Google Nest Hub",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "userId": 66,
+    "orderAmount": 457,
+    "orderDate": "2024-07-31",
+    "items": [
+      {
+        "name": "Nikon Z6 II",
+        "qty": 1
+      },
+      {
+        "name": "Nintendo Switch",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "userId": 66,
+    "orderAmount": 197,
+    "orderDate": "2024-05-06",
+    "items": [
+      {
+        "name": "PlayStation 5",
+        "qty": 1
+      },
+      {
+        "name": "Anker PowerCore",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "userId": 66,
+    "orderAmount": 518,
+    "orderDate": "2024-11-12",
+    "items": [
+      {
+        "name": "Logitech MX Master 3",
+        "qty": 1
+      },
+      {
+        "name": "Bose QuietComfort Earbuds",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "userId": 66,
+    "orderAmount": 289,
+    "orderDate": "2025-04-11",
+    "items": [
+      {
+        "name": "Canon EOS R6",
+        "qty": 2
+      },
+      {
+        "name": "Dell XPS 15",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "userId": 67,
+    "orderAmount": 475,
+    "orderDate": "2025-04-15",
+    "items": [
+      {
+        "name": "Apple Watch Series 9",
+        "qty": 3
+      },
+      {
+        "name": "GoPro Hero 11",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "userId": 67,
+    "orderAmount": 388,
+    "orderDate": "2024-06-20",
+    "items": [
+      {
+        "name": "WD My Passport",
+        "qty": 1
+      },
+      {
+        "name": "Samsung Galaxy S23",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "userId": 68,
+    "orderAmount": 509,
+    "orderDate": "2024-10-01",
+    "items": [
+      {
+        "name": "Google Nest Hub",
+        "qty": 2
+      },
+      {
+        "name": "GoPro Hero 11",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "userId": 68,
+    "orderAmount": 157,
+    "orderDate": "2024-12-22",
+    "items": [
+      {
+        "name": "Razer DeathAdder V2",
+        "qty": 3
+      },
+      {
+        "name": "Bose QuietComfort Earbuds",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "userId": 68,
+    "orderAmount": 543,
+    "orderDate": "2024-05-09",
+    "items": [
+      {
+        "name": "JBL Flip 6",
+        "qty": 2
+      },
+      {
+        "name": "Nintendo Switch",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "userId": 69,
+    "orderAmount": 526,
+    "orderDate": "2024-08-11",
+    "items": [
+      {
+        "name": "Razer DeathAdder V2",
+        "qty": 1
+      },
+      {
+        "name": "Samsung Galaxy S23",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "userId": 70,
+    "orderAmount": 138,
+    "orderDate": "2025-04-15",
+    "items": [
+      {
+        "name": "HP Envy 13",
+        "qty": 1
+      },
+      {
+        "name": "Xbox Series X",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "userId": 70,
+    "orderAmount": 309,
+    "orderDate": "2025-04-02",
+    "items": [
+      {
+        "name": "Netgear Nighthawk AX12",
+        "qty": 1
+      },
+      {
+        "name": "WD My Passport",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "userId": 70,
+    "orderAmount": 513,
+    "orderDate": "2024-08-27",
+    "items": [
+      {
+        "name": "Lenovo ThinkPad X1",
+        "qty": 2
+      },
+      {
+        "name": "Razer DeathAdder V2",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "userId": 70,
+    "orderAmount": 410,
+    "orderDate": "2024-07-09",
+    "items": [
+      {
+        "name": "DJI Mini 3 Pro",
+        "qty": 1
+      },
+      {
+        "name": "Amazon Echo Dot",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "userId": 71,
+    "orderAmount": 110,
+    "orderDate": "2024-07-16",
+    "items": [
+      {
+        "name": "DJI Mini 3 Pro",
+        "qty": 2
+      },
+      {
+        "name": "Google Nest Hub",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "userId": 71,
+    "orderAmount": 154,
+    "orderDate": "2024-05-14",
+    "items": [
+      {
+        "name": "Bose QuietComfort Earbuds",
+        "qty": 3
+      },
+      {
+        "name": "Sony WH-1000XM5",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "userId": 71,
+    "orderAmount": 410,
+    "orderDate": "2024-06-10",
+    "items": [
+      {
+        "name": "JBL Flip 6",
+        "qty": 3
+      },
+      {
+        "name": "Amazon Echo Dot",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "userId": 72,
+    "orderAmount": 326,
+    "orderDate": "2024-09-27",
+    "items": [
+      {
+        "name": "HP Envy 13",
+        "qty": 1
+      },
+      {
+        "name": "Xbox Series X",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "userId": 72,
+    "orderAmount": 541,
+    "orderDate": "2024-07-08",
+    "items": [
+      {
+        "name": "HP Envy 13",
+        "qty": 2
+      },
+      {
+        "name": "WD My Passport",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "userId": 72,
+    "orderAmount": 427,
+    "orderDate": "2025-01-06",
+    "items": [
+      {
+        "name": "DJI Mini 3 Pro",
+        "qty": 2
+      },
+      {
+        "name": "Canon EOS R6",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "userId": 73,
+    "orderAmount": 351,
+    "orderDate": "2025-04-24",
+    "items": [
+      {
+        "name": "Amazon Echo Dot",
+        "qty": 3
+      },
+      {
+        "name": "JBL Flip 6",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "userId": 73,
+    "orderAmount": 332,
+    "orderDate": "2025-04-19",
+    "items": [
+      {
+        "name": "Eero Pro 6",
+        "qty": 2
+      },
+      {
+        "name": "DJI Mini 3 Pro",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "userId": 73,
+    "orderAmount": 265,
+    "orderDate": "2025-02-14",
+    "items": [
+      {
+        "name": "Sony WH-1000XM5",
+        "qty": 2
+      },
+      {
+        "name": "HP Envy 13",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "userId": 74,
+    "orderAmount": 305,
+    "orderDate": "2025-02-12",
+    "items": [
+      {
+        "name": "Sony WH-1000XM5",
+        "qty": 1
+      },
+      {
+        "name": "Netgear Nighthawk AX12",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "userId": 74,
+    "orderAmount": 419,
+    "orderDate": "2024-12-07",
+    "items": [
+      {
+        "name": "Kindle Paperwhite",
+        "qty": 3
+      },
+      {
+        "name": "Lenovo ThinkPad X1",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "userId": 74,
+    "orderAmount": 582,
+    "orderDate": "2025-03-23",
+    "items": [
+      {
+        "name": "Fitbit Charge 5",
+        "qty": 2
+      },
+      {
+        "name": "Bose QuietComfort Earbuds",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "userId": 75,
+    "orderAmount": 364,
+    "orderDate": "2024-08-04",
+    "items": [
+      {
+        "name": "Tile Mate",
+        "qty": 3
+      },
+      {
+        "name": "Netgear Nighthawk AX12",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "userId": 75,
+    "orderAmount": 295,
+    "orderDate": "2024-08-04",
+    "items": [
+      {
+        "name": "Eero Pro 6",
+        "qty": 2
+      },
+      {
+        "name": "Nikon Z6 II",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "userId": 75,
+    "orderAmount": 369,
+    "orderDate": "2024-10-18",
+    "items": [
+      {
+        "name": "PlayStation 5",
+        "qty": 2
+      },
+      {
+        "name": "Kindle Paperwhite",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "userId": 76,
+    "orderAmount": 268,
+    "orderDate": "2024-07-22",
+    "items": [
+      {
+        "name": "Xbox Series X",
+        "qty": 3
+      },
+      {
+        "name": "Fitbit Charge 5",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "userId": 76,
+    "orderAmount": 400,
+    "orderDate": "2024-10-06",
+    "items": [
+      {
+        "name": "Samsung SSD 980",
+        "qty": 2
+      },
+      {
+        "name": "JBL Flip 6",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "userId": 76,
+    "orderAmount": 500,
+    "orderDate": "2024-06-20",
+    "items": [
+      {
+        "name": "iPhone 14",
+        "qty": 2
+      },
+      {
+        "name": "Razer DeathAdder V2",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "userId": 77,
+    "orderAmount": 130,
+    "orderDate": "2024-07-27",
+    "items": [
+      {
+        "name": "Dell XPS 15",
+        "qty": 3
+      },
+      {
+        "name": "Tile Mate",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "userId": 77,
+    "orderAmount": 341,
+    "orderDate": "2024-11-13",
+    "items": [
+      {
+        "name": "Samsung SSD 980",
+        "qty": 3
+      },
+      {
+        "name": "Samsung Galaxy S23",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "userId": 77,
+    "orderAmount": 260,
+    "orderDate": "2025-01-07",
+    "items": [
+      {
+        "name": "Logitech MX Master 3",
+        "qty": 3
+      },
+      {
+        "name": "HP Envy 13",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "userId": 77,
+    "orderAmount": 492,
+    "orderDate": "2024-06-09",
+    "items": [
+      {
+        "name": "Nintendo Switch",
+        "qty": 2
+      },
+      {
+        "name": "PlayStation 5",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "userId": 78,
+    "orderAmount": 257,
+    "orderDate": "2025-02-13",
+    "items": [
+      {
+        "name": "Apple Watch Series 9",
+        "qty": 1
+      },
+      {
+        "name": "HP Envy 13",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "userId": 79,
+    "orderAmount": 296,
+    "orderDate": "2024-05-02",
+    "items": [
+      {
+        "name": "DJI Mini 3 Pro",
+        "qty": 3
+      },
+      {
+        "name": "Samsung Galaxy S23",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "userId": 79,
+    "orderAmount": 364,
+    "orderDate": "2024-07-15",
+    "items": [
+      {
+        "name": "Amazon Echo Dot",
+        "qty": 2
+      },
+      {
+        "name": "Logitech MX Master 3",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "userId": 80,
+    "orderAmount": 572,
+    "orderDate": "2025-01-31",
+    "items": [
+      {
+        "name": "Samsung Galaxy S23",
+        "qty": 3
+      },
+      {
+        "name": "Sony WH-1000XM5",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "userId": 80,
+    "orderAmount": 238,
+    "orderDate": "2025-03-21",
+    "items": [
+      {
+        "name": "Lenovo ThinkPad X1",
+        "qty": 2
+      },
+      {
+        "name": "Nikon Z6 II",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "userId": 81,
+    "orderAmount": 475,
+    "orderDate": "2024-10-15",
+    "items": [
+      {
+        "name": "Bose QuietComfort Earbuds",
+        "qty": 2
+      },
+      {
+        "name": "Nikon Z6 II",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "userId": 81,
+    "orderAmount": 402,
+    "orderDate": "2025-01-07",
+    "items": [
+      {
+        "name": "iPhone 14",
+        "qty": 2
+      },
+      {
+        "name": "Sony WH-1000XM5",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "userId": 81,
+    "orderAmount": 535,
+    "orderDate": "2025-05-01",
+    "items": [
+      {
+        "name": "WD My Passport",
+        "qty": 1
+      },
+      {
+        "name": "Tile Mate",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "userId": 81,
+    "orderAmount": 283,
+    "orderDate": "2024-10-25",
+    "items": [
+      {
+        "name": "Google Nest Hub",
+        "qty": 2
+      },
+      {
+        "name": "Netgear Nighthawk AX12",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "userId": 81,
+    "orderAmount": 320,
+    "orderDate": "2025-03-09",
+    "items": [
+      {
+        "name": "HP Envy 13",
+        "qty": 2
+      },
+      {
+        "name": "Lenovo ThinkPad X1",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "userId": 82,
+    "orderAmount": 195,
+    "orderDate": "2025-03-04",
+    "items": [
+      {
+        "name": "MacBook Pro",
+        "qty": 2
+      },
+      {
+        "name": "Eero Pro 6",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "userId": 82,
+    "orderAmount": 441,
+    "orderDate": "2025-03-24",
+    "items": [
+      {
+        "name": "iPhone 14",
+        "qty": 1
+      },
+      {
+        "name": "Eero Pro 6",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "userId": 82,
+    "orderAmount": 229,
+    "orderDate": "2025-04-10",
+    "items": [
+      {
+        "name": "Fitbit Charge 5",
+        "qty": 2
+      },
+      {
+        "name": "Sony WH-1000XM5",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "userId": 82,
+    "orderAmount": 311,
+    "orderDate": "2025-02-05",
+    "items": [
+      {
+        "name": "Canon EOS R6",
+        "qty": 3
+      },
+      {
+        "name": "iPhone 14",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "userId": 83,
+    "orderAmount": 223,
+    "orderDate": "2025-02-28",
+    "items": [
+      {
+        "name": "Lenovo ThinkPad X1",
+        "qty": 2
+      },
+      {
+        "name": "Sony WH-1000XM5",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "userId": 83,
+    "orderAmount": 311,
+    "orderDate": "2025-03-12",
+    "items": [
+      {
+        "name": "Sony WH-1000XM5",
+        "qty": 3
+      },
+      {
+        "name": "JBL Flip 6",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "userId": 84,
+    "orderAmount": 479,
+    "orderDate": "2025-02-26",
+    "items": [
+      {
+        "name": "MacBook Pro",
+        "qty": 3
+      },
+      {
+        "name": "Amazon Echo Dot",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "userId": 85,
+    "orderAmount": 492,
+    "orderDate": "2024-06-17",
+    "items": [
+      {
+        "name": "Sony WH-1000XM5",
+        "qty": 2
+      },
+      {
+        "name": "Nikon Z6 II",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "userId": 85,
+    "orderAmount": 167,
+    "orderDate": "2024-12-10",
+    "items": [
+      {
+        "name": "Samsung Galaxy S23",
+        "qty": 1
+      },
+      {
+        "name": "Nikon Z6 II",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "userId": 85,
+    "orderAmount": 346,
+    "orderDate": "2024-05-27",
+    "items": [
+      {
+        "name": "Eero Pro 6",
+        "qty": 3
+      },
+      {
+        "name": "Samsung SSD 980",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "userId": 85,
+    "orderAmount": 512,
+    "orderDate": "2025-01-14",
+    "items": [
+      {
+        "name": "Lenovo ThinkPad X1",
+        "qty": 2
+      },
+      {
+        "name": "Razer DeathAdder V2",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "userId": 86,
+    "orderAmount": 439,
+    "orderDate": "2025-03-21",
+    "items": [
+      {
+        "name": "Nintendo Switch",
+        "qty": 1
+      },
+      {
+        "name": "DJI Mini 3 Pro",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "userId": 86,
+    "orderAmount": 590,
+    "orderDate": "2024-06-24",
+    "items": [
+      {
+        "name": "Anker PowerCore",
+        "qty": 3
+      },
+      {
+        "name": "Apple Watch Series 9",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "userId": 87,
+    "orderAmount": 247,
+    "orderDate": "2024-12-03",
+    "items": [
+      {
+        "name": "Google Nest Hub",
+        "qty": 3
+      },
+      {
+        "name": "Lenovo ThinkPad X1",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "userId": 87,
+    "orderAmount": 459,
+    "orderDate": "2024-10-09",
+    "items": [
+      {
+        "name": "Lenovo ThinkPad X1",
+        "qty": 2
+      },
+      {
+        "name": "PlayStation 5",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "userId": 87,
+    "orderAmount": 277,
+    "orderDate": "2024-08-30",
+    "items": [
+      {
+        "name": "iPhone 14",
+        "qty": 3
+      },
+      {
+        "name": "Samsung SSD 980",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "userId": 88,
+    "orderAmount": 581,
+    "orderDate": "2024-06-19",
+    "items": [
+      {
+        "name": "DJI Mini 3 Pro",
+        "qty": 3
+      },
+      {
+        "name": "Lenovo ThinkPad X1",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "userId": 88,
+    "orderAmount": 445,
+    "orderDate": "2024-06-27",
+    "items": [
+      {
+        "name": "TP-Link Archer AX50",
+        "qty": 2
+      },
+      {
+        "name": "Eero Pro 6",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "userId": 88,
+    "orderAmount": 174,
+    "orderDate": "2024-11-13",
+    "items": [
+      {
+        "name": "HP Envy 13",
+        "qty": 2
+      },
+      {
+        "name": "Logitech MX Master 3",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "userId": 88,
+    "orderAmount": 353,
+    "orderDate": "2024-09-17",
+    "items": [
+      {
+        "name": "JBL Flip 6",
+        "qty": 3
+      },
+      {
+        "name": "WD My Passport",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "userId": 88,
+    "orderAmount": 531,
+    "orderDate": "2024-06-11",
+    "items": [
+      {
+        "name": "MacBook Pro",
+        "qty": 1
+      },
+      {
+        "name": "JBL Flip 6",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "userId": 89,
+    "orderAmount": 564,
+    "orderDate": "2024-11-08",
+    "items": [
+      {
+        "name": "Google Nest Hub",
+        "qty": 2
+      },
+      {
+        "name": "Amazon Echo Dot",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "userId": 89,
+    "orderAmount": 342,
+    "orderDate": "2024-05-13",
+    "items": [
+      {
+        "name": "Eero Pro 6",
+        "qty": 1
+      },
+      {
+        "name": "HP Envy 13",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "userId": 89,
+    "orderAmount": 542,
+    "orderDate": "2025-03-27",
+    "items": [
+      {
+        "name": "MacBook Pro",
+        "qty": 3
+      },
+      {
+        "name": "Fitbit Charge 5",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "userId": 89,
+    "orderAmount": 334,
+    "orderDate": "2024-09-17",
+    "items": [
+      {
+        "name": "GoPro Hero 11",
+        "qty": 3
+      },
+      {
+        "name": "Google Nest Hub",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "userId": 90,
+    "orderAmount": 335,
+    "orderDate": "2024-12-27",
+    "items": [
+      {
+        "name": "Nikon Z6 II",
+        "qty": 1
+      },
+      {
+        "name": "Xbox Series X",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "userId": 91,
+    "orderAmount": 441,
+    "orderDate": "2025-01-14",
+    "items": [
+      {
+        "name": "Google Nest Hub",
+        "qty": 1
+      },
+      {
+        "name": "Netgear Nighthawk AX12",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "userId": 91,
+    "orderAmount": 525,
+    "orderDate": "2024-08-28",
+    "items": [
+      {
+        "name": "Netgear Nighthawk AX12",
+        "qty": 3
+      },
+      {
+        "name": "Logitech MX Master 3",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "userId": 91,
+    "orderAmount": 109,
+    "orderDate": "2024-06-17",
+    "items": [
+      {
+        "name": "Kindle Paperwhite",
+        "qty": 3
+      },
+      {
+        "name": "Nikon Z6 II",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "userId": 91,
+    "orderAmount": 101,
+    "orderDate": "2024-07-15",
+    "items": [
+      {
+        "name": "Logitech MX Master 3",
+        "qty": 1
+      },
+      {
+        "name": "Netgear Nighthawk AX12",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "userId": 92,
+    "orderAmount": 297,
+    "orderDate": "2025-01-18",
+    "items": [
+      {
+        "name": "Razer DeathAdder V2",
+        "qty": 2
+      },
+      {
+        "name": "GoPro Hero 11",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "userId": 92,
+    "orderAmount": 571,
+    "orderDate": "2024-09-05",
+    "items": [
+      {
+        "name": "Razer DeathAdder V2",
+        "qty": 2
+      },
+      {
+        "name": "Anker PowerCore",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "userId": 92,
+    "orderAmount": 579,
+    "orderDate": "2024-05-24",
+    "items": [
+      {
+        "name": "Fitbit Charge 5",
+        "qty": 1
+      },
+      {
+        "name": "iPhone 14",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "userId": 92,
+    "orderAmount": 408,
+    "orderDate": "2024-09-08",
+    "items": [
+      {
+        "name": "Lenovo ThinkPad X1",
+        "qty": 1
+      },
+      {
+        "name": "Apple Watch Series 9",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "userId": 92,
+    "orderAmount": 595,
+    "orderDate": "2024-11-02",
+    "items": [
+      {
+        "name": "Razer DeathAdder V2",
+        "qty": 3
+      },
+      {
+        "name": "Samsung SSD 980",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "userId": 93,
+    "orderAmount": 530,
+    "orderDate": "2024-05-26",
+    "items": [
+      {
+        "name": "Bose QuietComfort Earbuds",
+        "qty": 3
+      },
+      {
+        "name": "iPhone 14",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "userId": 93,
+    "orderAmount": 294,
+    "orderDate": "2024-07-31",
+    "items": [
+      {
+        "name": "GoPro Hero 11",
+        "qty": 2
+      },
+      {
+        "name": "Tile Mate",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "userId": 93,
+    "orderAmount": 138,
+    "orderDate": "2025-02-26",
+    "items": [
+      {
+        "name": "Logitech MX Master 3",
+        "qty": 3
+      },
+      {
+        "name": "Amazon Echo Dot",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "userId": 94,
+    "orderAmount": 342,
+    "orderDate": "2025-03-13",
+    "items": [
+      {
+        "name": "GoPro Hero 11",
+        "qty": 3
+      },
+      {
+        "name": "Fitbit Charge 5",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "userId": 94,
+    "orderAmount": 539,
+    "orderDate": "2025-02-06",
+    "items": [
+      {
+        "name": "Netgear Nighthawk AX12",
+        "qty": 1
+      },
+      {
+        "name": "Razer DeathAdder V2",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "userId": 95,
+    "orderAmount": 442,
+    "orderDate": "2025-03-23",
+    "items": [
+      {
+        "name": "GoPro Hero 11",
+        "qty": 3
+      },
+      {
+        "name": "JBL Flip 6",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "userId": 95,
+    "orderAmount": 150,
+    "orderDate": "2025-04-05",
+    "items": [
+      {
+        "name": "Lenovo ThinkPad X1",
+        "qty": 1
+      },
+      {
+        "name": "Dell XPS 15",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "userId": 95,
+    "orderAmount": 384,
+    "orderDate": "2024-06-17",
+    "items": [
+      {
+        "name": "Canon EOS R6",
+        "qty": 1
+      },
+      {
+        "name": "Amazon Echo Dot",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "userId": 95,
+    "orderAmount": 159,
+    "orderDate": "2024-11-19",
+    "items": [
+      {
+        "name": "Lenovo ThinkPad X1",
+        "qty": 3
+      },
+      {
+        "name": "Google Nest Hub",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "userId": 95,
+    "orderAmount": 529,
+    "orderDate": "2024-07-14",
+    "items": [
+      {
+        "name": "Samsung SSD 980",
+        "qty": 2
+      },
+      {
+        "name": "Xbox Series X",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "userId": 96,
+    "orderAmount": 501,
+    "orderDate": "2025-04-20",
+    "items": [
+      {
+        "name": "Samsung SSD 980",
+        "qty": 1
+      },
+      {
+        "name": "Sony WH-1000XM5",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "userId": 96,
+    "orderAmount": 194,
+    "orderDate": "2025-01-29",
+    "items": [
+      {
+        "name": "Fitbit Charge 5",
+        "qty": 2
+      },
+      {
+        "name": "Tile Mate",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "userId": 96,
+    "orderAmount": 520,
+    "orderDate": "2024-06-05",
+    "items": [
+      {
+        "name": "Eero Pro 6",
+        "qty": 2
+      },
+      {
+        "name": "iPhone 14",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "userId": 96,
+    "orderAmount": 377,
+    "orderDate": "2025-03-07",
+    "items": [
+      {
+        "name": "Apple Watch Series 9",
+        "qty": 3
+      },
+      {
+        "name": "GoPro Hero 11",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "userId": 96,
+    "orderAmount": 475,
+    "orderDate": "2025-04-26",
+    "items": [
+      {
+        "name": "Nintendo Switch",
+        "qty": 3
+      },
+      {
+        "name": "JBL Flip 6",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "userId": 97,
+    "orderAmount": 336,
+    "orderDate": "2024-09-08",
+    "items": [
+      {
+        "name": "DJI Mini 3 Pro",
+        "qty": 1
+      },
+      {
+        "name": "Dell XPS 15",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "userId": 97,
+    "orderAmount": 174,
+    "orderDate": "2024-05-05",
+    "items": [
+      {
+        "name": "HP Envy 13",
+        "qty": 2
+      },
+      {
+        "name": "Logitech MX Master 3",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "userId": 97,
+    "orderAmount": 296,
+    "orderDate": "2024-05-05",
+    "items": [
+      {
+        "name": "Dell XPS 15",
+        "qty": 2
+      },
+      {
+        "name": "MacBook Pro",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "userId": 97,
+    "orderAmount": 318,
+    "orderDate": "2024-06-16",
+    "items": [
+      {
+        "name": "Apple Watch Series 9",
+        "qty": 3
+      },
+      {
+        "name": "Nikon Z6 II",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "userId": 98,
+    "orderAmount": 262,
+    "orderDate": "2024-07-06",
+    "items": [
+      {
+        "name": "Apple Watch Series 9",
+        "qty": 1
+      },
+      {
+        "name": "Razer DeathAdder V2",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "userId": 99,
+    "orderAmount": 204,
+    "orderDate": "2025-01-24",
+    "items": [
+      {
+        "name": "MacBook Pro",
+        "qty": 1
+      },
+      {
+        "name": "Bose QuietComfort Earbuds",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "userId": 99,
+    "orderAmount": 217,
+    "orderDate": "2025-04-08",
+    "items": [
+      {
+        "name": "Amazon Echo Dot",
+        "qty": 1
+      },
+      {
+        "name": "Fitbit Charge 5",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "userId": 99,
+    "orderAmount": 117,
+    "orderDate": "2024-05-12",
+    "items": [
+      {
+        "name": "Fitbit Charge 5",
+        "qty": 2
+      },
+      {
+        "name": "Lenovo ThinkPad X1",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "userId": 99,
+    "orderAmount": 120,
+    "orderDate": "2024-07-13",
+    "items": [
+      {
+        "name": "Lenovo ThinkPad X1",
+        "qty": 1
+      },
+      {
+        "name": "Sony WH-1000XM5",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "userId": 99,
+    "orderAmount": 362,
+    "orderDate": "2025-01-18",
+    "items": [
+      {
+        "name": "Logitech MX Master 3",
+        "qty": 2
+      },
+      {
+        "name": "Dell XPS 15",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "userId": 100,
+    "orderAmount": 107,
+    "orderDate": "2024-09-25",
+    "items": [
+      {
+        "name": "Netgear Nighthawk AX12",
+        "qty": 1
+      },
+      {
+        "name": "Eero Pro 6",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "userId": 100,
+    "orderAmount": 451,
+    "orderDate": "2024-09-06",
+    "items": [
+      {
+        "name": "Nikon Z6 II",
+        "qty": 1
+      },
+      {
+        "name": "Kindle Paperwhite",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "userId": 101,
+    "orderAmount": 307,
+    "orderDate": "2024-05-23",
+    "items": [
+      {
+        "name": "Samsung SSD 980",
+        "qty": 3
+      },
+      {
+        "name": "Samsung Galaxy S23",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "userId": 101,
+    "orderAmount": 556,
+    "orderDate": "2025-01-20",
+    "items": [
+      {
+        "name": "HP Envy 13",
+        "qty": 2
+      },
+      {
+        "name": "Bose QuietComfort Earbuds",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "userId": 101,
+    "orderAmount": 581,
+    "orderDate": "2024-10-21",
+    "items": [
+      {
+        "name": "Apple Watch Series 9",
+        "qty": 3
+      },
+      {
+        "name": "Netgear Nighthawk AX12",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "userId": 101,
+    "orderAmount": 158,
+    "orderDate": "2024-07-06",
+    "items": [
+      {
+        "name": "Samsung Galaxy S23",
+        "qty": 1
+      },
+      {
+        "name": "Google Nest Hub",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "userId": 101,
+    "orderAmount": 296,
+    "orderDate": "2024-07-19",
+    "items": [
+      {
+        "name": "Nintendo Switch",
+        "qty": 2
+      },
+      {
+        "name": "Amazon Echo Dot",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "userId": 102,
+    "orderAmount": 515,
+    "orderDate": "2024-06-24",
+    "items": [
+      {
+        "name": "Sony WH-1000XM5",
+        "qty": 1
+      },
+      {
+        "name": "Samsung SSD 980",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "userId": 103,
+    "orderAmount": 593,
+    "orderDate": "2024-09-22",
+    "items": [
+      {
+        "name": "Samsung Galaxy S23",
+        "qty": 1
+      },
+      {
+        "name": "Fitbit Charge 5",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "userId": 103,
+    "orderAmount": 114,
+    "orderDate": "2025-03-12",
+    "items": [
+      {
+        "name": "Razer DeathAdder V2",
+        "qty": 1
+      },
+      {
+        "name": "Lenovo ThinkPad X1",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "userId": 103,
+    "orderAmount": 239,
+    "orderDate": "2024-06-06",
+    "items": [
+      {
+        "name": "Fitbit Charge 5",
+        "qty": 2
+      },
+      {
+        "name": "Amazon Echo Dot",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "userId": 104,
+    "orderAmount": 141,
+    "orderDate": "2024-07-12",
+    "items": [
+      {
+        "name": "Bose QuietComfort Earbuds",
+        "qty": 1
+      },
+      {
+        "name": "Nikon Z6 II",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "userId": 104,
+    "orderAmount": 106,
+    "orderDate": "2024-09-12",
+    "items": [
+      {
+        "name": "DJI Mini 3 Pro",
+        "qty": 1
+      },
+      {
+        "name": "Dell XPS 15",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "userId": 104,
+    "orderAmount": 548,
+    "orderDate": "2024-07-09",
+    "items": [
+      {
+        "name": "Fitbit Charge 5",
+        "qty": 1
+      },
+      {
+        "name": "TP-Link Archer AX50",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "userId": 105,
+    "orderAmount": 178,
+    "orderDate": "2025-01-30",
+    "items": [
+      {
+        "name": "Nintendo Switch",
+        "qty": 3
+      },
+      {
+        "name": "Razer DeathAdder V2",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "userId": 105,
+    "orderAmount": 381,
+    "orderDate": "2025-01-02",
+    "items": [
+      {
+        "name": "Fitbit Charge 5",
+        "qty": 3
+      },
+      {
+        "name": "Sony WH-1000XM5",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "userId": 106,
+    "orderAmount": 476,
+    "orderDate": "2025-04-27",
+    "items": [
+      {
+        "name": "Dell XPS 15",
+        "qty": 2
+      },
+      {
+        "name": "PlayStation 5",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "userId": 106,
+    "orderAmount": 326,
+    "orderDate": "2024-07-23",
+    "items": [
+      {
+        "name": "Nintendo Switch",
+        "qty": 3
+      },
+      {
+        "name": "Bose QuietComfort Earbuds",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "userId": 106,
+    "orderAmount": 447,
+    "orderDate": "2025-01-28",
+    "items": [
+      {
+        "name": "Anker PowerCore",
+        "qty": 3
+      },
+      {
+        "name": "Nikon Z6 II",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "userId": 107,
+    "orderAmount": 277,
+    "orderDate": "2024-10-20",
+    "items": [
+      {
+        "name": "Anker PowerCore",
+        "qty": 2
+      },
+      {
+        "name": "Samsung Galaxy S23",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "userId": 108,
+    "orderAmount": 290,
+    "orderDate": "2024-09-15",
+    "items": [
+      {
+        "name": "Netgear Nighthawk AX12",
+        "qty": 2
+      },
+      {
+        "name": "HP Envy 13",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "userId": 108,
+    "orderAmount": 486,
+    "orderDate": "2024-10-01",
+    "items": [
+      {
+        "name": "Kindle Paperwhite",
+        "qty": 3
+      },
+      {
+        "name": "Xbox Series X",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "userId": 108,
+    "orderAmount": 335,
+    "orderDate": "2025-03-16",
+    "items": [
+      {
+        "name": "Kindle Paperwhite",
+        "qty": 2
+      },
+      {
+        "name": "Razer DeathAdder V2",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "userId": 108,
+    "orderAmount": 123,
+    "orderDate": "2025-02-18",
+    "items": [
+      {
+        "name": "TP-Link Archer AX50",
+        "qty": 3
+      },
+      {
+        "name": "Google Nest Hub",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "userId": 109,
+    "orderAmount": 140,
+    "orderDate": "2025-03-09",
+    "items": [
+      {
+        "name": "MacBook Pro",
+        "qty": 1
+      },
+      {
+        "name": "Eero Pro 6",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "userId": 110,
+    "orderAmount": 448,
+    "orderDate": "2024-11-18",
+    "items": [
+      {
+        "name": "Sony WH-1000XM5",
+        "qty": 1
+      },
+      {
+        "name": "Samsung SSD 980",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "userId": 110,
+    "orderAmount": 365,
+    "orderDate": "2024-10-27",
+    "items": [
+      {
+        "name": "Amazon Echo Dot",
+        "qty": 3
+      },
+      {
+        "name": "Xbox Series X",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "userId": 110,
+    "orderAmount": 523,
+    "orderDate": "2024-10-28",
+    "items": [
+      {
+        "name": "Eero Pro 6",
+        "qty": 3
+      },
+      {
+        "name": "DJI Mini 3 Pro",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "userId": 110,
+    "orderAmount": 346,
+    "orderDate": "2024-09-21",
+    "items": [
+      {
+        "name": "Apple Watch Series 9",
+        "qty": 2
+      },
+      {
+        "name": "Tile Mate",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "userId": 110,
+    "orderAmount": 201,
+    "orderDate": "2024-05-06",
+    "items": [
+      {
+        "name": "Xbox Series X",
+        "qty": 1
+      },
+      {
+        "name": "Amazon Echo Dot",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "userId": 111,
+    "orderAmount": 378,
+    "orderDate": "2024-10-08",
+    "items": [
+      {
+        "name": "HP Envy 13",
+        "qty": 1
+      },
+      {
+        "name": "Lenovo ThinkPad X1",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "userId": 111,
+    "orderAmount": 113,
+    "orderDate": "2024-09-10",
+    "items": [
+      {
+        "name": "Razer DeathAdder V2",
+        "qty": 2
+      },
+      {
+        "name": "JBL Flip 6",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "userId": 111,
+    "orderAmount": 421,
+    "orderDate": "2024-10-08",
+    "items": [
+      {
+        "name": "TP-Link Archer AX50",
+        "qty": 2
+      },
+      {
+        "name": "MacBook Pro",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "userId": 111,
+    "orderAmount": 459,
+    "orderDate": "2024-07-25",
+    "items": [
+      {
+        "name": "Google Nest Hub",
+        "qty": 2
+      },
+      {
+        "name": "Nikon Z6 II",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "userId": 112,
+    "orderAmount": 248,
+    "orderDate": "2025-03-07",
+    "items": [
+      {
+        "name": "PlayStation 5",
+        "qty": 2
+      },
+      {
+        "name": "Razer DeathAdder V2",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "userId": 112,
+    "orderAmount": 394,
+    "orderDate": "2025-01-09",
+    "items": [
+      {
+        "name": "Anker PowerCore",
+        "qty": 2
+      },
+      {
+        "name": "Logitech MX Master 3",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "userId": 112,
+    "orderAmount": 402,
+    "orderDate": "2025-03-09",
+    "items": [
+      {
+        "name": "MacBook Pro",
+        "qty": 2
+      },
+      {
+        "name": "Netgear Nighthawk AX12",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "userId": 113,
+    "orderAmount": 387,
+    "orderDate": "2025-02-03",
+    "items": [
+      {
+        "name": "Razer DeathAdder V2",
+        "qty": 3
+      },
+      {
+        "name": "Eero Pro 6",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "userId": 113,
+    "orderAmount": 542,
+    "orderDate": "2024-11-12",
+    "items": [
+      {
+        "name": "Tile Mate",
+        "qty": 3
+      },
+      {
+        "name": "Google Nest Hub",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "userId": 114,
+    "orderAmount": 249,
+    "orderDate": "2025-03-11",
+    "items": [
+      {
+        "name": "PlayStation 5",
+        "qty": 2
+      },
+      {
+        "name": "Xbox Series X",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "userId": 114,
+    "orderAmount": 407,
+    "orderDate": "2025-01-31",
+    "items": [
+      {
+        "name": "Anker PowerCore",
+        "qty": 1
+      },
+      {
+        "name": "Netgear Nighthawk AX12",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "userId": 115,
+    "orderAmount": 397,
+    "orderDate": "2024-05-28",
+    "items": [
+      {
+        "name": "Canon EOS R6",
+        "qty": 3
+      },
+      {
+        "name": "DJI Mini 3 Pro",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "userId": 116,
+    "orderAmount": 246,
+    "orderDate": "2024-06-01",
+    "items": [
+      {
+        "name": "DJI Mini 3 Pro",
+        "qty": 3
+      },
+      {
+        "name": "Amazon Echo Dot",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "userId": 116,
+    "orderAmount": 581,
+    "orderDate": "2024-06-01",
+    "items": [
+      {
+        "name": "WD My Passport",
+        "qty": 2
+      },
+      {
+        "name": "Bose QuietComfort Earbuds",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "userId": 116,
+    "orderAmount": 511,
+    "orderDate": "2024-09-23",
+    "items": [
+      {
+        "name": "Apple Watch Series 9",
+        "qty": 2
+      },
+      {
+        "name": "DJI Mini 3 Pro",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "userId": 116,
+    "orderAmount": 309,
+    "orderDate": "2024-11-21",
+    "items": [
+      {
+        "name": "Apple Watch Series 9",
+        "qty": 1
+      },
+      {
+        "name": "PlayStation 5",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "userId": 116,
+    "orderAmount": 497,
+    "orderDate": "2025-04-22",
+    "items": [
+      {
+        "name": "MacBook Pro",
+        "qty": 2
+      },
+      {
+        "name": "Anker PowerCore",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "userId": 117,
+    "orderAmount": 313,
+    "orderDate": "2025-01-05",
+    "items": [
+      {
+        "name": "Tile Mate",
+        "qty": 2
+      },
+      {
+        "name": "Amazon Echo Dot",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "userId": 117,
+    "orderAmount": 223,
+    "orderDate": "2024-12-14",
+    "items": [
+      {
+        "name": "Anker PowerCore",
+        "qty": 1
+      },
+      {
+        "name": "Netgear Nighthawk AX12",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "userId": 117,
+    "orderAmount": 495,
+    "orderDate": "2025-03-13",
+    "items": [
+      {
+        "name": "Dell XPS 15",
+        "qty": 3
+      },
+      {
+        "name": "Anker PowerCore",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "userId": 118,
+    "orderAmount": 319,
+    "orderDate": "2024-06-06",
+    "items": [
+      {
+        "name": "Samsung SSD 980",
+        "qty": 1
+      },
+      {
+        "name": "Netgear Nighthawk AX12",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "userId": 118,
+    "orderAmount": 173,
+    "orderDate": "2024-06-10",
+    "items": [
+      {
+        "name": "Sony WH-1000XM5",
+        "qty": 3
+      },
+      {
+        "name": "DJI Mini 3 Pro",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "userId": 118,
+    "orderAmount": 523,
+    "orderDate": "2025-04-30",
+    "items": [
+      {
+        "name": "GoPro Hero 11",
+        "qty": 1
+      },
+      {
+        "name": "WD My Passport",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "userId": 119,
+    "orderAmount": 296,
+    "orderDate": "2025-03-29",
+    "items": [
+      {
+        "name": "PlayStation 5",
+        "qty": 2
+      },
+      {
+        "name": "Xbox Series X",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "userId": 119,
+    "orderAmount": 531,
+    "orderDate": "2024-05-08",
+    "items": [
+      {
+        "name": "Samsung Galaxy S23",
+        "qty": 1
+      },
+      {
+        "name": "Kindle Paperwhite",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "userId": 119,
+    "orderAmount": 378,
+    "orderDate": "2025-03-10",
+    "items": [
+      {
+        "name": "Amazon Echo Dot",
+        "qty": 2
+      },
+      {
+        "name": "Anker PowerCore",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "userId": 119,
+    "orderAmount": 246,
+    "orderDate": "2024-11-05",
+    "items": [
+      {
+        "name": "Nintendo Switch",
+        "qty": 1
+      },
+      {
+        "name": "Samsung SSD 980",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "userId": 119,
+    "orderAmount": 113,
+    "orderDate": "2025-02-02",
+    "items": [
+      {
+        "name": "GoPro Hero 11",
+        "qty": 2
+      },
+      {
+        "name": "Anker PowerCore",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "userId": 120,
+    "orderAmount": 154,
+    "orderDate": "2024-06-15",
+    "items": [
+      {
+        "name": "JBL Flip 6",
+        "qty": 1
+      },
+      {
+        "name": "Nintendo Switch",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "userId": 120,
+    "orderAmount": 326,
+    "orderDate": "2025-03-14",
+    "items": [
+      {
+        "name": "Razer DeathAdder V2",
+        "qty": 3
+      },
+      {
+        "name": "GoPro Hero 11",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "userId": 120,
+    "orderAmount": 248,
+    "orderDate": "2024-05-24",
+    "items": [
+      {
+        "name": "Sony WH-1000XM5",
+        "qty": 2
+      },
+      {
+        "name": "WD My Passport",
+        "qty": 1
+      }
+    ]
+  }
+]

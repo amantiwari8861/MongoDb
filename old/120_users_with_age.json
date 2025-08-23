@@ -1,0 +1,3626 @@
+[
+  {
+    "userId": 1,
+    "name": "Aaryahi Grewal",
+    "mobileNo": 6246478589,
+    "isMarried": false,
+    "age": null,
+    "skills": [
+      "Spring Boot",
+      "MEAN",
+      "Node.js",
+      "MERN"
+    ],
+    "address": {
+      "city": "Jamnagar",
+      "state": "Andhra Pradesh",
+      "pincode": 164651,
+      "street": "144, Chauhan Street"
+    },
+    "dob": "1995-12-07T00:00:00.000Z",
+    "projects": [
+      {
+        "projectName": "E-commerce Platform",
+        "projectDescription": "Developed a full-stack e-commerce website using MEAN stack."
+      },
+      {
+        "projectName": "Task Management App",
+        "projectDescription": "Created a MERN-based task management application."
+      }
+    ],
+    "salary": 44372
+  },
+  {
+    "userId": 2,
+    "name": "Nayantara Chaudhuri",
+    "mobileNo": 8833208154,
+    "isMarried": true,
+    "age": 48,
+    "skills": [
+      "Node.js",
+      "Spring Boot",
+      "React"
+    ],
+    "address": {
+      "city": "Surendranagar Dudhrej",
+      "state": "Arunachal Pradesh",
+      "pincode": 611557,
+      "street": "811\nVarkey Nagar"
+    },
+    "dob": "1990-08-25T00:00:00.000Z",
+    "projects": [
+      {
+        "projectName": "E-commerce Platform",
+        "projectDescription": "Developed a full-stack e-commerce website using MEAN stack."
+      },
+      {
+        "projectName": "Task Management App",
+        "projectDescription": "Created a MERN-based task management application."
+      }
+    ],
+    "salary": 116588
+  },
+  {
+    "userId": 3,
+    "name": "Indrans Bora",
+    "mobileNo": 8129863997,
+    "isMarried": false,
+    "age": 98,
+    "skills": [
+      "React",
+      "MongoDB",
+      "Angular",
+      "Spring Boot",
+      "SQL"
+    ],
+    "address": {
+      "city": "Jabalpur",
+      "state": "Meghalaya",
+      "pincode": 547116,
+      "street": "861, Randhawa Nagar"
+    },
+    "dob": "1995-10-08T00:00:00.000Z",
+    "projects": [
+      {
+        "projectName": "E-commerce Platform",
+        "projectDescription": "Developed a full-stack e-commerce website using MEAN stack."
+      },
+      {
+        "projectName": "Task Management App",
+        "projectDescription": "Created a MERN-based task management application."
+      }
+    ],
+    "salary": 40230
+  },
+  {
+    "userId": 4,
+    "name": "Trisha Ray",
+    "mobileNo": 3903293773,
+    "isMarried": false,
+    "age": 44,
+    "skills": [
+      "SQL",
+      "MEAN",
+      "MERN",
+      "Spring Boot"
+    ],
+    "address": {
+      "city": "Dibrugarh",
+      "state": "Punjab",
+      "pincode": 154951,
+      "street": "90\nGuha Road"
+    },
+    "dob": "1990-01-14T00:00:00.000Z",
+    "projects": [
+      {
+        "projectName": "E-commerce Platform",
+        "projectDescription": "Developed a full-stack e-commerce website using MEAN stack."
+      },
+      {
+        "projectName": "Task Management App",
+        "projectDescription": "Created a MERN-based task management application."
+      }
+    ],
+    "salary": 49932
+  },
+  {
+    "userId": 5,
+    "name": "Shlok Deol",
+    "mobileNo": 1437755588,
+    "isMarried": true,
+    "age": 66,
+    "skills": [
+      "Node.js",
+      "SQL",
+      "React",
+      "Angular",
+      "MERN"
+    ],
+    "address": {
+      "city": "New Delhi",
+      "state": "Rajasthan",
+      "pincode": 219990,
+      "street": "29/58\nZacharia Circle"
+    },
+    "dob": "1995-02-18T00:00:00.000Z",
+    "projects": [
+      {
+        "projectName": "E-commerce Platform",
+        "projectDescription": "Developed a full-stack e-commerce website using MEAN stack."
+      },
+      {
+        "projectName": "Task Management App",
+        "projectDescription": "Created a MERN-based task management application."
+      }
+    ],
+    "salary": 76097
+  },
+  {
+    "userId": 6,
+    "name": "Vivaan Brar",
+    "mobileNo": 4271800023,
+    "isMarried": false,
+    "age": 26,
+    "skills": [
+      "SQL",
+      "MongoDB",
+      "MEAN",
+      "Spring Boot",
+      "JAVA FSD"
+    ],
+    "address": {
+      "city": "Guna",
+      "state": "West Bengal",
+      "pincode": 660288,
+      "street": "69/931\nDalal Street"
+    },
+    "dob": "2003-09-11T00:00:00.000Z",
+    "projects": [
+      {
+        "projectName": "E-commerce Platform",
+        "projectDescription": "Developed a full-stack e-commerce website using MEAN stack."
+      },
+      {
+        "projectName": "Task Management App",
+        "projectDescription": "Created a MERN-based task management application."
+      }
+    ],
+    "salary": 35095
+  },
+  {
+    "userId": 7,
+    "name": "Aayush Dani",
+    "mobileNo": 5308907872,
+    "isMarried": false,
+    "age": 35,
+    "skills": [
+      "JAVA FSD",
+      "Node.js",
+      "Spring Boot"
+    ],
+    "address": {
+      "city": "Munger",
+      "state": "Mizoram",
+      "pincode": 147664,
+      "street": "88, Yadav Chowk"
+    },
+    "dob": "1995-07-25T00:00:00.000Z",
+    "projects": [
+      {
+        "projectName": "E-commerce Platform",
+        "projectDescription": "Developed a full-stack e-commerce website using MEAN stack."
+      },
+      {
+        "projectName": "Task Management App",
+        "projectDescription": "Created a MERN-based task management application."
+      }
+    ],
+    "salary": 94262
+  },
+  {
+    "userId": 8,
+    "name": "Dishani Basak",
+    "mobileNo": 9584201177,
+    "isMarried": false,
+    "age": 47,
+    "skills": [
+      "JAVA FSD",
+      "MongoDB",
+      "MEAN"
+    ],
+    "address": {
+      "city": "Lucknow",
+      "state": "Haryana",
+      "pincode": 155690,
+      "street": "H.No. 75, Uppal Circle"
+    },
+    "dob": "1994-10-21T00:00:00.000Z",
+    "projects": [
+      {
+        "projectName": "E-commerce Platform",
+        "projectDescription": "Developed a full-stack e-commerce website using MEAN stack."
+      },
+      {
+        "projectName": "Task Management App",
+        "projectDescription": "Created a MERN-based task management application."
+      }
+    ],
+    "salary": 63081
+  },
+  {
+    "userId": 9,
+    "name": "Jayesh Mahal",
+    "mobileNo": 4856574803,
+    "isMarried": false,
+    "age": 42,
+    "skills": [
+      "MERN",
+      "MongoDB",
+      "MEAN",
+      "JAVA FSD",
+      "Node.js"
+    ],
+    "address": {
+      "city": "Chandrapur",
+      "state": "Sikkim",
+      "pincode": 179841,
+      "street": "40/324\nKuruvilla Path"
+    },
+    "dob": "2001-03-24T00:00:00.000Z",
+    "projects": [
+      {
+        "projectName": "E-commerce Platform",
+        "projectDescription": "Developed a full-stack e-commerce website using MEAN stack."
+      },
+      {
+        "projectName": "Task Management App",
+        "projectDescription": "Created a MERN-based task management application."
+      }
+    ],
+    "salary": 80783
+  },
+  {
+    "userId": 10,
+    "name": "Nitara Goel",
+    "mobileNo": 2863822994,
+    "isMarried": false,
+    "age": 39,
+    "skills": [
+      "JAVA FSD",
+      "MERN",
+      "Angular",
+      "MongoDB"
+    ],
+    "address": {
+      "city": "Ongole",
+      "state": "Mizoram",
+      "pincode": 411971,
+      "street": "H.No. 92, Johal Nagar"
+    },
+    "dob": "1991-01-22T00:00:00.000Z",
+    "projects": [
+      {
+        "projectName": "E-commerce Platform",
+        "projectDescription": "Developed a full-stack e-commerce website using MEAN stack."
+      },
+      {
+        "projectName": "Task Management App",
+        "projectDescription": "Created a MERN-based task management application."
+      }
+    ],
+    "salary": 32971
+  },
+  {
+    "userId": 11,
+    "name": "Stuvan Arora",
+    "mobileNo": 4677525359,
+    "isMarried": false,
+    "age": 92,
+    "skills": [
+      "MERN",
+      "Angular",
+      "MEAN",
+      "SQL",
+      "Node.js"
+    ],
+    "address": {
+      "city": "Vadodara",
+      "state": "Gujarat",
+      "pincode": 338451,
+      "street": "17, Sahota Path"
+    },
+    "dob": "1998-04-26T00:00:00.000Z",
+    "projects": [
+      {
+        "projectName": "E-commerce Platform",
+        "projectDescription": "Developed a full-stack e-commerce website using MEAN stack."
+      },
+      {
+        "projectName": "Task Management App",
+        "projectDescription": "Created a MERN-based task management application."
+      }
+    ],
+    "salary": 80041
+  },
+  {
+    "userId": 12,
+    "name": "Jhanvi Sharaf",
+    "mobileNo": 1549375823,
+    "isMarried": true,
+    "age": 68,
+    "skills": [
+      "React",
+      "MERN",
+      "Node.js",
+      "MongoDB",
+      "MEAN"
+    ],
+    "address": {
+      "city": "Thiruvananthapuram",
+      "state": "Gujarat",
+      "pincode": 815054,
+      "street": "70\nRastogi Path"
+    },
+    "dob": "1994-10-22T00:00:00.000Z",
+    "projects": [
+      {
+        "projectName": "E-commerce Platform",
+        "projectDescription": "Developed a full-stack e-commerce website using MEAN stack."
+      },
+      {
+        "projectName": "Task Management App",
+        "projectDescription": "Created a MERN-based task management application."
+      }
+    ],
+    "salary": 89678
+  },
+  {
+    "userId": 13,
+    "name": "Ishaan Tandon",
+    "mobileNo": 8597232664,
+    "isMarried": false,
+    "age": 19,
+    "skills": [
+      "Angular",
+      "React",
+      "Spring Boot"
+    ],
+    "address": {
+      "city": "Gulbarga",
+      "state": "Bihar",
+      "pincode": 962469,
+      "street": "50\nBumb Ganj"
+    },
+    "dob": "1992-08-16T00:00:00.000Z",
+    "projects": [
+      {
+        "projectName": "E-commerce Platform",
+        "projectDescription": "Developed a full-stack e-commerce website using MEAN stack."
+      },
+      {
+        "projectName": "Task Management App",
+        "projectDescription": "Created a MERN-based task management application."
+      }
+    ],
+    "salary": 104352
+  },
+  {
+    "userId": 14,
+    "name": "Anay Agate",
+    "mobileNo": 3668100316,
+    "isMarried": false,
+    "age": 85,
+    "skills": [
+      "React",
+      "MERN",
+      "Node.js"
+    ],
+    "address": {
+      "city": "Tirunelveli",
+      "state": "Nagaland",
+      "pincode": 133543,
+      "street": "48/53, Majumdar Nagar"
+    },
+    "dob": "1989-12-11T00:00:00.000Z",
+    "projects": [
+      {
+        "projectName": "E-commerce Platform",
+        "projectDescription": "Developed a full-stack e-commerce website using MEAN stack."
+      },
+      {
+        "projectName": "Task Management App",
+        "projectDescription": "Created a MERN-based task management application."
+      }
+    ],
+    "salary": 87986
+  },
+  {
+    "userId": 15,
+    "name": "Kanav Sarkar",
+    "mobileNo": 1333128121,
+    "isMarried": false,
+    "age": 38,
+    "skills": [
+      "MERN",
+      "React",
+      "Angular",
+      "MongoDB",
+      "SQL"
+    ],
+    "address": {
+      "city": "Kollam",
+      "state": "Jharkhand",
+      "pincode": 868065,
+      "street": "H.No. 489, Gokhale Circle"
+    },
+    "dob": "2004-03-25T00:00:00.000Z",
+    "projects": [
+      {
+        "projectName": "E-commerce Platform",
+        "projectDescription": "Developed a full-stack e-commerce website using MEAN stack."
+      },
+      {
+        "projectName": "Task Management App",
+        "projectDescription": "Created a MERN-based task management application."
+      }
+    ],
+    "salary": 32978
+  },
+  {
+    "userId": 16,
+    "name": "Indrajit Basu",
+    "mobileNo": 9516363770,
+    "isMarried": true,
+    "age": 26,
+    "skills": [
+      "Angular",
+      "JAVA FSD",
+      "MERN"
+    ],
+    "address": {
+      "city": "Tirupati",
+      "state": "Rajasthan",
+      "pincode": 978789,
+      "street": "H.No. 661, Solanki Chowk"
+    },
+    "dob": "1996-07-20T00:00:00.000Z",
+    "projects": [
+      {
+        "projectName": "E-commerce Platform",
+        "projectDescription": "Developed a full-stack e-commerce website using MEAN stack."
+      },
+      {
+        "projectName": "Task Management App",
+        "projectDescription": "Created a MERN-based task management application."
+      }
+    ],
+    "salary": 69669
+  },
+  {
+    "userId": 17,
+    "name": "Kartik Dhillon",
+    "mobileNo": 4064279157,
+    "isMarried": true,
+    "age": 97,
+    "skills": [
+      "MongoDB",
+      "JAVA FSD",
+      "MERN",
+      "React",
+      "Node.js"
+    ],
+    "address": {
+      "city": "Bhilai",
+      "state": "Tamil Nadu",
+      "pincode": 600492,
+      "street": "H.No. 89, Thakkar Chowk"
+    },
+    "dob": "1993-06-17T00:00:00.000Z",
+    "projects": [
+      {
+        "projectName": "E-commerce Platform",
+        "projectDescription": "Developed a full-stack e-commerce website using MEAN stack."
+      },
+      {
+        "projectName": "Task Management App",
+        "projectDescription": "Created a MERN-based task management application."
+      }
+    ],
+    "salary": 32626
+  },
+  {
+    "userId": 18,
+    "name": "Mishti Tara",
+    "mobileNo": 6662114222,
+    "isMarried": false,
+    "age": 40,
+    "skills": [
+      "Spring Boot",
+      "React",
+      "MEAN",
+      "Angular"
+    ],
+    "address": {
+      "city": "Bhiwandi",
+      "state": "Karnataka",
+      "pincode": 399406,
+      "street": "034\nLoke Path"
+    },
+    "dob": "1990-10-10T00:00:00.000Z",
+    "projects": [
+      {
+        "projectName": "E-commerce Platform",
+        "projectDescription": "Developed a full-stack e-commerce website using MEAN stack."
+      },
+      {
+        "projectName": "Task Management App",
+        "projectDescription": "Created a MERN-based task management application."
+      }
+    ],
+    "salary": 65402
+  },
+  {
+    "userId": 19,
+    "name": "Akarsh Boase",
+    "mobileNo": 2218538709,
+    "isMarried": false,
+    "age": 63,
+    "skills": [
+      "Node.js",
+      "Angular",
+      "JAVA FSD",
+      "Spring Boot",
+      "MEAN"
+    ],
+    "address": {
+      "city": "Bettiah",
+      "state": "Meghalaya",
+      "pincode": 787794,
+      "street": "49/442\nThakur"
+    },
+    "dob": "1992-02-10T00:00:00.000Z",
+    "projects": [
+      {
+        "projectName": "E-commerce Platform",
+        "projectDescription": "Developed a full-stack e-commerce website using MEAN stack."
+      },
+      {
+        "projectName": "Task Management App",
+        "projectDescription": "Created a MERN-based task management application."
+      }
+    ],
+    "salary": 119619
+  },
+  {
+    "userId": 20,
+    "name": "Priyansh Shah",
+    "mobileNo": 7238223873,
+    "isMarried": true,
+    "age": 52,
+    "skills": [
+      "Node.js",
+      "SQL",
+      "JAVA FSD",
+      "MEAN",
+      "MERN"
+    ],
+    "address": {
+      "city": "Bhagalpur",
+      "state": "Nagaland",
+      "pincode": 775488,
+      "street": "20/954\nSidhu Marg"
+    },
+    "dob": "2000-03-02T00:00:00.000Z",
+    "projects": [
+      {
+        "projectName": "E-commerce Platform",
+        "projectDescription": "Developed a full-stack e-commerce website using MEAN stack."
+      },
+      {
+        "projectName": "Task Management App",
+        "projectDescription": "Created a MERN-based task management application."
+      }
+    ],
+    "salary": 92813
+  },
+  {
+    "userId": 21,
+    "name": "Jiya Brar",
+    "mobileNo": 1090184784,
+    "isMarried": true,
+    "age": 23,
+    "skills": [
+      "Node.js",
+      "JAVA FSD",
+      "Angular",
+      "React"
+    ],
+    "address": {
+      "city": "Ujjain",
+      "state": "Kerala",
+      "pincode": 829823,
+      "street": "22/000, Balasubramanian Circle"
+    },
+    "dob": "1990-09-30T00:00:00.000Z",
+    "projects": [
+      {
+        "projectName": "E-commerce Platform",
+        "projectDescription": "Developed a full-stack e-commerce website using MEAN stack."
+      },
+      {
+        "projectName": "Task Management App",
+        "projectDescription": "Created a MERN-based task management application."
+      }
+    ],
+    "salary": 34993
+  },
+  {
+    "userId": 22,
+    "name": "Badal Kunda",
+    "mobileNo": 4606275847,
+    "isMarried": false,
+    "age": 15,
+    "skills": [
+      "Angular",
+      "MongoDB",
+      "MEAN"
+    ],
+    "address": {
+      "city": "Allahabad",
+      "state": "Rajasthan",
+      "pincode": 545315,
+      "street": "H.No. 414, Dubey Street"
+    },
+    "dob": "2002-10-19T00:00:00.000Z",
+    "projects": [
+      {
+        "projectName": "E-commerce Platform",
+        "projectDescription": "Developed a full-stack e-commerce website using MEAN stack."
+      },
+      {
+        "projectName": "Task Management App",
+        "projectDescription": "Created a MERN-based task management application."
+      }
+    ],
+    "salary": 64933
+  },
+  {
+    "userId": 23,
+    "name": "Eva Buch",
+    "mobileNo": 43678302,
+    "isMarried": true,
+    "age": 18,
+    "skills": [
+      "Angular",
+      "MEAN",
+      "MERN",
+      "Spring Boot"
+    ],
+    "address": {
+      "city": "Firozabad",
+      "state": "Punjab",
+      "pincode": 477209,
+      "street": "13/536\nLoyal Nagar"
+    },
+    "dob": "2002-08-08T00:00:00.000Z",
+    "projects": [
+      {
+        "projectName": "E-commerce Platform",
+        "projectDescription": "Developed a full-stack e-commerce website using MEAN stack."
+      },
+      {
+        "projectName": "Task Management App",
+        "projectDescription": "Created a MERN-based task management application."
+      }
+    ],
+    "salary": 31807
+  },
+  {
+    "userId": 24,
+    "name": "Lavanya Krishnan",
+    "mobileNo": 5124042021,
+    "isMarried": true,
+    "age": 39,
+    "skills": [
+      "MEAN",
+      "Angular",
+      "SQL"
+    ],
+    "address": {
+      "city": "Udaipur",
+      "state": "Jharkhand",
+      "pincode": 933516,
+      "street": "708, Shanker"
+    },
+    "dob": "1990-02-27T00:00:00.000Z",
+    "projects": [
+      {
+        "projectName": "E-commerce Platform",
+        "projectDescription": "Developed a full-stack e-commerce website using MEAN stack."
+      },
+      {
+        "projectName": "Task Management App",
+        "projectDescription": "Created a MERN-based task management application."
+      }
+    ],
+    "salary": 100828
+  },
+  {
+    "userId": 25,
+    "name": "Tiya Vora",
+    "mobileNo": 2893738235,
+    "isMarried": true,
+    "age": 46,
+    "skills": [
+      "Node.js",
+      "Spring Boot",
+      "Angular",
+      "JAVA FSD"
+    ],
+    "address": {
+      "city": "Udaipur",
+      "state": "Karnataka",
+      "pincode": 803331,
+      "street": "642, Lata Path"
+    },
+    "dob": "2000-03-11T00:00:00.000Z",
+    "projects": [
+      {
+        "projectName": "E-commerce Platform",
+        "projectDescription": "Developed a full-stack e-commerce website using MEAN stack."
+      },
+      {
+        "projectName": "Task Management App",
+        "projectDescription": "Created a MERN-based task management application."
+      }
+    ],
+    "salary": 94369
+  },
+  {
+    "userId": 26,
+    "name": "Miraya Sama",
+    "mobileNo": 7429744539,
+    "isMarried": false,
+    "age": 85,
+    "skills": [
+      "Angular",
+      "Spring Boot",
+      "MERN",
+      "Node.js",
+      "JAVA FSD"
+    ],
+    "address": {
+      "city": "Bhatpara",
+      "state": "Maharashtra",
+      "pincode": 900251,
+      "street": "46/91\nChopra Ganj"
+    },
+    "dob": "2004-04-28T00:00:00.000Z",
+    "projects": [
+      {
+        "projectName": "E-commerce Platform",
+        "projectDescription": "Developed a full-stack e-commerce website using MEAN stack."
+      },
+      {
+        "projectName": "Task Management App",
+        "projectDescription": "Created a MERN-based task management application."
+      }
+    ],
+    "salary": 79201
+  },
+  {
+    "userId": 27,
+    "name": "Yuvraj  Bajwa",
+    "mobileNo": 1854834170,
+    "isMarried": true,
+    "age": 28,
+    "skills": [
+      "Spring Boot",
+      "MERN",
+      "MEAN",
+      "SQL"
+    ],
+    "address": {
+      "city": "Ghaziabad",
+      "state": "Andhra Pradesh",
+      "pincode": 826326,
+      "street": "H.No. 717\nKakar"
+    },
+    "dob": "1996-09-04T00:00:00.000Z",
+    "projects": [
+      {
+        "projectName": "E-commerce Platform",
+        "projectDescription": "Developed a full-stack e-commerce website using MEAN stack."
+      },
+      {
+        "projectName": "Task Management App",
+        "projectDescription": "Created a MERN-based task management application."
+      }
+    ],
+    "salary": 44681
+  },
+  {
+    "userId": 28,
+    "name": "Ishaan Gokhale",
+    "mobileNo": 3779346383,
+    "isMarried": true,
+    "age": 90,
+    "skills": [
+      "Angular",
+      "SQL",
+      "Spring Boot"
+    ],
+    "address": {
+      "city": "Allahabad",
+      "state": "Arunachal Pradesh",
+      "pincode": 111767,
+      "street": "19/63\nBarman Circle"
+    },
+    "dob": "1995-12-13T00:00:00.000Z",
+    "projects": [
+      {
+        "projectName": "E-commerce Platform",
+        "projectDescription": "Developed a full-stack e-commerce website using MEAN stack."
+      },
+      {
+        "projectName": "Task Management App",
+        "projectDescription": "Created a MERN-based task management application."
+      }
+    ],
+    "salary": 99605
+  },
+  {
+    "userId": 29,
+    "name": "Aayush Bains",
+    "mobileNo": 3525540006,
+    "isMarried": false,
+    "age": 14,
+    "skills": [
+      "MERN",
+      "React",
+      "MongoDB"
+    ],
+    "address": {
+      "city": "Serampore",
+      "state": "Assam",
+      "pincode": 589459,
+      "street": "64/89\nVaidya Marg"
+    },
+    "dob": "2001-07-07T00:00:00.000Z",
+    "projects": [
+      {
+        "projectName": "E-commerce Platform",
+        "projectDescription": "Developed a full-stack e-commerce website using MEAN stack."
+      },
+      {
+        "projectName": "Task Management App",
+        "projectDescription": "Created a MERN-based task management application."
+      }
+    ],
+    "salary": 104750
+  },
+  {
+    "userId": 30,
+    "name": "Ahana  Anand",
+    "mobileNo": 5959711625,
+    "isMarried": true,
+    "age": 61,
+    "skills": [
+      "MERN",
+      "MEAN",
+      "Angular",
+      "SQL"
+    ],
+    "address": {
+      "city": "Madanapalle",
+      "state": "Haryana",
+      "pincode": 933463,
+      "street": "02/76\nChakraborty Chowk"
+    },
+    "dob": "1989-11-05T00:00:00.000Z",
+    "projects": [
+      {
+        "projectName": "E-commerce Platform",
+        "projectDescription": "Developed a full-stack e-commerce website using MEAN stack."
+      },
+      {
+        "projectName": "Task Management App",
+        "projectDescription": "Created a MERN-based task management application."
+      }
+    ],
+    "salary": 101364
+  },
+  {
+    "userId": 31,
+    "name": "Aarna Bhatia",
+    "mobileNo": 4496677670,
+    "isMarried": true,
+    "age": 81,
+    "skills": [
+      "MEAN",
+      "JAVA FSD",
+      "Spring Boot",
+      "React"
+    ],
+    "address": {
+      "city": "Yamunanagar",
+      "state": "Telangana",
+      "pincode": 41190,
+      "street": "H.No. 15, Sharaf Nagar"
+    },
+    "dob": "1994-12-27T00:00:00.000Z",
+    "projects": [
+      {
+        "projectName": "E-commerce Platform",
+        "projectDescription": "Developed a full-stack e-commerce website using MEAN stack."
+      },
+      {
+        "projectName": "Task Management App",
+        "projectDescription": "Created a MERN-based task management application."
+      }
+    ],
+    "salary": 53364
+  },
+  {
+    "userId": 32,
+    "name": "Ela Yogi",
+    "mobileNo": 355035380,
+    "isMarried": true,
+    "age": 81,
+    "skills": [
+      "SQL",
+      "MEAN",
+      "JAVA FSD",
+      "Node.js"
+    ],
+    "address": {
+      "city": "Aurangabad",
+      "state": "Assam",
+      "pincode": 508083,
+      "street": "H.No. 82\nBora Ganj"
+    },
+    "dob": "2000-08-25T00:00:00.000Z",
+    "projects": [
+      {
+        "projectName": "E-commerce Platform",
+        "projectDescription": "Developed a full-stack e-commerce website using MEAN stack."
+      },
+      {
+        "projectName": "Task Management App",
+        "projectDescription": "Created a MERN-based task management application."
+      }
+    ],
+    "salary": 105004
+  },
+  {
+    "userId": 33,
+    "name": "Eshani Kalla",
+    "mobileNo": 5768360544,
+    "isMarried": false,
+    "age": 64,
+    "skills": [
+      "SQL",
+      "Node.js",
+      "JAVA FSD"
+    ],
+    "address": {
+      "city": "Raurkela Industrial Township",
+      "state": "Meghalaya",
+      "pincode": 946687,
+      "street": "H.No. 528, Guha Chowk"
+    },
+    "dob": "1996-09-24T00:00:00.000Z",
+    "projects": [
+      {
+        "projectName": "E-commerce Platform",
+        "projectDescription": "Developed a full-stack e-commerce website using MEAN stack."
+      },
+      {
+        "projectName": "Task Management App",
+        "projectDescription": "Created a MERN-based task management application."
+      }
+    ],
+    "salary": 30152
+  },
+  {
+    "userId": 34,
+    "name": "Ehsaan Sha",
+    "mobileNo": 1904994168,
+    "isMarried": true,
+    "age": 93,
+    "skills": [
+      "Node.js",
+      "MEAN",
+      "MongoDB",
+      "SQL"
+    ],
+    "address": {
+      "city": "Karaikudi",
+      "state": "Gujarat",
+      "pincode": 757747,
+      "street": "H.No. 93, Ahuja Ganj"
+    },
+    "dob": "2001-04-16T00:00:00.000Z",
+    "projects": [
+      {
+        "projectName": "E-commerce Platform",
+        "projectDescription": "Developed a full-stack e-commerce website using MEAN stack."
+      },
+      {
+        "projectName": "Task Management App",
+        "projectDescription": "Created a MERN-based task management application."
+      }
+    ],
+    "salary": 107205
+  },
+  {
+    "userId": 35,
+    "name": "Nishith Dhar",
+    "mobileNo": 4997563894,
+    "isMarried": true,
+    "age": 51,
+    "skills": [
+      "JAVA FSD",
+      "Angular",
+      "Spring Boot",
+      "React",
+      "MERN"
+    ],
+    "address": {
+      "city": "Uluberia",
+      "state": "Uttarakhand",
+      "pincode": 333215,
+      "street": "83/682, Seshadri Zila"
+    },
+    "dob": "1990-08-03T00:00:00.000Z",
+    "projects": [
+      {
+        "projectName": "E-commerce Platform",
+        "projectDescription": "Developed a full-stack e-commerce website using MEAN stack."
+      },
+      {
+        "projectName": "Task Management App",
+        "projectDescription": "Created a MERN-based task management application."
+      }
+    ],
+    "salary": 33603
+  },
+  {
+    "userId": 36,
+    "name": "Rati Johal",
+    "mobileNo": 3869101403,
+    "isMarried": false,
+    "age": 70,
+    "skills": [
+      "MEAN",
+      "MongoDB",
+      "Angular",
+      "Node.js",
+      "SQL"
+    ],
+    "address": {
+      "city": "Surat",
+      "state": "Bihar",
+      "pincode": 638734,
+      "street": "32, Dani Marg"
+    },
+    "dob": "1997-10-17T00:00:00.000Z",
+    "projects": [
+      {
+        "projectName": "E-commerce Platform",
+        "projectDescription": "Developed a full-stack e-commerce website using MEAN stack."
+      },
+      {
+        "projectName": "Task Management App",
+        "projectDescription": "Created a MERN-based task management application."
+      }
+    ],
+    "salary": 37972
+  },
+  {
+    "userId": 37,
+    "name": "Saanvi Comar",
+    "mobileNo": 637436440,
+    "isMarried": false,
+    "age": 36,
+    "skills": [
+      "Spring Boot",
+      "JAVA FSD",
+      "Node.js",
+      "MongoDB",
+      "SQL"
+    ],
+    "address": {
+      "city": "Aizawl",
+      "state": "Madhya Pradesh",
+      "pincode": 236337,
+      "street": "55, Babu Marg"
+    },
+    "dob": "2003-07-11T00:00:00.000Z",
+    "projects": [
+      {
+        "projectName": "E-commerce Platform",
+        "projectDescription": "Developed a full-stack e-commerce website using MEAN stack."
+      },
+      {
+        "projectName": "Task Management App",
+        "projectDescription": "Created a MERN-based task management application."
+      }
+    ],
+    "salary": 46945
+  },
+  {
+    "userId": 38,
+    "name": "Kanav Barman",
+    "mobileNo": 5251804256,
+    "isMarried": true,
+    "age": 54,
+    "skills": [
+      "JAVA FSD",
+      "MERN",
+      "MongoDB",
+      "Angular",
+      "React"
+    ],
+    "address": {
+      "city": "Vellore",
+      "state": "Goa",
+      "pincode": 320202,
+      "street": "86/979, Mander Circle"
+    },
+    "dob": "2004-01-07T00:00:00.000Z",
+    "projects": [
+      {
+        "projectName": "E-commerce Platform",
+        "projectDescription": "Developed a full-stack e-commerce website using MEAN stack."
+      },
+      {
+        "projectName": "Task Management App",
+        "projectDescription": "Created a MERN-based task management application."
+      }
+    ],
+    "salary": 109568
+  },
+  {
+    "userId": 39,
+    "name": "Kismat Tella",
+    "mobileNo": 6881976932,
+    "isMarried": false,
+    "age": 44,
+    "skills": [
+      "MongoDB",
+      "React",
+      "JAVA FSD"
+    ],
+    "address": {
+      "city": "Bilaspur",
+      "state": "Nagaland",
+      "pincode": 595124,
+      "street": "025, Thaker Path"
+    },
+    "dob": "1989-12-18T00:00:00.000Z",
+    "projects": [
+      {
+        "projectName": "E-commerce Platform",
+        "projectDescription": "Developed a full-stack e-commerce website using MEAN stack."
+      },
+      {
+        "projectName": "Task Management App",
+        "projectDescription": "Created a MERN-based task management application."
+      }
+    ],
+    "salary": 108055
+  },
+  {
+    "userId": 40,
+    "name": "Lakshay Sankar",
+    "mobileNo": 7583315673,
+    "isMarried": false,
+    "age": 73,
+    "skills": [
+      "Node.js",
+      "MEAN",
+      "MERN",
+      "Spring Boot",
+      "React"
+    ],
+    "address": {
+      "city": "Latur",
+      "state": "West Bengal",
+      "pincode": 574594,
+      "street": "36\nKarpe"
+    },
+    "dob": "2003-07-13T00:00:00.000Z",
+    "projects": [
+      {
+        "projectName": "E-commerce Platform",
+        "projectDescription": "Developed a full-stack e-commerce website using MEAN stack."
+      },
+      {
+        "projectName": "Task Management App",
+        "projectDescription": "Created a MERN-based task management application."
+      }
+    ],
+    "salary": 114759
+  },
+  {
+    "userId": 41,
+    "name": "Sahil Agarwal",
+    "mobileNo": 6721594564,
+    "isMarried": false,
+    "age": 59,
+    "skills": [
+      "MEAN",
+      "JAVA FSD",
+      "MERN",
+      "Angular",
+      "MongoDB"
+    ],
+    "address": {
+      "city": "Mira-Bhayandar",
+      "state": "Andhra Pradesh",
+      "pincode": 675140,
+      "street": "394\nKaran Road"
+    },
+    "dob": "1998-08-14T00:00:00.000Z",
+    "projects": [
+      {
+        "projectName": "E-commerce Platform",
+        "projectDescription": "Developed a full-stack e-commerce website using MEAN stack."
+      },
+      {
+        "projectName": "Task Management App",
+        "projectDescription": "Created a MERN-based task management application."
+      }
+    ],
+    "salary": 96716
+  },
+  {
+    "userId": 42,
+    "name": "Anika Varma",
+    "mobileNo": 2204951984,
+    "isMarried": true,
+    "age": 93,
+    "skills": [
+      "Spring Boot",
+      "React",
+      "MongoDB",
+      "SQL",
+      "MEAN"
+    ],
+    "address": {
+      "city": "Vijayawada",
+      "state": "Madhya Pradesh",
+      "pincode": 711256,
+      "street": "61/62, Master Road"
+    },
+    "dob": "1992-01-05T00:00:00.000Z",
+    "projects": [
+      {
+        "projectName": "E-commerce Platform",
+        "projectDescription": "Developed a full-stack e-commerce website using MEAN stack."
+      },
+      {
+        "projectName": "Task Management App",
+        "projectDescription": "Created a MERN-based task management application."
+      }
+    ],
+    "salary": 79969
+  },
+  {
+    "userId": 43,
+    "name": "Charvi Thakur",
+    "mobileNo": 8280771107,
+    "isMarried": true,
+    "age": 21,
+    "skills": [
+      "MEAN",
+      "SQL",
+      "Node.js",
+      "JAVA FSD",
+      "Spring Boot"
+    ],
+    "address": {
+      "city": "Malegaon",
+      "state": "West Bengal",
+      "pincode": 288142,
+      "street": "160, Sathe Road"
+    },
+    "dob": "2003-10-01T00:00:00.000Z",
+    "projects": [
+      {
+        "projectName": "E-commerce Platform",
+        "projectDescription": "Developed a full-stack e-commerce website using MEAN stack."
+      },
+      {
+        "projectName": "Task Management App",
+        "projectDescription": "Created a MERN-based task management application."
+      }
+    ],
+    "salary": 119494
+  },
+  {
+    "userId": 44,
+    "name": "Renee Mannan",
+    "mobileNo": 4531053171,
+    "isMarried": true,
+    "age": 32,
+    "skills": [
+      "MERN",
+      "React",
+      "SQL"
+    ],
+    "address": {
+      "city": "Ramgarh",
+      "state": "Punjab",
+      "pincode": 579877,
+      "street": "690, Raju Street"
+    },
+    "dob": "1997-10-20T00:00:00.000Z",
+    "projects": [
+      {
+        "projectName": "E-commerce Platform",
+        "projectDescription": "Developed a full-stack e-commerce website using MEAN stack."
+      },
+      {
+        "projectName": "Task Management App",
+        "projectDescription": "Created a MERN-based task management application."
+      }
+    ],
+    "salary": 36088
+  },
+  {
+    "userId": 45,
+    "name": "Tanya Shan",
+    "mobileNo": 9761265209,
+    "isMarried": false,
+    "age": 91,
+    "skills": [
+      "Angular",
+      "MERN",
+      "SQL"
+    ],
+    "address": {
+      "city": "Bhalswa Jahangir Pur",
+      "state": "Haryana",
+      "pincode": 685558,
+      "street": "H.No. 241\nRamakrishnan"
+    },
+    "dob": "2002-06-25T00:00:00.000Z",
+    "projects": [
+      {
+        "projectName": "E-commerce Platform",
+        "projectDescription": "Developed a full-stack e-commerce website using MEAN stack."
+      },
+      {
+        "projectName": "Task Management App",
+        "projectDescription": "Created a MERN-based task management application."
+      }
+    ],
+    "salary": 43134
+  },
+  {
+    "userId": 46,
+    "name": "Yuvaan Dora",
+    "mobileNo": 9941630182,
+    "isMarried": true,
+    "age": 18,
+    "skills": [
+      "JAVA FSD",
+      "MongoDB",
+      "MEAN"
+    ],
+    "address": {
+      "city": "Maheshtala",
+      "state": "Meghalaya",
+      "pincode": 629815,
+      "street": "44/779, Bassi Path"
+    },
+    "dob": "1999-04-01T00:00:00.000Z",
+    "projects": [
+      {
+        "projectName": "E-commerce Platform",
+        "projectDescription": "Developed a full-stack e-commerce website using MEAN stack."
+      },
+      {
+        "projectName": "Task Management App",
+        "projectDescription": "Created a MERN-based task management application."
+      }
+    ],
+    "salary": 31546
+  },
+  {
+    "userId": 47,
+    "name": "Pari Kibe",
+    "mobileNo": 1209050313,
+    "isMarried": false,
+    "age": 84,
+    "skills": [
+      "MEAN",
+      "Angular",
+      "SQL"
+    ],
+    "address": {
+      "city": "Morena",
+      "state": "Uttarakhand",
+      "pincode": 478032,
+      "street": "816, Sarma Zila"
+    },
+    "dob": "1991-08-26T00:00:00.000Z",
+    "projects": [
+      {
+        "projectName": "E-commerce Platform",
+        "projectDescription": "Developed a full-stack e-commerce website using MEAN stack."
+      },
+      {
+        "projectName": "Task Management App",
+        "projectDescription": "Created a MERN-based task management application."
+      }
+    ],
+    "salary": 94891
+  },
+  {
+    "userId": 48,
+    "name": "Jhanvi Sekhon",
+    "mobileNo": 4627138998,
+    "isMarried": false,
+    "age": 78,
+    "skills": [
+      "Spring Boot",
+      "Angular",
+      "MongoDB",
+      "MERN",
+      "Node.js"
+    ],
+    "address": {
+      "city": "Jhansi",
+      "state": "Arunachal Pradesh",
+      "pincode": 885906,
+      "street": "05/75\nChoudhry Chowk"
+    },
+    "dob": "2001-08-16T00:00:00.000Z",
+    "projects": [
+      {
+        "projectName": "E-commerce Platform",
+        "projectDescription": "Developed a full-stack e-commerce website using MEAN stack."
+      },
+      {
+        "projectName": "Task Management App",
+        "projectDescription": "Created a MERN-based task management application."
+      }
+    ],
+    "salary": 62112
+  },
+  {
+    "userId": 49,
+    "name": "Jayesh Sura",
+    "mobileNo": 2911419742,
+    "isMarried": true,
+    "age": 66,
+    "skills": [
+      "JAVA FSD",
+      "Angular",
+      "SQL",
+      "MongoDB",
+      "MERN"
+    ],
+    "address": {
+      "city": "Rajkot",
+      "state": "Goa",
+      "pincode": 424993,
+      "street": "32/21\nKibe Ganj"
+    },
+    "dob": "2002-11-25T00:00:00.000Z",
+    "projects": [
+      {
+        "projectName": "E-commerce Platform",
+        "projectDescription": "Developed a full-stack e-commerce website using MEAN stack."
+      },
+      {
+        "projectName": "Task Management App",
+        "projectDescription": "Created a MERN-based task management application."
+      }
+    ],
+    "salary": 83225
+  },
+  {
+    "userId": 50,
+    "name": "Zeeshan Sha",
+    "mobileNo": 8941722105,
+    "isMarried": true,
+    "age": 43,
+    "skills": [
+      "Spring Boot",
+      "MongoDB",
+      "React",
+      "SQL",
+      "MERN"
+    ],
+    "address": {
+      "city": "Berhampore",
+      "state": "Kerala",
+      "pincode": 421432,
+      "street": "50/990, Gulati Marg"
+    },
+    "dob": "1990-05-16T00:00:00.000Z",
+    "projects": [
+      {
+        "projectName": "E-commerce Platform",
+        "projectDescription": "Developed a full-stack e-commerce website using MEAN stack."
+      },
+      {
+        "projectName": "Task Management App",
+        "projectDescription": "Created a MERN-based task management application."
+      }
+    ],
+    "salary": 32805
+  },
+  {
+    "userId": 51,
+    "name": "Jivin Handa",
+    "mobileNo": 2861549745,
+    "isMarried": false,
+    "age": 40,
+    "skills": [
+      "JAVA FSD",
+      "Spring Boot",
+      "MEAN",
+      "MERN",
+      "MongoDB"
+    ],
+    "address": {
+      "city": "Maheshtala",
+      "state": "Odisha",
+      "pincode": 657972,
+      "street": "H.No. 765, Aggarwal Circle"
+    },
+    "dob": "1996-07-31T00:00:00.000Z",
+    "projects": [
+      {
+        "projectName": "E-commerce Platform",
+        "projectDescription": "Developed a full-stack e-commerce website using MEAN stack."
+      },
+      {
+        "projectName": "Task Management App",
+        "projectDescription": "Created a MERN-based task management application."
+      }
+    ],
+    "salary": 114964
+  },
+  {
+    "userId": 52,
+    "name": "Mohanlal Varughese",
+    "mobileNo": 9081851618,
+    "isMarried": true,
+    "age": 23,
+    "skills": [
+      "SQL",
+      "React",
+      "Spring Boot",
+      "Angular"
+    ],
+    "address": {
+      "city": "Tadepalligudem",
+      "state": "Andhra Pradesh",
+      "pincode": 491655,
+      "street": "00, Mani Marg"
+    },
+    "dob": "1993-02-28T00:00:00.000Z",
+    "projects": [
+      {
+        "projectName": "E-commerce Platform",
+        "projectDescription": "Developed a full-stack e-commerce website using MEAN stack."
+      },
+      {
+        "projectName": "Task Management App",
+        "projectDescription": "Created a MERN-based task management application."
+      }
+    ],
+    "salary": 87099
+  },
+  {
+    "userId": 53,
+    "name": "Advik Mandal",
+    "mobileNo": 4585028742,
+    "isMarried": true,
+    "age": 27,
+    "skills": [
+      "Spring Boot",
+      "MEAN",
+      "MERN"
+    ],
+    "address": {
+      "city": "Proddatur",
+      "state": "Odisha",
+      "pincode": 964041,
+      "street": "743, Hora Ganj"
+    },
+    "dob": "1993-05-03T00:00:00.000Z",
+    "projects": [
+      {
+        "projectName": "E-commerce Platform",
+        "projectDescription": "Developed a full-stack e-commerce website using MEAN stack."
+      },
+      {
+        "projectName": "Task Management App",
+        "projectDescription": "Created a MERN-based task management application."
+      }
+    ],
+    "salary": 34703
+  },
+  {
+    "userId": 54,
+    "name": "Gokul Sem",
+    "mobileNo": 693631686,
+    "isMarried": true,
+    "age": 23,
+    "skills": [
+      "Node.js",
+      "MERN",
+      "Angular"
+    ],
+    "address": {
+      "city": "Bellary",
+      "state": "Sikkim",
+      "pincode": 333698,
+      "street": "89/971, Walla Ganj"
+    },
+    "dob": "1993-05-20T00:00:00.000Z",
+    "projects": [
+      {
+        "projectName": "E-commerce Platform",
+        "projectDescription": "Developed a full-stack e-commerce website using MEAN stack."
+      },
+      {
+        "projectName": "Task Management App",
+        "projectDescription": "Created a MERN-based task management application."
+      }
+    ],
+    "salary": 97412
+  },
+  {
+    "userId": 55,
+    "name": "Indrajit Bumb",
+    "mobileNo": 3590866003,
+    "isMarried": true,
+    "age": 53,
+    "skills": [
+      "React",
+      "MERN",
+      "JAVA FSD",
+      "Spring Boot"
+    ],
+    "address": {
+      "city": "Dewas",
+      "state": "Meghalaya",
+      "pincode": 662661,
+      "street": "H.No. 31\nSunder Nagar"
+    },
+    "dob": "1998-12-02T00:00:00.000Z",
+    "projects": [
+      {
+        "projectName": "E-commerce Platform",
+        "projectDescription": "Developed a full-stack e-commerce website using MEAN stack."
+      },
+      {
+        "projectName": "Task Management App",
+        "projectDescription": "Created a MERN-based task management application."
+      }
+    ],
+    "salary": 109988
+  },
+  {
+    "userId": 56,
+    "name": "Aaina Sidhu",
+    "mobileNo": 4607577505,
+    "isMarried": true,
+    "age": 62,
+    "skills": [
+      "MEAN",
+      "SQL",
+      "Spring Boot",
+      "Angular",
+      "JAVA FSD"
+    ],
+    "address": {
+      "city": "Hospet",
+      "state": "Tamil Nadu",
+      "pincode": 559462,
+      "street": "98, Ramachandran Street"
+    },
+    "dob": "1998-12-15T00:00:00.000Z",
+    "projects": [
+      {
+        "projectName": "E-commerce Platform",
+        "projectDescription": "Developed a full-stack e-commerce website using MEAN stack."
+      },
+      {
+        "projectName": "Task Management App",
+        "projectDescription": "Created a MERN-based task management application."
+      }
+    ],
+    "salary": 107279
+  },
+  {
+    "userId": 57,
+    "name": "Elakshi Agarwal",
+    "mobileNo": 9747599046,
+    "isMarried": false,
+    "age": 83,
+    "skills": [
+      "Spring Boot",
+      "Angular",
+      "SQL"
+    ],
+    "address": {
+      "city": "Tadepalligudem",
+      "state": "Tamil Nadu",
+      "pincode": 636341,
+      "street": "29/77\nDeep Chowk"
+    },
+    "dob": "1996-08-27T00:00:00.000Z",
+    "projects": [
+      {
+        "projectName": "E-commerce Platform",
+        "projectDescription": "Developed a full-stack e-commerce website using MEAN stack."
+      },
+      {
+        "projectName": "Task Management App",
+        "projectDescription": "Created a MERN-based task management application."
+      }
+    ],
+    "salary": 110146
+  },
+  {
+    "userId": 58,
+    "name": "Misha Saxena",
+    "mobileNo": 2029491265,
+    "isMarried": true,
+    "age": 34,
+    "skills": [
+      "MEAN",
+      "MERN",
+      "SQL",
+      "Angular"
+    ],
+    "address": {
+      "city": "Howrah",
+      "state": "Sikkim",
+      "pincode": 36653,
+      "street": "45/54\nKari Marg"
+    },
+    "dob": "1989-08-15T00:00:00.000Z",
+    "projects": [
+      {
+        "projectName": "E-commerce Platform",
+        "projectDescription": "Developed a full-stack e-commerce website using MEAN stack."
+      },
+      {
+        "projectName": "Task Management App",
+        "projectDescription": "Created a MERN-based task management application."
+      }
+    ],
+    "salary": 48891
+  },
+  {
+    "userId": 59,
+    "name": "Miraan Tata",
+    "mobileNo": 6897937120,
+    "isMarried": true,
+    "age": 72,
+    "skills": [
+      "MongoDB",
+      "JAVA FSD",
+      "MERN"
+    ],
+    "address": {
+      "city": "Baranagar",
+      "state": "Chhattisgarh",
+      "pincode": 883255,
+      "street": "28/680\nBabu Zila"
+    },
+    "dob": "1993-05-14T00:00:00.000Z",
+    "projects": [
+      {
+        "projectName": "E-commerce Platform",
+        "projectDescription": "Developed a full-stack e-commerce website using MEAN stack."
+      },
+      {
+        "projectName": "Task Management App",
+        "projectDescription": "Created a MERN-based task management application."
+      }
+    ],
+    "salary": 55858
+  },
+  {
+    "userId": 60,
+    "name": "Mohanlal Bhatti",
+    "mobileNo": 8366258705,
+    "isMarried": true,
+    "age": 32,
+    "skills": [
+      "Spring Boot",
+      "React",
+      "MERN",
+      "MongoDB",
+      "Node.js"
+    ],
+    "address": {
+      "city": "Anand",
+      "state": "Gujarat",
+      "pincode": 435184,
+      "street": "03/20, Shroff Ganj"
+    },
+    "dob": "1992-02-09T00:00:00.000Z",
+    "projects": [
+      {
+        "projectName": "E-commerce Platform",
+        "projectDescription": "Developed a full-stack e-commerce website using MEAN stack."
+      },
+      {
+        "projectName": "Task Management App",
+        "projectDescription": "Created a MERN-based task management application."
+      }
+    ],
+    "salary": 111811
+  },
+  {
+    "userId": 61,
+    "name": "Jayan Rao",
+    "mobileNo": 6017695025,
+    "isMarried": false,
+    "age": 85,
+    "skills": [
+      "MEAN",
+      "SQL",
+      "Spring Boot",
+      "Node.js"
+    ],
+    "address": {
+      "city": "Kalyan-Dombivli",
+      "state": "Goa",
+      "pincode": 136513,
+      "street": "29\nKanda"
+    },
+    "dob": "2000-03-27T00:00:00.000Z",
+    "projects": [
+      {
+        "projectName": "E-commerce Platform",
+        "projectDescription": "Developed a full-stack e-commerce website using MEAN stack."
+      },
+      {
+        "projectName": "Task Management App",
+        "projectDescription": "Created a MERN-based task management application."
+      }
+    ],
+    "salary": 106619
+  },
+  {
+    "userId": 62,
+    "name": "Shlok Kara",
+    "mobileNo": 4825550233,
+    "isMarried": false,
+    "age": 32,
+    "skills": [
+      "Angular",
+      "MERN",
+      "JAVA FSD",
+      "SQL"
+    ],
+    "address": {
+      "city": "Nagaon",
+      "state": "West Bengal",
+      "pincode": 837296,
+      "street": "70\nChaudhry Nagar"
+    },
+    "dob": "1999-05-03T00:00:00.000Z",
+    "projects": [
+      {
+        "projectName": "E-commerce Platform",
+        "projectDescription": "Developed a full-stack e-commerce website using MEAN stack."
+      },
+      {
+        "projectName": "Task Management App",
+        "projectDescription": "Created a MERN-based task management application."
+      }
+    ],
+    "salary": 58004
+  },
+  {
+    "userId": 63,
+    "name": "Keya Rattan",
+    "mobileNo": 2299284577,
+    "isMarried": true,
+    "age": 42,
+    "skills": [
+      "SQL",
+      "MongoDB",
+      "Node.js",
+      "Spring Boot"
+    ],
+    "address": {
+      "city": "Chittoor",
+      "state": "Arunachal Pradesh",
+      "pincode": 426748,
+      "street": "40, Anand Street"
+    },
+    "dob": "2003-08-29T00:00:00.000Z",
+    "projects": [
+      {
+        "projectName": "E-commerce Platform",
+        "projectDescription": "Developed a full-stack e-commerce website using MEAN stack."
+      },
+      {
+        "projectName": "Task Management App",
+        "projectDescription": "Created a MERN-based task management application."
+      }
+    ],
+    "salary": 44881
+  },
+  {
+    "userId": 64,
+    "name": "Aarna Zacharia",
+    "mobileNo": 8221384239,
+    "isMarried": false,
+    "age": 98,
+    "skills": [
+      "SQL",
+      "MEAN",
+      "JAVA FSD",
+      "Node.js"
+    ],
+    "address": {
+      "city": "Sasaram",
+      "state": "Jharkhand",
+      "pincode": 197814,
+      "street": "063\nBhasin Path"
+    },
+    "dob": "1997-03-21T00:00:00.000Z",
+    "projects": [
+      {
+        "projectName": "E-commerce Platform",
+        "projectDescription": "Developed a full-stack e-commerce website using MEAN stack."
+      },
+      {
+        "projectName": "Task Management App",
+        "projectDescription": "Created a MERN-based task management application."
+      }
+    ],
+    "salary": 58016
+  },
+  {
+    "userId": 65,
+    "name": "Sara Bhagat",
+    "mobileNo": 7086827576,
+    "isMarried": true,
+    "age": 32,
+    "skills": [
+      "MERN",
+      "Spring Boot",
+      "SQL",
+      "Node.js",
+      "MongoDB"
+    ],
+    "address": {
+      "city": "Bidar",
+      "state": "Meghalaya",
+      "pincode": 338167,
+      "street": "H.No. 325, Dalal Ganj"
+    },
+    "dob": "2003-06-29T00:00:00.000Z",
+    "projects": [
+      {
+        "projectName": "E-commerce Platform",
+        "projectDescription": "Developed a full-stack e-commerce website using MEAN stack."
+      },
+      {
+        "projectName": "Task Management App",
+        "projectDescription": "Created a MERN-based task management application."
+      }
+    ],
+    "salary": 65443
+  },
+  {
+    "userId": 66,
+    "name": "Vardaniya Kurian",
+    "mobileNo": 5778464645,
+    "isMarried": false,
+    "age": 91,
+    "skills": [
+      "JAVA FSD",
+      "MongoDB",
+      "MERN",
+      "Angular",
+      "React"
+    ],
+    "address": {
+      "city": "Deoghar",
+      "state": "Nagaland",
+      "pincode": 565249,
+      "street": "H.No. 661, Sant Path"
+    },
+    "dob": "1991-12-02T00:00:00.000Z",
+    "projects": [
+      {
+        "projectName": "E-commerce Platform",
+        "projectDescription": "Developed a full-stack e-commerce website using MEAN stack."
+      },
+      {
+        "projectName": "Task Management App",
+        "projectDescription": "Created a MERN-based task management application."
+      }
+    ],
+    "salary": 43858
+  },
+  {
+    "userId": 67,
+    "name": "Bhamini Sarin",
+    "mobileNo": 9188455540,
+    "isMarried": false,
+    "age": 17,
+    "skills": [
+      "Node.js",
+      "SQL",
+      "React"
+    ],
+    "address": {
+      "city": "Visakhapatnam",
+      "state": "Bihar",
+      "pincode": 814034,
+      "street": "H.No. 11\nRama Marg"
+    },
+    "dob": "1990-11-04T00:00:00.000Z",
+    "projects": [
+      {
+        "projectName": "E-commerce Platform",
+        "projectDescription": "Developed a full-stack e-commerce website using MEAN stack."
+      },
+      {
+        "projectName": "Task Management App",
+        "projectDescription": "Created a MERN-based task management application."
+      }
+    ],
+    "salary": 83167
+  },
+  {
+    "userId": 68,
+    "name": "Ehsaan Gandhi",
+    "mobileNo": 7921127158,
+    "isMarried": false,
+    "age": 79,
+    "skills": [
+      "MEAN",
+      "React",
+      "Spring Boot",
+      "JAVA FSD"
+    ],
+    "address": {
+      "city": "Bihar Sharif",
+      "state": "Tripura",
+      "pincode": 196432,
+      "street": "H.No. 54, Handa Ganj"
+    },
+    "dob": "1996-02-21T00:00:00.000Z",
+    "projects": [
+      {
+        "projectName": "E-commerce Platform",
+        "projectDescription": "Developed a full-stack e-commerce website using MEAN stack."
+      },
+      {
+        "projectName": "Task Management App",
+        "projectDescription": "Created a MERN-based task management application."
+      }
+    ],
+    "salary": 56769
+  },
+  {
+    "userId": 69,
+    "name": "Vardaniya Sur",
+    "mobileNo": 9572875282,
+    "isMarried": false,
+    "age": 65,
+    "skills": [
+      "SQL",
+      "React",
+      "JAVA FSD",
+      "MongoDB"
+    ],
+    "address": {
+      "city": "Ratlam",
+      "state": "Maharashtra",
+      "pincode": 960998,
+      "street": "27, Kota Path"
+    },
+    "dob": "1995-09-25T00:00:00.000Z",
+    "projects": [
+      {
+        "projectName": "E-commerce Platform",
+        "projectDescription": "Developed a full-stack e-commerce website using MEAN stack."
+      },
+      {
+        "projectName": "Task Management App",
+        "projectDescription": "Created a MERN-based task management application."
+      }
+    ],
+    "salary": 63728
+  },
+  {
+    "userId": 70,
+    "name": "Madhup Roy",
+    "mobileNo": 2541398749,
+    "isMarried": true,
+    "age": 77,
+    "skills": [
+      "JAVA FSD",
+      "SQL",
+      "Spring Boot",
+      "MEAN"
+    ],
+    "address": {
+      "city": "Alappuzha",
+      "state": "Goa",
+      "pincode": 394419,
+      "street": "282, Das Zila"
+    },
+    "dob": "2004-03-09T00:00:00.000Z",
+    "projects": [
+      {
+        "projectName": "E-commerce Platform",
+        "projectDescription": "Developed a full-stack e-commerce website using MEAN stack."
+      },
+      {
+        "projectName": "Task Management App",
+        "projectDescription": "Created a MERN-based task management application."
+      }
+    ],
+    "salary": 110922
+  },
+  {
+    "userId": 71,
+    "name": "Kartik Choudhary",
+    "mobileNo": 5245145622,
+    "isMarried": true,
+    "age": 67,
+    "skills": [
+      "JAVA FSD",
+      "MongoDB",
+      "SQL",
+      "MERN"
+    ],
+    "address": {
+      "city": "Rampur",
+      "state": "Himachal Pradesh",
+      "pincode": 340027,
+      "street": "15, Brahmbhatt Chowk"
+    },
+    "dob": "1994-07-28T00:00:00.000Z",
+    "projects": [
+      {
+        "projectName": "E-commerce Platform",
+        "projectDescription": "Developed a full-stack e-commerce website using MEAN stack."
+      },
+      {
+        "projectName": "Task Management App",
+        "projectDescription": "Created a MERN-based task management application."
+      }
+    ],
+    "salary": 109678
+  },
+  {
+    "userId": 72,
+    "name": "Kimaya Magar",
+    "mobileNo": 8694213697,
+    "isMarried": true,
+    "age": 40,
+    "skills": [
+      "MERN",
+      "React",
+      "MongoDB",
+      "SQL",
+      "Spring Boot"
+    ],
+    "address": {
+      "city": "Mango",
+      "state": "West Bengal",
+      "pincode": 929083,
+      "street": "H.No. 822, Tripathi Street"
+    },
+    "dob": "1989-06-14T00:00:00.000Z",
+    "projects": [
+      {
+        "projectName": "E-commerce Platform",
+        "projectDescription": "Developed a full-stack e-commerce website using MEAN stack."
+      },
+      {
+        "projectName": "Task Management App",
+        "projectDescription": "Created a MERN-based task management application."
+      }
+    ],
+    "salary": 115924
+  },
+  {
+    "userId": 73,
+    "name": "Kismat Kala",
+    "mobileNo": 4182490312,
+    "isMarried": false,
+    "age": 71,
+    "skills": [
+      "React",
+      "SQL",
+      "MEAN",
+      "Node.js"
+    ],
+    "address": {
+      "city": "Hapur",
+      "state": "Mizoram",
+      "pincode": 20199,
+      "street": "99, Shenoy"
+    },
+    "dob": "1994-11-15T00:00:00.000Z",
+    "projects": [
+      {
+        "projectName": "E-commerce Platform",
+        "projectDescription": "Developed a full-stack e-commerce website using MEAN stack."
+      },
+      {
+        "projectName": "Task Management App",
+        "projectDescription": "Created a MERN-based task management application."
+      }
+    ],
+    "salary": 31143
+  },
+  {
+    "userId": 74,
+    "name": "Jiya Deshmukh",
+    "mobileNo": 9725036673,
+    "isMarried": false,
+    "age": 83,
+    "skills": [
+      "Spring Boot",
+      "Angular",
+      "Node.js"
+    ],
+    "address": {
+      "city": "Gandhinagar",
+      "state": "Himachal Pradesh",
+      "pincode": 359202,
+      "street": "H.No. 895\nRout Circle"
+    },
+    "dob": "1997-12-04T00:00:00.000Z",
+    "projects": [
+      {
+        "projectName": "E-commerce Platform",
+        "projectDescription": "Developed a full-stack e-commerce website using MEAN stack."
+      },
+      {
+        "projectName": "Task Management App",
+        "projectDescription": "Created a MERN-based task management application."
+      }
+    ],
+    "salary": 52727
+  },
+  {
+    "userId": 75,
+    "name": "Gatik Varughese",
+    "mobileNo": 9775255838,
+    "isMarried": false,
+    "age": 47,
+    "skills": [
+      "Spring Boot",
+      "Node.js",
+      "Angular",
+      "MongoDB"
+    ],
+    "address": {
+      "city": "Avadi",
+      "state": "Gujarat",
+      "pincode": 165411,
+      "street": "62, Vohra Ganj"
+    },
+    "dob": "2003-08-06T00:00:00.000Z",
+    "projects": [
+      {
+        "projectName": "E-commerce Platform",
+        "projectDescription": "Developed a full-stack e-commerce website using MEAN stack."
+      },
+      {
+        "projectName": "Task Management App",
+        "projectDescription": "Created a MERN-based task management application."
+      }
+    ],
+    "salary": 33988
+  },
+  {
+    "userId": 76,
+    "name": "Alia Kibe",
+    "mobileNo": 6710986385,
+    "isMarried": false,
+    "age": 31,
+    "skills": [
+      "Node.js",
+      "SQL",
+      "JAVA FSD",
+      "MongoDB",
+      "Angular"
+    ],
+    "address": {
+      "city": "Kozhikode",
+      "state": "Uttarakhand",
+      "pincode": 724955,
+      "street": "63, Rajan"
+    },
+    "dob": "2001-03-09T00:00:00.000Z",
+    "projects": [
+      {
+        "projectName": "E-commerce Platform",
+        "projectDescription": "Developed a full-stack e-commerce website using MEAN stack."
+      },
+      {
+        "projectName": "Task Management App",
+        "projectDescription": "Created a MERN-based task management application."
+      }
+    ],
+    "salary": 111427
+  },
+  {
+    "userId": 77,
+    "name": "Tejas Chaudhry",
+    "mobileNo": 4470042155,
+    "isMarried": false,
+    "age": 33,
+    "skills": [
+      "Spring Boot",
+      "MongoDB",
+      "MEAN",
+      "Node.js",
+      "React"
+    ],
+    "address": {
+      "city": "Bathinda",
+      "state": "Uttar Pradesh",
+      "pincode": 957172,
+      "street": "H.No. 444\nBansal Circle"
+    },
+    "dob": "1996-01-24T00:00:00.000Z",
+    "projects": [
+      {
+        "projectName": "E-commerce Platform",
+        "projectDescription": "Developed a full-stack e-commerce website using MEAN stack."
+      },
+      {
+        "projectName": "Task Management App",
+        "projectDescription": "Created a MERN-based task management application."
+      }
+    ],
+    "salary": 65554
+  },
+  {
+    "userId": 78,
+    "name": "Drishya Bumb",
+    "mobileNo": 1839149815,
+    "isMarried": true,
+    "age": 47,
+    "skills": [
+      "JAVA FSD",
+      "SQL",
+      "MongoDB"
+    ],
+    "address": {
+      "city": "Latur",
+      "state": "Telangana",
+      "pincode": 876837,
+      "street": "839\nAmble Marg"
+    },
+    "dob": "1993-06-18T00:00:00.000Z",
+    "projects": [
+      {
+        "projectName": "E-commerce Platform",
+        "projectDescription": "Developed a full-stack e-commerce website using MEAN stack."
+      },
+      {
+        "projectName": "Task Management App",
+        "projectDescription": "Created a MERN-based task management application."
+      }
+    ],
+    "salary": 110559
+  },
+  {
+    "userId": 79,
+    "name": "Divit Mander",
+    "mobileNo": 3660784479,
+    "isMarried": false,
+    "age": 35,
+    "skills": [
+      "Spring Boot",
+      "MEAN",
+      "Angular"
+    ],
+    "address": {
+      "city": "Kadapa",
+      "state": "Andhra Pradesh",
+      "pincode": 892755,
+      "street": "44/766, Subramaniam Road"
+    },
+    "dob": "1996-03-15T00:00:00.000Z",
+    "projects": [
+      {
+        "projectName": "E-commerce Platform",
+        "projectDescription": "Developed a full-stack e-commerce website using MEAN stack."
+      },
+      {
+        "projectName": "Task Management App",
+        "projectDescription": "Created a MERN-based task management application."
+      }
+    ],
+    "salary": 79548
+  },
+  {
+    "userId": 80,
+    "name": "Neysa Kari",
+    "mobileNo": 78092596,
+    "isMarried": false,
+    "age": 24,
+    "skills": [
+      "JAVA FSD",
+      "MERN",
+      "React",
+      "Spring Boot",
+      "MongoDB"
+    ],
+    "address": {
+      "city": "Eluru",
+      "state": "Jharkhand",
+      "pincode": 482602,
+      "street": "H.No. 126\nHora Chowk"
+    },
+    "dob": "1991-06-12T00:00:00.000Z",
+    "projects": [
+      {
+        "projectName": "E-commerce Platform",
+        "projectDescription": "Developed a full-stack e-commerce website using MEAN stack."
+      },
+      {
+        "projectName": "Task Management App",
+        "projectDescription": "Created a MERN-based task management application."
+      }
+    ],
+    "salary": 114485
+  },
+  {
+    "userId": 81,
+    "name": "Nirvi Halder",
+    "mobileNo": 291897430,
+    "isMarried": false,
+    "age": 11,
+    "skills": [
+      "MongoDB",
+      "JAVA FSD",
+      "Spring Boot",
+      "Angular",
+      "MERN"
+    ],
+    "address": {
+      "city": "Shimoga",
+      "state": "Tripura",
+      "pincode": 118237,
+      "street": "26/133, Chana"
+    },
+    "dob": "1999-10-25T00:00:00.000Z",
+    "projects": [
+      {
+        "projectName": "E-commerce Platform",
+        "projectDescription": "Developed a full-stack e-commerce website using MEAN stack."
+      },
+      {
+        "projectName": "Task Management App",
+        "projectDescription": "Created a MERN-based task management application."
+      }
+    ],
+    "salary": 58857
+  },
+  {
+    "userId": 82,
+    "name": "Veer Trivedi",
+    "mobileNo": 2885079093,
+    "isMarried": false,
+    "age": 44,
+    "skills": [
+      "React",
+      "MEAN",
+      "MERN",
+      "MongoDB"
+    ],
+    "address": {
+      "city": "Khandwa",
+      "state": "Gujarat",
+      "pincode": 698208,
+      "street": "75/853, Sarin Path"
+    },
+    "dob": "1993-03-20T00:00:00.000Z",
+    "projects": [
+      {
+        "projectName": "E-commerce Platform",
+        "projectDescription": "Developed a full-stack e-commerce website using MEAN stack."
+      },
+      {
+        "projectName": "Task Management App",
+        "projectDescription": "Created a MERN-based task management application."
+      }
+    ],
+    "salary": 88501
+  },
+  {
+    "userId": 83,
+    "name": "Sara Singh",
+    "mobileNo": 3764557619,
+    "isMarried": false,
+    "age": 27,
+    "skills": [
+      "MEAN",
+      "SQL",
+      "MERN",
+      "React",
+      "JAVA FSD"
+    ],
+    "address": {
+      "city": "Danapur",
+      "state": "Tamil Nadu",
+      "pincode": 455285,
+      "street": "53, Sibal Street"
+    },
+    "dob": "1997-04-09T00:00:00.000Z",
+    "projects": [
+      {
+        "projectName": "E-commerce Platform",
+        "projectDescription": "Developed a full-stack e-commerce website using MEAN stack."
+      },
+      {
+        "projectName": "Task Management App",
+        "projectDescription": "Created a MERN-based task management application."
+      }
+    ],
+    "salary": 31155
+  },
+  {
+    "userId": 84,
+    "name": "Inaaya  Rajan",
+    "mobileNo": 1870974062,
+    "isMarried": false,
+    "age": 41,
+    "skills": [
+      "MongoDB",
+      "Angular",
+      "Node.js",
+      "MERN"
+    ],
+    "address": {
+      "city": "Burhanpur",
+      "state": "Kerala",
+      "pincode": 530056,
+      "street": "300\nKunda Nagar"
+    },
+    "dob": "2000-12-14T00:00:00.000Z",
+    "projects": [
+      {
+        "projectName": "E-commerce Platform",
+        "projectDescription": "Developed a full-stack e-commerce website using MEAN stack."
+      },
+      {
+        "projectName": "Task Management App",
+        "projectDescription": "Created a MERN-based task management application."
+      }
+    ],
+    "salary": 76271
+  },
+  {
+    "userId": 85,
+    "name": "Neysa Srinivas",
+    "mobileNo": 6712918854,
+    "isMarried": false,
+    "age": 68,
+    "skills": [
+      "Angular",
+      "MERN",
+      "MEAN",
+      "SQL",
+      "JAVA FSD"
+    ],
+    "address": {
+      "city": "Anand",
+      "state": "Uttarakhand",
+      "pincode": 436736,
+      "street": "H.No. 05\nJayaraman Road"
+    },
+    "dob": "1991-05-17T00:00:00.000Z",
+    "projects": [
+      {
+        "projectName": "E-commerce Platform",
+        "projectDescription": "Developed a full-stack e-commerce website using MEAN stack."
+      },
+      {
+        "projectName": "Task Management App",
+        "projectDescription": "Created a MERN-based task management application."
+      }
+    ],
+    "salary": 51059
+  },
+  {
+    "userId": 86,
+    "name": "Siya Hora",
+    "mobileNo": 7309483992,
+    "isMarried": true,
+    "age": 44,
+    "skills": [
+      "JAVA FSD",
+      "Spring Boot",
+      "MERN"
+    ],
+    "address": {
+      "city": "Chandrapur",
+      "state": "Himachal Pradesh",
+      "pincode": 105937,
+      "street": "553, Chowdhury Circle"
+    },
+    "dob": "1998-02-20T00:00:00.000Z",
+    "projects": [
+      {
+        "projectName": "E-commerce Platform",
+        "projectDescription": "Developed a full-stack e-commerce website using MEAN stack."
+      },
+      {
+        "projectName": "Task Management App",
+        "projectDescription": "Created a MERN-based task management application."
+      }
+    ],
+    "salary": 117044
+  },
+  {
+    "userId": 87,
+    "name": "Ela Buch",
+    "mobileNo": 9096253138,
+    "isMarried": true,
+    "age": 82,
+    "skills": [
+      "MERN",
+      "Spring Boot",
+      "Node.js"
+    ],
+    "address": {
+      "city": "Hazaribagh",
+      "state": "Arunachal Pradesh",
+      "pincode": 182991,
+      "street": "943, Hayre Circle"
+    },
+    "dob": "1992-11-03T00:00:00.000Z",
+    "projects": [
+      {
+        "projectName": "E-commerce Platform",
+        "projectDescription": "Developed a full-stack e-commerce website using MEAN stack."
+      },
+      {
+        "projectName": "Task Management App",
+        "projectDescription": "Created a MERN-based task management application."
+      }
+    ],
+    "salary": 44321
+  },
+  {
+    "userId": 88,
+    "name": "Zain Thaker",
+    "mobileNo": 8465081012,
+    "isMarried": false,
+    "age": 90,
+    "skills": [
+      "JAVA FSD",
+      "MEAN",
+      "Angular",
+      "MongoDB"
+    ],
+    "address": {
+      "city": "Bally",
+      "state": "Telangana",
+      "pincode": 928740,
+      "street": "617, Chaudry Nagar"
+    },
+    "dob": "1996-05-13T00:00:00.000Z",
+    "projects": [
+      {
+        "projectName": "E-commerce Platform",
+        "projectDescription": "Developed a full-stack e-commerce website using MEAN stack."
+      },
+      {
+        "projectName": "Task Management App",
+        "projectDescription": "Created a MERN-based task management application."
+      }
+    ],
+    "salary": 48383
+  },
+  {
+    "userId": 89,
+    "name": "Rohan Mallick",
+    "mobileNo": 6256231197,
+    "isMarried": false,
+    "age": 98,
+    "skills": [
+      "MERN",
+      "Node.js",
+      "Angular",
+      "JAVA FSD"
+    ],
+    "address": {
+      "city": "Nandyal",
+      "state": "Arunachal Pradesh",
+      "pincode": 928619,
+      "street": "96/83, Subramanian Chowk"
+    },
+    "dob": "1991-07-25T00:00:00.000Z",
+    "projects": [
+      {
+        "projectName": "E-commerce Platform",
+        "projectDescription": "Developed a full-stack e-commerce website using MEAN stack."
+      },
+      {
+        "projectName": "Task Management App",
+        "projectDescription": "Created a MERN-based task management application."
+      }
+    ],
+    "salary": 100300
+  },
+  {
+    "userId": 90,
+    "name": "Adah Rastogi",
+    "mobileNo": 8496392783,
+    "isMarried": false,
+    "age": 24,
+    "skills": [
+      "Spring Boot",
+      "React",
+      "Angular",
+      "SQL",
+      "MERN"
+    ],
+    "address": {
+      "city": "Khammam",
+      "state": "Jharkhand",
+      "pincode": 592863,
+      "street": "30\nAhluwalia Zila"
+    },
+    "dob": "1991-02-15T00:00:00.000Z",
+    "projects": [
+      {
+        "projectName": "E-commerce Platform",
+        "projectDescription": "Developed a full-stack e-commerce website using MEAN stack."
+      },
+      {
+        "projectName": "Task Management App",
+        "projectDescription": "Created a MERN-based task management application."
+      }
+    ],
+    "salary": 118803
+  },
+  {
+    "userId": 91,
+    "name": "Heer Ramachandran",
+    "mobileNo": 649749483,
+    "isMarried": true,
+    "age": 25,
+    "skills": [
+      "Angular",
+      "MongoDB",
+      "SQL",
+      "Spring Boot",
+      "MEAN"
+    ],
+    "address": {
+      "city": "Ludhiana",
+      "state": "Karnataka",
+      "pincode": 829383,
+      "street": "H.No. 36, Dass Circle"
+    },
+    "dob": "1995-03-03T00:00:00.000Z",
+    "projects": [
+      {
+        "projectName": "E-commerce Platform",
+        "projectDescription": "Developed a full-stack e-commerce website using MEAN stack."
+      },
+      {
+        "projectName": "Task Management App",
+        "projectDescription": "Created a MERN-based task management application."
+      }
+    ],
+    "salary": 55952
+  },
+  {
+    "userId": 92,
+    "name": "Tushar Cherian",
+    "mobileNo": 467844552,
+    "isMarried": true,
+    "age": 73,
+    "skills": [
+      "Angular",
+      "Spring Boot",
+      "Node.js",
+      "MEAN"
+    ],
+    "address": {
+      "city": "Chandrapur",
+      "state": "Odisha",
+      "pincode": 778236,
+      "street": "H.No. 862\nWarrior"
+    },
+    "dob": "1990-02-02T00:00:00.000Z",
+    "projects": [
+      {
+        "projectName": "E-commerce Platform",
+        "projectDescription": "Developed a full-stack e-commerce website using MEAN stack."
+      },
+      {
+        "projectName": "Task Management App",
+        "projectDescription": "Created a MERN-based task management application."
+      }
+    ],
+    "salary": 119879
+  },
+  {
+    "userId": 93,
+    "name": "Mohanlal Guha",
+    "mobileNo": 9221009628,
+    "isMarried": true,
+    "age": 91,
+    "skills": [
+      "SQL",
+      "JAVA FSD",
+      "React",
+      "MongoDB"
+    ],
+    "address": {
+      "city": "Malda",
+      "state": "Chhattisgarh",
+      "pincode": 633005,
+      "street": "H.No. 02, Chopra Nagar"
+    },
+    "dob": "1996-11-23T00:00:00.000Z",
+    "projects": [
+      {
+        "projectName": "E-commerce Platform",
+        "projectDescription": "Developed a full-stack e-commerce website using MEAN stack."
+      },
+      {
+        "projectName": "Task Management App",
+        "projectDescription": "Created a MERN-based task management application."
+      }
+    ],
+    "salary": 119422
+  },
+  {
+    "userId": 94,
+    "name": "Reyansh Lall",
+    "mobileNo": 3798993388,
+    "isMarried": false,
+    "age": 90,
+    "skills": [
+      "React",
+      "SQL",
+      "MongoDB"
+    ],
+    "address": {
+      "city": "Kollam",
+      "state": "Odisha",
+      "pincode": 252033,
+      "street": "42/791, Khatri Zila"
+    },
+    "dob": "1994-02-11T00:00:00.000Z",
+    "projects": [
+      {
+        "projectName": "E-commerce Platform",
+        "projectDescription": "Developed a full-stack e-commerce website using MEAN stack."
+      },
+      {
+        "projectName": "Task Management App",
+        "projectDescription": "Created a MERN-based task management application."
+      }
+    ],
+    "salary": 52583
+  },
+  {
+    "userId": 95,
+    "name": "Divit Singhal",
+    "mobileNo": 6027152419,
+    "isMarried": true,
+    "age": 49,
+    "skills": [
+      "Node.js",
+      "Spring Boot",
+      "MEAN",
+      "MERN"
+    ],
+    "address": {
+      "city": "Thiruvananthapuram",
+      "state": "Punjab",
+      "pincode": 639836,
+      "street": "56/964, Deep Marg"
+    },
+    "dob": "1994-07-26T00:00:00.000Z",
+    "projects": [
+      {
+        "projectName": "E-commerce Platform",
+        "projectDescription": "Developed a full-stack e-commerce website using MEAN stack."
+      },
+      {
+        "projectName": "Task Management App",
+        "projectDescription": "Created a MERN-based task management application."
+      }
+    ],
+    "salary": 48759
+  },
+  {
+    "userId": 96,
+    "name": "Vritika Sahota",
+    "mobileNo": 2050585918,
+    "isMarried": false,
+    "age": 17,
+    "skills": [
+      "Angular",
+      "Spring Boot",
+      "JAVA FSD",
+      "MongoDB",
+      "SQL"
+    ],
+    "address": {
+      "city": "Saharsa",
+      "state": "Arunachal Pradesh",
+      "pincode": 362484,
+      "street": "70/20, Balay"
+    },
+    "dob": "1993-12-16T00:00:00.000Z",
+    "projects": [
+      {
+        "projectName": "E-commerce Platform",
+        "projectDescription": "Developed a full-stack e-commerce website using MEAN stack."
+      },
+      {
+        "projectName": "Task Management App",
+        "projectDescription": "Created a MERN-based task management application."
+      }
+    ],
+    "salary": 31967
+  },
+  {
+    "userId": 97,
+    "name": "Mannat Mannan",
+    "mobileNo": 8071420611,
+    "isMarried": false,
+    "age": 24,
+    "skills": [
+      "SQL",
+      "JAVA FSD",
+      "MongoDB"
+    ],
+    "address": {
+      "city": "Bidar",
+      "state": "Maharashtra",
+      "pincode": 479144,
+      "street": "H.No. 397\nRamakrishnan Nagar"
+    },
+    "dob": "1990-02-15T00:00:00.000Z",
+    "projects": [
+      {
+        "projectName": "E-commerce Platform",
+        "projectDescription": "Developed a full-stack e-commerce website using MEAN stack."
+      },
+      {
+        "projectName": "Task Management App",
+        "projectDescription": "Created a MERN-based task management application."
+      }
+    ],
+    "salary": 52754
+  },
+  {
+    "userId": 98,
+    "name": "Jayesh Ram",
+    "mobileNo": 5527575861,
+    "isMarried": true,
+    "age": 74,
+    "skills": [
+      "Node.js",
+      "MEAN",
+      "JAVA FSD"
+    ],
+    "address": {
+      "city": "Saharsa",
+      "state": "West Bengal",
+      "pincode": 448979,
+      "street": "H.No. 815\nDada"
+    },
+    "dob": "1995-05-31T00:00:00.000Z",
+    "projects": [
+      {
+        "projectName": "E-commerce Platform",
+        "projectDescription": "Developed a full-stack e-commerce website using MEAN stack."
+      },
+      {
+        "projectName": "Task Management App",
+        "projectDescription": "Created a MERN-based task management application."
+      }
+    ],
+    "salary": 56732
+  },
+  {
+    "userId": 99,
+    "name": "Damini Doshi",
+    "mobileNo": 7788845750,
+    "isMarried": false,
+    "age": 47,
+    "skills": [
+      "JAVA FSD",
+      "Node.js",
+      "SQL",
+      "Angular",
+      "MongoDB"
+    ],
+    "address": {
+      "city": "Chapra",
+      "state": "Uttarakhand",
+      "pincode": 241508,
+      "street": "67/24, Bhatt Ganj"
+    },
+    "dob": "2001-09-20T00:00:00.000Z",
+    "projects": [
+      {
+        "projectName": "E-commerce Platform",
+        "projectDescription": "Developed a full-stack e-commerce website using MEAN stack."
+      },
+      {
+        "projectName": "Task Management App",
+        "projectDescription": "Created a MERN-based task management application."
+      }
+    ],
+    "salary": 94129
+  },
+  {
+    "userId": 100,
+    "name": "Aman Tiwari",
+    "mobileNo": 8448179216,
+    "isMarried": false,
+    "age": null,
+    "skills": ["MEAN", "MERN", "JAVA FSD", "etc"],
+    "address": {
+        "city": "Noida",
+        "state": "UP",
+        "pincode": 201301,
+        "street": "sectoro 62 noida "
+    },
+    "dob": "1999-04-22T00:00:00.000Z",
+    "projects": [
+        {
+            "projectName": "E-commerce Platform",
+            "projectDescription": "Developed a full-stack e-commerce website using MEAN stack."
+        },
+        {
+            "projectName": "Task Management App",
+            "projectDescription": "Created a MERN-based task management application."
+        }
+    ],
+    "salary": 85000
+},
+{
+    "userId": 101,
+    "name": "Ravi Sharma",
+    "mobileNo": 9876543210,
+    "isMarried": true,
+    "age": 30,
+    "skills": ["Java", "Spring Boot", "Hibernate"],
+    "address": {
+        "city": "Delhi",
+        "state": "Delhi",
+        "pincode": 110001,
+        "street": "Connaught Place"
+    },
+    "dob": "1994-06-15T00:00:00.000Z",
+    "projects": [
+        {
+            "projectName": "Banking Application Backend",
+            "projectDescription": "Built REST APIs using Spring Boot for a core banking system."
+        },
+        {
+            "projectName": "Inventory Management System",
+            "projectDescription": "Developed an inventory system using Java and Hibernate."
+        }
+    ],
+    "salary": 95000
+},
+{
+    "userId": 102,
+    "name": "Neha Verma",
+    "mobileNo": 9123456789,
+    "isMarried": false,
+    "age": 25,
+    "skills": ["React", "Node.js", "MongoDB"],
+    "address": {
+        "city": "Mumbai",
+        "state": "MH",
+        "pincode": 400001,
+        "street": "Andheri West"
+    },
+    "dob": "1999-02-20T00:00:00.000Z",
+    "projects": [
+        {
+            "projectName": "Social Media Dashboard",
+            "projectDescription": "Created a dynamic dashboard using React and Node.js."
+        },
+        {
+            "projectName": "Real-time Chat Application",
+            "projectDescription": "Developed a chat app with MongoDB for data storage."
+        }
+    ],
+    "salary": 82000
+},
+{
+    "userId": 103,
+    "name": "Rahul Mehta",
+    "mobileNo": 9988776655,
+    "isMarried": true,
+    "age": 28,
+    "skills": ["Python", "Django", "Flask"],
+    "address": {
+        "city": "Bangalore",
+        "state": "KA",
+        "pincode": 560001,
+        "street": "MG Road"
+    },
+    "dob": "1996-08-10T00:00:00.000Z",
+    "projects": [
+        {
+            "projectName": "Blog Platform",
+            "projectDescription": "Built a feature-rich blog site using Django."
+        },
+        {
+            "projectName": "API Service",
+            "projectDescription": "Developed a lightweight API using Flask."
+        }
+    ],
+    "salary": 90000
+},
+{
+    "userId": 104,
+    "name": "Swati Singh",
+    "mobileNo": 9345678901,
+    "isMarried": false,
+    "age": 23,
+    "skills": ["Angular", "TypeScript", "RxJS"],
+    "address": {
+        "city": "Lucknow",
+        "state": "UP",
+        "pincode": 226001,
+        "street": "Hazratganj"
+    },
+    "dob": "2001-11-02T00:00:00.000Z",
+    "projects": [
+        {
+            "projectName": "Admin Panel UI",
+            "projectDescription": "Developed a responsive admin panel using Angular and TypeScript."
+        },
+        {
+            "projectName": "Data Visualization Tool",
+            "projectDescription": "Created a tool leveraging RxJS for reactive data streams."
+        }
+    ],
+    "salary": 75000
+},
+{
+    "userId": 105,
+    "name": "Ankit Raj",
+    "mobileNo": 9192939495,
+    "isMarried": false,
+    "age": 27,
+    "skills": ["Java", "Spring", "REST APIs"],
+    "address": {
+        "city": "Pune",
+        "state": "MH",
+        "pincode": 411001,
+        "street": "FC Road"
+    },
+    "dob": "1997-01-12T00:00:00.000Z",
+    "projects": [
+        {
+            "projectName": "Microservice Architecture",
+            "projectDescription": "Designed and implemented microservices using Java and Spring."
+        },
+        {
+            "projectName": "Public API Development",
+            "projectDescription": "Built secure and scalable REST APIs for external consumption."
+        }
+    ],
+    "salary": 87000
+},
+{
+    "userId": 106,
+    "name": "Pooja Yadav",
+    "mobileNo": 9654321000,
+    "isMarried": true,
+    "age": 29,
+    "skills": ["PHP", "Laravel", "MySQL"],
+    "address": {
+        "city": "Gurgaon",
+        "state": "HR",
+        "pincode": 122001,
+        "street": "Cyber City"
+    },
+    "dob": "1995-09-07T00:00:00.000Z",
+    "projects": [
+        {
+            "projectName": "Content Management System",
+            "projectDescription": "Developed a CMS using PHP and Laravel framework."
+        },
+        {
+            "projectName": "Online Store Backend",
+            "projectDescription": "Built the backend logic and database schema using MySQL."
+        }
+    ],
+    "salary": 92000
+},
+{
+    "userId": 107,
+    "name": "Karan Batra",
+    "mobileNo": 9111223344,
+    "isMarried": false,
+    "age": 24,
+    "skills": ["Node.js", "Express", "MongoDB"],
+    "address": {
+        "city": "Hyderabad",
+        "state": "TS",
+        "pincode": 500001,
+        "street": "Banjara Hills"
+    },
+    "dob": "2000-04-04T00:00:00.000Z",
+    "projects": [
+        {
+            "projectName": "Real-time Analytics Dashboard",
+            "projectDescription": "Created a dashboard using Node.js and Express."
+        },
+        {
+            "projectName": "User Authentication Service",
+            "projectDescription": "Implemented authentication using MongoDB for data storage."
+        }
+    ],
+    "salary": 78000
+},
+{
+    "userId": 108,
+    "name": "Simran Kaur",
+    "mobileNo": 9090909090,
+    "isMarried": false,
+    "age": 26,
+    "skills": ["Vue.js", "Nuxt.js", "Firebase"],
+    "address": {
+        "city": "Chandigarh",
+        "state": "CH",
+        "pincode": 160036,
+        "street": "Sector 17"
+    },
+    "dob": "1998-03-28T00:00:00.000Z",
+    "projects": [
+        {
+            "projectName": "Single Page Application (SPA)",
+            "projectDescription": "Developed an interactive SPA using Vue.js."
+        },
+        {
+            "projectName": "Server-Side Rendered App",
+            "projectDescription": "Built an SSR application with Nuxt.js and Firebase backend."
+        }
+    ],
+    "salary": 83000
+},
+{
+    "userId": 109,
+    "name": "Deepak Chauhan",
+    "mobileNo": 9345612789,
+    "isMarried": true,
+    "age": 35,
+    "skills": ["DevOps", "AWS", "Docker", "Kubernetes"],
+    "address": {
+        "city": "Chennai",
+        "state": "TN",
+        "pincode": 600001,
+        "street": "T Nagar"
+    },
+    "dob": "1989-12-05T00:00:00.000Z",
+    "projects": [
+        {
+            "projectName": "CI/CD Pipeline Implementation",
+            "projectDescription": "Set up automated build and deployment pipelines using Docker and AWS."
+        },
+        {
+            "projectName": "Infrastructure Orchestration",
+            "projectDescription": "Managed containerized applications using Kubernetes."
+        }
+    ],
+    "salary": 110000
+},
+{
+    "userId": 110,
+    "name": "Megha Rathi",
+    "mobileNo": 9876012345,
+    "isMarried": false,
+    "age": 22,
+    "skills": ["HTML", "CSS", "JavaScript"],
+    "address": {
+        "city": "Jaipur",
+        "state": "RJ",
+        "pincode": 302001,
+        "street": "MI Road"
+    },
+    "dob": "2002-05-25T00:00:00.000Z",
+    "projects": [
+        {
+            "projectName": "Portfolio Website",
+            "projectDescription": "Designed and developed a personal portfolio using HTML, CSS, and JS."
+        },
+        {
+            "projectName": "Landing Page Optimization",
+            "projectDescription": "Improved user experience on landing pages with front-end techniques."
+        }
+    ],
+    "salary": 65000
+},
+{
+    "userId": 111,
+    "name": "Aditya Nair",
+    "mobileNo": 9099988776,
+    "isMarried": true,
+    "age": 31,
+    "skills": ["React", "Redux", "Next.js"],
+    "address": {
+        "city": "Kochi",
+        "state": "KL",
+        "pincode": 682001,
+        "street": "MG Road"
+    },
+    "dob": "1993-06-30T00:00:00.000Z",
+    "projects": [
+        {
+            "projectName": "Complex State Management App",
+            "projectDescription": "Built an application using React and Redux for state management."
+        },
+        {
+            "projectName": "Server-Side Rendering with Next.js",
+            "projectDescription": "Developed a high-performance web application using Next.js."
+        }
+    ],
+    "salary": 96000
+},
+{
+    "userId": 112,
+    "name": "Divya Mishra",
+    "mobileNo": 9001122334,
+    "isMarried": false,
+    "age": 28,
+    "skills": ["Data Science", "Pandas", "NumPy"],
+    "address": {
+        "city": "Indore",
+        "state": "MP",
+        "pincode": 452001,
+        "street": "Palasia"
+    },
+    "dob": "1996-10-17T00:00:00.000Z",
+    "projects": [
+        {
+            "projectName": "Data Analysis Pipeline",
+            "projectDescription": "Created data processing and analysis pipelines using Pandas and NumPy."
+        },
+        {
+            "projectName": "Predictive Modeling",
+            "projectDescription": "Developed predictive models as part of a data science initiative."
+        }
+    ],
+    "salary": 91000
+},
+{
+    "userId": 113,
+    "name": "Nikhil Anand",
+    "mobileNo": 9321987654,
+    "isMarried": true,
+    "age": 34,
+    "skills": ["C#", ".NET", "Azure"],
+    "address": {
+        "city": "Bhopal",
+        "state": "MP",
+        "pincode": 462001,
+        "street": "New Market"
+    },
+    "dob": "1990-08-08T00:00:00.000Z",
+    "projects": [
+        {
+            "projectName": "Enterprise Web Application",
+            "projectDescription": "Developed a large-scale web application using C# and .NET framework."
+        },
+        {
+            "projectName": "Cloud Migration to Azure",
+            "projectDescription": "Migrated legacy applications to the Azure cloud platform."
+        }
+    ],
+    "salary": 102000
+},
+{
+    "userId": 114,
+    "name": "Ritika Malhotra",
+    "mobileNo": 9887766554,
+    "isMarried": false,
+    "age": 26,
+    "skills": ["Flutter", "Dart", "Firebase"],
+    "address": {
+        "city": "Surat",
+        "state": "GJ",
+        "pincode": 395003,
+        "street": "Ring Road"
+    },
+    "dob": "1998-07-21T00:00:00.000Z",
+    "projects": [
+        {
+            "projectName": "Cross-Platform Mobile App",
+            "projectDescription": "Built a mobile application for iOS and Android using Flutter and Dart."
+        },
+        {
+            "projectName": "Real-time Database Integration",
+            "projectDescription": "Integrated Firebase Realtime Database for live data synchronization."
+        }
+    ],
+    "salary": 84000
+},
+{
+    "userId": 115,
+    "name": "Arjun Deshmukh",
+    "mobileNo": 9445566778,
+    "isMarried": true,
+    "age": 33,
+    "skills": ["Android", "Java", "Kotlin"],
+    "address": {
+        "city": "Nagpur",
+        "state": "MH",
+        "pincode": 440001,
+        "street": "Dharampeth"
+    },
+    "dob": "1991-03-14T00:00:00.000Z",
+    "projects": [
+        {
+            "projectName": "Native Android Application",
+            "projectDescription": "Developed a native Android app using Java and Kotlin."
+        },
+        {
+            "projectName": "App Performance Optimization",
+            "projectDescription": "Improved the performance and responsiveness of an existing Android app."
+        }
+    ],
+    "salary": 97000
+},
+{
+    "userId": 116,
+    "name": "Tanvi Kulkarni",
+    "mobileNo": 9011223344,
+    "isMarried": false,
+    "age": 27,
+    "skills": ["Swift", "iOS", "Xcode"],
+    "address": {
+        "city": "Thane",
+        "state": "MH",
+        "pincode": 400601,
+        "street": "Ghodbunder Road"
+    },
+    "dob": "1997-09-11T00:00:00.000Z",
+    "projects": [
+        {
+            "projectName": "iOS Social Networking App",
+            "projectDescription": "Built an iOS application using Swift and Xcode."
+        },
+        {
+            "projectName": "UI Kit Integration",
+            "projectDescription": "Integrated various UI Kits to enhance the app's user interface."
+        }
+    ],
+    "salary": 88000
+},
+{
+    "userId": 117,
+    "name": "Vikram Rana",
+    "mobileNo": 9122334455,
+    "isMarried": false,
+    "age": 25,
+    "skills": ["Golang", "Microservices", "gRPC"],
+    "address": {
+        "city": "Dehradun",
+        "state": "UK",
+        "pincode": 248001,
+        "street": "Rajpur Road"
+    },
+    "dob": "1999-01-01T00:00:00.000Z",
+    "projects": [
+        {
+            "projectName": "High-Performance Backend Service",
+            "projectDescription": "Developed backend services using Golang for performance."
+        },
+        {
+            "projectName": "Inter-Service Communication",
+            "projectDescription": "Implemented communication between microservices using gRPC."
+        }
+    ],
+    "salary": 86000
+},
+{
+    "userId": 118,
+    "name": "Priya Sinha",
+    "mobileNo": 9364523412,
+    "isMarried": true,
+    "age": 32,
+    "skills": ["SQL", "PL/SQL", "Oracle"],
+    "address": {
+        "city": "Patna",
+        "state": "BR",
+        "pincode": 800001,
+        "street": "Boring Road"
+    },
+    "dob": "1992-02-22T00:00:00.000Z",
+    "projects": [
+        {
+            "projectName": "Database Schema Design",
+            "projectDescription": "Designed and implemented database schemas using SQL on Oracle."
+        },
+        {
+            "projectName": "Stored Procedure Development",
+            "projectDescription": "Wrote complex stored procedures using PL/SQL for business logic."
+        }
+    ],
+    "salary": 94000
+},
+{
+    "userId": 119,
+    "name": "Harshita Gupta",
+    "mobileNo": 9234567890,
+    "isMarried": false,
+    "age": 24,
+    "skills": ["UI/UX", "Figma", "Adobe XD"],
+    "address": {
+        "city": "Noida",
+        "state": "UP",
+        "pincode": 201301,
+        "street": "Sector 63"
+    },
+    "dob": "2000-10-10T00:00:00.000Z",
+    "projects": [
+        {
+            "projectName": "Mobile App User Interface Design",
+            "projectDescription": "Designed intuitive UI/UX for a mobile app using Figma."
+        },
+        {
+            "projectName": "Website Redesign",
+            "projectDescription": "Created prototypes and wireframes for a website redesign using Adobe XD."
+        }
+    ],
+    "salary": 72000
+},
+{
+    "userId": 120,
+    "name": "Saurabh Joshi",
+    "mobileNo": 9873214560,
+    "isMarried": true,
+    "age": 36,
+    "skills": ["Java", "Spring Boot", "Kafka"],
+    "address": {
+        "city": "Udaipur",
+        "state": "RJ",
+        "pincode": 313001,
+        "street": "Fateh Sagar Lake"
+    },
+    "dob": "1988-04-05T00:00:00.000Z",
+    "projects": [
+        {
+            "projectName": "Event-Driven Architecture",
+            "projectDescription": "Implemented an event-driven system using Java, Spring Boot, and Kafka."
+        },
+        {
+            "projectName": "Real-time Data Streaming",
+            "projectDescription": "Developed data streaming solutions using Kafka."
+        }
+    ],
+    "salary": 105000
+}
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "id": 100,
+        "salary":7.9,
+        "name": "Aman",
+        "skills":["MEAN","MERN","JAVA FSD","etc"],
+        "age":null,
+        "address":{
+            "pincode":122001,
+            "state":"HR",
+            "country":"india"
+        }
+    },
+    {
+        "id": 100,
+        "name": "Aman"
+    },
+    {
+        "id": 100,
+        "name": "Aman"
+    }
+]
