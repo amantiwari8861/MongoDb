@@ -1,4 +1,4 @@
-# Getting Started with Mongo DB
+# Getting started with MongoDB
 
 Database -> organized collection of data.
 
@@ -55,31 +55,71 @@ eg. we have to store the ecommerce products info which DBMS we should choose ?
   }
 }
 ```
+- we can install mongo db in 2 ways
 
-- show all databases  `show dbs`
-- create collection `db.createCollection("collectionname")`
-- create and insert both `db.users.insertOne({"data":"value"})`
-- create and insert both `db.users.insertMany([{"data":"value"},{"data2":"value2"}])`
-- get name projection wit id `db.users.find({},{"name":1})`
-- get all users data `db.users.find()`
-- get name projection without id `db.users.find({},{"name":1,"_id":0})`
-- get a nested field `db.users.find({},{"address.city":1,"_id":0})`
+1. offline(locally) -> MongoDb Server
+2. online(cloud) -> Mongo Atlas
+
+## Set Up mongo DB
+
+1. using compass
+2. using mongosh
+3. using vs code
+4. using mongosh in compass
+
+- to see existing datbases `show dbs;`
+- to see existing datbases in vscode `db.getMongo().getDBs();`
+
+- to create a new database `use dbname;`
+- to create a new database in vscode `use("dbname");`
+
+### Note : database will not be visible until u don't make a collection in it
+
+- to create a collection `db.createCollection("collectionname");`
+- use `cls` to clear the terminal in mongocompass or mongosh
+
+- to make a collection type this
+
+```javascript
+db.products.insertOne({
+  _id: 101,
+  name: "Laptop",
+  price: 60000,
+});
+```
+
+### Note : this will automatically creates a database
+
+- to see all collections `show collections;`
+- to see all the documents in the collection `db.collectionname.find();`
+
+every method must be in lowerCamelCase (except first word every word's first letter is Capital)
 
 
-
-## **4. CRUD Operations**
-
-### **Insert Documents**
-
-```js
-db.users.insertOne({ name: "John", age: 30, city: "New York" });
-db.users.insertMany([
-  { name: "Alice", age: 25, city: "London" },
-  { name: "Bob", age: 28, city: "Paris" }
+```javascript
+db.products.insertMany([
+    {
+        "prodId":201,
+        "prodName":"Smart Phone",
+        "price":50000,
+        "height":5.6,
+        "RAM":8,
+    },
+    {
+        "prodId":202,
+        "prodName":"Remote",
+        "price":500,
+        "height":3.6,
+        "noOfBattery":2
+    }
 ]);
 ```
 
 ### **Read Documents**
+
+- get name projection wit id `db.users.find({},{"name":1})`
+- get name projection without id `db.users.find({},{"name":1,"_id":0})`
+- get a nested field `db.users.find({},{"address.city":1,"_id":0})`
 
 ```js
 db.users.find(); // Retrieve all documents
