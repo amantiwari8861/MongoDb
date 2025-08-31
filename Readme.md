@@ -5,17 +5,20 @@ Database -> organized collection of data.
 ## Different types of Data
 
 - Structured data -> stores in -> Table format
-- unstructured data -> stored in -> JSON format
+- Semi-Structured data -> stores in -> JSON,CSV format
+- unstructured data -> stored in -> Raw Binary eg. images,audio,documents eyc.
 
-SQL Database -> eg. MySQL,Oracle DB,postgreSQL,etc.
-No-SQL Database -> eg. MongoDB
+SQL Database -> eg. MySQL,Oracle DB,postgreSQL,MS SQL Server etc.
+
+NoSQL Database -> eg. MongoDB,Redis,Cassandra,HBase,neo4j etc
 
 ### Note : Most RDBMS can store unstructured data but they are not too efficient
 
 SQL -> Schema(structure) -> Fixed
-No-SQL -> Schema -> Dynamic
 
-eg. we have to store the ecommerce products info which DBMS we should choose ?
+No-SQL -> Schema -> Dynamic(flexible)
+
+eg. let we have to store the ecommerce products info in database which DBMS should we choose ?
 
 ### we will choose mongo DB
 
@@ -37,6 +40,10 @@ eg. we have to store the ecommerce products info which DBMS we should choose ?
 ```
 
 ### Data Types
+
+- MongoDB stores data in BSON Format internally,BSON short for Bin­ary JSON, is a bin­ary-en­coded seri­al­iz­a­tion of JSON-like doc­u­ments. Like JSON, BSON sup­ports the em­bed­ding of doc­u­ments and ar­rays with­in oth­er doc­u­ments and ar­rays. BSON also con­tains ex­ten­sions that al­low rep­res­ent­a­tion of data types that are not part of the JSON spec. For ex­ample, BSON has a Date type and a BinData type.
+
+- for more info check [BSON Docs](https://www.mongodb.com/docs/manual/reference/bson-types/)
 
 ```json
 {
