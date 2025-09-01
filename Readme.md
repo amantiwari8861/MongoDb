@@ -6,7 +6,7 @@ Database -> organized collection of data.
 
 - Structured data -> stores in -> Table format
 - Semi-Structured data -> stores in -> JSON,CSV format
-- unstructured data -> stored in -> Raw Binary eg. images,audio,documents eyc.
+- unstructured data -> stored in -> Raw Binary eg. images,audio,documents etc.
 
 SQL Database -> eg. MySQL,Oracle DB,postgreSQL,MS SQL Server etc.
 
