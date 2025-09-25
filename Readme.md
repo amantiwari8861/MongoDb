@@ -303,6 +303,20 @@ db.orders.aggregate([
 🔹 Groups orders by category and **calculates total sales per category**.
 
 ---
+// ---------------------------
+// 1. Arithmetic Expressions
+// ---------------------------
+
+// ➤ Add Bonus to Salary
+{ $add: ["$salary", 5000] }
+
+// ➤ Calculate Remaining Amount After Tax
+{ $subtract: ["$salary", 8000] }
+
+// ➤ Multiply Salary by 1.1 (10% hike)
+{ $multiply: ["$salary", 1.1] }
+
+---
 
 ## **✅ Summary**
 MongoDB operators make queries, updates, and aggregations **more powerful and flexible**.
