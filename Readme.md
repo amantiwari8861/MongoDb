@@ -62,6 +62,33 @@ eg. let we have to store the ecommerce products info in database which DBMS shou
   }
 }
 ```
+## JSON Vs BSON
+
+| Aspect               | JSON (JavaScript Object Notation)                      | BSON (Binary JSON)                                                           |
+| -------------------- | ------------------------------------------------------ | ---------------------------------------------------------------------------- |
+| Full Form            | JavaScript Object Notation                             | Binary JSON                                                                  |
+| Data Format          | Text-based                                             | Binary-encoded                                                               |
+| Human Readable       | Yes                                                    | No                                                                           |
+| Machine Readable     | Yes                                                    | Yes                                                                          |
+| Storage Size         | Larger (text overhead)                                 | Smaller (binary + length prefixes)                                           |
+| Parsing Speed        | Slower                                                 | Faster                                                                       |
+| Serialization        | String-based                                           | Binary-based                                                                 |
+| Data Types           | Limited (string, number, boolean, array, object, null) | Rich (int32, int64, double, decimal128, date, binary, ObjectId, regex, etc.) |
+| Schema Support       | Schema-less                                            | Schema-less                                                                  |
+| Type Preservation    | Weak (numbers ambiguous)                               | Strong (explicit types)                                                      |
+| Encoding Overhead    | High                                                   | Low                                                                          |
+| Network Transfer     | Slower                                                 | Faster                                                                       |
+| Random Field Access  | Inefficient                                            | Efficient (length-indexed)                                                   |
+| Indexing Support     | External systems                                       | Native (e.g., MongoDB)                                                       |
+| Compression Friendly | High                                                   | Moderate                                                                     |
+| Primary Usage        | APIs, config files, logs                               | Database storage (MongoDB)                                                   |
+| Standardization      | Open standard (RFC 8259)                               | MongoDB-specific                                                             |
+| Security Risks       | Text-based (easier injection)                          | Binary (harder to tamper)                                                    |
+| Versioning           | Easy to diff                                           | Hard to diff                                                                 |
+| Typical Example      | REST API payload                                       | MongoDB document storage                                                     |
+
+
+
 
 ## **1. Introduction to MongoDB**
 
