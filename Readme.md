@@ -62,6 +62,7 @@ eg. let we have to store the ecommerce products info in database which DBMS shou
   }
 }
 ```
+
 ## JSON Vs BSON
 
 | Aspect               | JSON (JavaScript Object Notation)                      | BSON (Binary JSON)                                                           |
@@ -87,8 +88,23 @@ eg. let we have to store the ecommerce products info in database which DBMS shou
 | Versioning           | Easy to diff                                           | Hard to diff                                                                 |
 | Typical Example      | REST API payload                                       | MongoDB document storage                                                     |
 
-
-
+### MongoDb Syllabus
+  
+  1. MongoDB intro
+  2. Installation
+  3. Create,Read,Update,Delete
+      - projection
+      - limit
+      - sorting
+  4. Data Types in BSON
+  5. Operators in MongoDB
+      - comparison operator
+      - logical operator
+      - Element & Evaluation Operators
+      - Array Operators
+  6. Referencing and Embedding
+  7. indexes
+  8. Expressions in Aggregation Framework
 
 ## **1. Introduction to MongoDB**
 
@@ -135,7 +151,6 @@ db.products.insertOne({
 - to see all the documents in the collection `db.collectionname.find();`
 
 every method must be in lowerCamelCase (except first word every word's first letter is Capital)
-
 
 ```javascript
 db.products.insertMany([
@@ -212,8 +227,8 @@ db.users.find({ age: { $gte: 18, $lte: 30 } })
 
 ---
 
-
 ## **2️⃣ Logical Operators**
+
 Used to combine multiple query conditions.
 
 | Operator | Description                                               | Example                                                  |
@@ -224,6 +239,7 @@ Used to combine multiple query conditions.
 | `$not`   | Matches documents **not matching** a condition            | `{ age: { $not: { $gt: 30 } } }`                         |
 
 ✅ **Example Query:**
+
 ```js
 db.users.find({
   $or: [
@@ -232,11 +248,13 @@ db.users.find({
   ]
 })
 ```
+
 🔹 Finds users **who live in London or are younger than 25**.
 
 ---
 
 ## **3️⃣ Element Operators**
+
 Used to check if a field exists or has a specific type.
 
 | Operator  | Description                                          | Example                        |
@@ -245,14 +263,17 @@ Used to check if a field exists or has a specific type.
 | `$type`   | Matches documents where a field is of a certain type | `{ age: { $type: "number" } }` |
 
 ✅ **Example Query:**
+
 ```js
 db.users.find({ phone: { $exists: false } })
 ```
+
 🔹 Finds users **who do not have a phone number**.
 
 ---
 
 ## **4️⃣ Evaluation Operators**
+
 Used for special conditions like regex or JavaScript functions.
 
 | Operator | Description                                                      | Example                                               |
@@ -264,14 +285,17 @@ Used for special conditions like regex or JavaScript functions.
 | `$where` | Matches documents using a JavaScript function                    | `{ $where: "this.age > 25" }`                         |
 
 ✅ **Example Query:**
+
 ```js
 db.products.find({ name: { $regex: "phone", $options: "i" } })
 ```
+
 🔹 Finds products **containing the word "phone" (case-insensitive)**.
 
 ---
 
 ## **5️⃣ Array Operators**
+
 Used to query and modify array fields.
 
 | Operator     | Description                                                                    | Example                                            |
@@ -281,14 +305,17 @@ Used to query and modify array fields.
 | `$elemMatch` | Matches documents where at least one array element matches multiple conditions | `{ scores: { $elemMatch: { $gt: 80, $lt: 90 } } }` |
 
 ✅ **Example Query:**
+
 ```js
 db.users.find({ skills: { $all: ["JavaScript", "MongoDB"] } })
 ```
+
 🔹 Finds users **who have both JavaScript and MongoDB skills**.
 
 ---
 
 ## **6️⃣ Update Operators**
+
 Used to modify documents.
 
 | Operator    | Description                             | Example                               |
@@ -303,14 +330,17 @@ Used to modify documents.
 | `$pull`     | Removes elements that match a condition | `{ $pull: { tags: "oldTag" } }`       |
 
 ✅ **Example Update Query:**
+
 ```js
 db.users.updateOne({ name: "Alice" }, { $set: { age: 28 } })
 ```
+
 🔹 Updates **Alice's age to 28**.
 
 ---
 
 ## **7️⃣ Aggregation Operators**
+
 Used inside the **Aggregation Framework** for data processing.
 
 | Operator | Description            | Example                                                          |
@@ -322,11 +352,13 @@ Used inside the **Aggregation Framework** for data processing.
 | `$count` | Counts documents       | `{ $count: "totalDocuments" }`                                   |
 
 ✅ **Example Aggregation Query:**
+
 ```js
 db.orders.aggregate([
   { $group: { _id: "$category", totalSales: { $sum: "$amount" } } }
 ])
 ```
+
 🔹 Groups orders by category and **calculates total sales per category**.
 
 ---
@@ -346,6 +378,7 @@ db.orders.aggregate([
 ---
 
 ## **✅ Summary**
+
 MongoDB operators make queries, updates, and aggregations **more powerful and flexible**.
 
 - **Comparison**: `$eq`, `$gt`, `$lt`
@@ -354,8 +387,6 @@ MongoDB operators make queries, updates, and aggregations **more powerful and fl
 - **Update**: `$set`, `$inc`, `$push`, `$pull`
 - **Aggregation**: `$sum`, `$avg`, `$count`
 - **Evaluation**: `$regex`, `$text`
-
-
 
 # MongoDB Aggregation Tutorial
 

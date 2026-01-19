@@ -104,38 +104,6 @@
 //             }
 //         ],
 //         "salary": 116588
-//     },
-//     {
-//         "userId": 3,
-//         "name": "Indrans Bora",
-//         "mobileNo": 8129863997,
-//         "isMarried": false,
-//         "age": 98,
-//         "skills": [
-//             "React",
-//             "MongoDB",
-//             "Angular",
-//             "Spring Boot",
-//             "SQL"
-//         ],
-//         "address": {
-//             "city": "Jabalpur",
-//             "state": "Meghalaya",
-//             "pincode": 547116,
-//             "street": "861, Randhawa Nagar"
-//         },
-//         "dob": "1995-10-08T00:00:00.000Z",
-//         "projects": [
-//             {
-//                 "projectName": "E-commerce Platform",
-//                 "projectDescription": "Developed a full-stack e-commerce website using MEAN stack."
-//             },
-//             {
-//                 "projectName": "Task Management App",
-//                 "projectDescription": "Created a MERN-based task management application."
-//             }
-//         ],
-//         "salary": 40230
 //     }
 // ]);
 
@@ -185,28 +153,6 @@
 
 // 34 + 1 + 2(null) + 83 = 120
 
-
-/*
-    MongoDb Syllabus
-
-    1. MongoDB intro
-    2. Installation
-    3. Create,Read,Update,Delete
-        - projection
-        - limit
-        - sorting
-    4. Data Types in BSON
-    5. Operators in MongoDB
-        - comparison operator
-        - logical operator
-        - Element & Evaluation Operators
-        - Array Operators
-
-    6. Referencing and Embedding
-    7. indexes
-    8. Expressions in Aggregation Framework
-
-*/
 
 
 // db.users.find().limit(2);
