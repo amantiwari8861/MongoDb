@@ -147,16 +147,65 @@ db.users.find({ name: "kush" });
 //   { $mul: { salary: 1.15 } },
 // );
 
-db.users.updateOne({ name: "kush" }, [
-  {
-    $set: {
-      salary: {
-        $round: [{ $multiply: ["$salary", 1.143535] }, 2],
+// db.users.updateOne({ name: "kush" }, [
+//   {
+//     $set: {
+//       salary: {
+//         $round: [{ $multiply: ["$salary", 1.143535] }, 2],
+//       },
+//     },
+//   },
+// ]);
+// db.users.find({ name: "kush" });
+
+// Aggregation,
+
+// db.users.updateOne({ name: "kush" }, { $set: { mobileNo: 122335434565 } }, { upsert: true });
+// db.users.updateOne({ name: "kush" }, { $rename: { mobileNo: "contactNo" } });
+// db.users.find({ name: "kush" });
+// db.users.updateOne(
+//   { userId: 1 },
+//   {
+// $pull: { skills: "MEAN" }
+// $push: { skills: "MERN" }
+// $addToSet: { skills: "MERN" },
+// $addToSet: { skills: "Python FSD" },
+// $push:{
+//   skills:{
+//     $each:["Python FSD","Django","Flask"]
+//   }
+// },
+// $pull: {
+//   skills: { $in: ["MEAN", "MERN"] },
+// },
+// $pop: { skills: -1 }, // first
+// $pop: { skills: 1 },  // last
+//   },
+// );
+// db.users.findOne({ userId: 1 });
+
+// Expression operator ($expr)
+
+// db.users.updateMany(
+//   {},
+//   {
+//     $set: { avgSalary: 90000 },
+//   },
+// );
+
+/* db.users
+  .find(
+    {
+      // $expr: { $gt: ["$salary", 90000] },
+      // $expr: { $lt: ["$salary", "$avgSalary"] },
+      $expr: {
+        $gt: [{ $multiply: ["$salary", 1.15] }, "$avgSalary"],
       },
     },
-  },
-]);
-db.users.find({ name: "kush" });
+    { name: 1, salary: 1, avgSalary: 1, _id: 0 },
+  )
+  .sort({ salary: 1 })
+  .toArray(); */
 
 /*
 Dilshad 20425
@@ -186,3 +235,74 @@ Himanshu 20331
 
 Annu yadav 20971
   */
+
+/*
+Why $expr Exists (Core Problem)
+❌ Without $expr (Not Possible)
+db.employees.find({
+  salary: { $gt: "$avgSalary" } // ❌ WRONG
+});
+
+
+MongoDB treats "$avgSalary" as a string.
+✅ With $expr
+db.employees.find({
+  $expr: { $gt: ["$salary", "$avgSalary"] }
+});
+
+✔ Field vs field comparison
+✔ Dynamic logic
+✔ Runtime evaluation
+
+db.orders.find({
+  $expr: {
+    $gt: [
+      { $multiply: ["$price", "$qty"] },
+      5000
+    ]
+  }
+});
+
+
+db.students.find({
+  $expr: {
+    $and: [
+      { $gte: ["$marks", 40] },
+      { $eq: ["$status", "REGULAR"] }
+    ]
+  }
+});
+
+
+db.collection.updateOne(
+  { _id: 1 },
+  // { $push: { tags: "mongodb" } }
+  {
+    $push: {
+      tags: {
+        $each: ["node", "react"]
+      }
+    }
+  }
+)
+
+
+db.users.updateOne(
+  { _id: 1 },
+  { 
+    $addToSet: { skills: "MongoDB" },
+    $addToSet: {
+      skills: {
+        $each: ["Java", "MongoDB"]
+      }
+    },
+    $pull: {
+      scores: { $lt: 40 }
+    },
+    $pop: { scores: 1 },   // last
+    $pop: { scores: -1 },  // first
+    
+    }
+    { tags: { $in: ["mongodb", "java"] } }
+)
+*/
