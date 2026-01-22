@@ -3,7 +3,7 @@ import json
 def detect_gender(name):
     name = name.split(" ")[0].lower()
     # print(name)
-    if name.endswith("a") or name.endswith("i")  or name in ["priya", "meena", "anita", "sona"]:
+    if name.endswith("a") or name.endswith("i"):
         return "Female"
     return "Male"
 

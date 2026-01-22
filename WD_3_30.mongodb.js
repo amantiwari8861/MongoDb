@@ -128,7 +128,7 @@ use("WD_3_30");
 //   { $set: { salary: 20086, age: 18 } },
 // );
 
-db.users.find({ name: "kush" });
+// db.users.find({ name: "kush" });
 
 // unset
 // db.users.updateOne(
@@ -206,6 +206,75 @@ db.users.find({ name: "kush" });
   )
   .sort({ salary: 1 })
   .toArray(); */
+
+// db.users.aggregate([
+//   {
+//     $match: {
+//       age: { $eq: 25 },
+//     },
+//   },
+//   {
+//     $project: {
+//       name: 1,
+//       age: 1,
+//       _id: 0,
+//     },
+//   },
+//   {
+//     $skip: 1,
+//   },
+//   {
+//     $sort:{
+//       name:-1
+//     }
+//   },
+//   {
+//     $limit: 1
+//   }
+// ]);
+
+// db.users.find();
+
+db.users.aggregate([
+  {
+    $match: {
+      gender:{$eq:"Female"}
+    }
+  },
+  {
+    $lookup: {
+      from: "orders",
+      localField: "userId",
+      foreignField: "userId",
+      as: "user_orders",
+    },
+  },
+
+
+
+  {
+    $project: {
+      _id: 0,
+      userId: 1,
+      name: 1,
+      gender:1,
+      // user_orders:1
+      "user_orders.orderAmount": 1,
+      "user_orders.orderDate": 1,
+    },
+  },
+  {
+    $sort: {
+      userId: 1,
+    },
+  },
+  // {
+  //   $skip: 16,
+  // },
+  {
+    $limit: 10,
+  },
+]);
 
 /*
 Dilshad 20425
