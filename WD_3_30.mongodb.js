@@ -235,73 +235,126 @@ use("WD_3_30");
 
 // db.users.find();
 
-db.users.aggregate([
-  {
-    $match: {
-      gender:{$eq:"Female"}
-    }
-  },
-  {
-    $lookup: {
-      from: "orders",
-      localField: "userId",
-      foreignField: "userId",
-      as: "user_orders",
-    },
-  },
+// db.users.updateOne({ userId: 28 }, { $set: { "address.city": "Jhansi" } });
 
+// db.users
+//   .aggregate([
+//     // {
+//     //   $match: {
+//     //     gender: { $eq: "Female" },
+//     //   },
+//     // },
+//     // {
+//     //   $lookup: {
+//     //     from: "orders",
+//     //     localField: "userId",
+//     //     foreignField: "userId",
+//     //     as: "user_orders",
+//     //   },
+//     // },
+//     {
+//       $group: {
+//         _id: "$address.state",
+//         total_users: { $sum: 1 },
+//         // user_info: { $push: "$$ROOT" },
+//         // user_ids: { $push: "$$ROOT.userId" },
+//         total_cities: { $addToSet: "$$ROOT.address.city" },
+//         avg_age: { $avg: "$age" },
+//         sum_salary: { $sum: "$salary" },
+//         min_salary: { $min: "$salary" },
+//         max_salary: { $max: "$salary" },
+//       },
+//     },
+//     {
+//       $addFields: {
+//         no_of_cities: { $size: "$total_cities" },
+//       },
+//     },
+//     {
+//       $project: {
+//         _id: 0,
+//         // userId: 1,
+//         // name: 1,
+//         // gender: 1,
+//         // user_orders:1
+//         // "user_orders.orderAmount": 1,
+//         // "user_orders.orderDate": 1,
+//         state: "$_id",
+//         total_users: 1,
+//         // user_info: 1,
+//         // user_ids: 1,
+//         total_cities: 1,
+//         no_of_cities: 1,
+//         avg_age: 1,
+//         sum_salary: 1,
+//         min_salary: 1,
+//         max_salary: 1,
+//       },
+//     },
+//     {
+//       $sort: {
+//         total_users: -1,
+//       },
+//     },
+//     // {
+//     //   $sort: {
+//     //     userId: 1,
+//     //   },
+//     // },
+//     // {
+//     //   $skip: 16,
+//     // },
+//     // {
+//     //   $limit: 10,
+//     // },
+//     { $count: "total_groups" },
+//   ])
+//   .toArray();
 
-
-  {
-    $project: {
-      _id: 0,
-      userId: 1,
-      name: 1,
-      gender:1,
-      // user_orders:1
-      "user_orders.orderAmount": 1,
-      "user_orders.orderDate": 1,
+db.users
+  .aggregate([
+    {
+      $group: {
+        _id: null,
+        states: { $addToSet: "$address.state" },
+      },
     },
-  },
-  {
-    $sort: {
-      userId: 1,
+    {
+      $project: {
+        states: 1,
+        total_states: { $size: "$states" },
+      },
     },
-  },
-  // {
-  //   $skip: 16,
-  // },
-  {
-    $limit: 10,
-  },
-]);
+  ])
+  .toArray();
 
 /*
 Dilshad 20425
 janifer 20577
 Harshit 20510
-sanjay 21591
-priyanka 19468
-anand 20929
-
-W/D Am MongoDb@3:30
 Aashish 21038
-divyanshi 18930
-umakant 21338
-kritika 17459
-dhruv 20643
 abhishek 21656
-yogesh 20516
+sanjay 21591
+divyanshi 18930
+priyanka 19468
+dhruv 20643
 kush 20086
-sunil 19855
 sunil 19359
--- online
-abhishek yadav 20720
-arnav 21309
 Nitesh 21291
 Mansi 21238
+
+W/D Am MongoDb@3:30
+anand dagar 20929
+umakant 21338
+kritika 17459
+-- online
+sunil 19855
+abhishek 21612
+yogesh 20516
+abhishek yadav 20720
 Himanshu 20331
 
+arnav 21309
 Annu yadav 20971
   */
 
